@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../tools/schema/lombardpress-schema.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestiones in De anima</title>
+        <author>John of Jandun</author>
+        <editor>Michael Stenskjær Christensen</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.1-dev">
+          <date when="2017-08-02">August 02, 2017</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Michael</publisher>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-sa/4.0/">Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)</ref></p>
+        </availability>
+        <date when="2017-08-02">August 02, 2017</date>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="V">
+            Venice 1480, Quaestiones super libros de anima Aristoteles (early
+            print, BNF)
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <variantEncoding method="parallel-segmentation" location="internal"/>
+      <schemaRef n="lbp-critical-1.0.0"
+                 url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/1.0/critical.rng">
+      </schemaRef>
+      <editorialDecl>
+        <p>
+          Encoding of this text has followed the recommendations of the
+          LombardPress 1.0.0 guidelines for a critical edition.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-08-02" status="draft" n="0.0.1-dev">
+          <p>Created file for the first time.</p>
+        </change>
+     </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la" type="critical">
+    <front>
+      <div xml:id="starts-on">
+        <pb n="273r" ed="#V"/><cb ed="#V" n="a"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="da-28-l3q30">
+        <head>Quaestio 31</head>
+        <p xml:id="da-28-l3q30-a2qehh">
+          <supplied>C</supplied>onsequenter potest quaeri utrum intellectus
+          possibilis semper intelligat intellectum agentem eadem intellectione
+          numero, et arguitur primo quod non, quia si ita esset, tunc anima
+          humana haberet operationem omnino sibi propriam quae non dependeret a
+          corpore nec tamquam a subiecto nec tamquam ab obiecto, quod videtur
+          impossibile secundum Aristotelem in prooemio huius, et in isto tertio.
+          Dicit enim in prooemio huius <quote>Si autem est hoc, scilicet
+          intelligere phantasia quidem aut non sine phantasia non contingit,
+          itaque neque hoc sine corpore esse</quote>. Et isto
+          <cb ed="#V" n="b"/>
+          in tertio dicit quod intelligentem quemcumque necesse est phantasma
+          aliquod speculari. Consequentia patet quia nihil quod est aeternum et
+          unum numero dependet ab aliquo corpore tamquam ab agente, nec aliquod
+          existente in corpore, et constat <unclear>etiam</unclear> quod illud
+          intelligere quo intellectus possibilis intelligeret agentem non esset
+          in corpore ut subiecto, sicut videtur; nullum enim intelligere est in
+          corpore, ut patet hoc; igitur et cetera.
+        </p>
+        <p xml:id="venice1480-da-28-l3q30-okw3ga">
+          Oppositum dicit Commentator super istam particulam <quote>Sed non
+          aliquando quidem intelligit aliquando vero non intelligit</quote>. Ibi
+          enim dicit Commentator quod cum intellectus fuerit acceptus
+          simpliciter et secundum quod, intelligit formas abstractas et
+          liberatas a materia, tunc non invenitur quandoque intelligens
+          quandoque non, sed invenitur in eadem forma; verbi gratia in modo per
+          quem intelligit intellectum agentem cuius proportio est ad ipsum, ut
+          diximus sicut lucis ad diaphanum.
+        </p>
+        <p xml:id="venice1480-da-28-l3q30-g0p887">
+          Ad quaestionem dico breviter primo quod intellectus possibilis natus
+          est intelligere intellectum agentem.
+        </p>
+        <p xml:id="venice1480-da-28-l3q30-qpxxf2">
+          Secundo quod intelligit ipsum semper eadem intellectione
+          in numero.
+        </p>
+        <p xml:id="venice1480-da-28-l3q30-110uuu">
+          Primum probo ratione commentatoris quam tangit hoc. Nam minus videtur
+          quod intellectus possibilis sit natus intelligere formas materiales
+          quam intellectum agentem, quia formae materiales non sunt de se
+          intellectae actu, sed potentiae sunt intellectae; fiunt autem
+          intellectae per intellectum agentem. Intellectus autem agens, cum sit
+          substantia immaterialis, actu ens est de se intellectus, et ideo
+          rationabile est, cum ipse intellectus possibilis sit natus perfici per
+          formas materiales et intelligere eas, ut sit natus perfici per
+          intellectum agentem et intelligere ipsum, et haec ratio similiter
+          <unclear>concludeat</unclear> quod ipse natus est intelligere alias
+          formas abstractas. Et ratio huius potest esse quia illud quod habet
+          naturale desiderium ad inferiorem et minus nobilem perfectionem
+          alicuius generis multo magis debet habere naturale desiderium ad
+          perfectionem altiorem, quia natura non consistit in
+          imperfectio. Constat autem quod perfectio per
+          formas immateriales longe nobilior est quam perfectio per formas
+          materiales.
+        </p>
+        <p xml:id="venice1480-da-28-l3q30-zmotr9">
+          Secundum ostenditur sic: Illud cui semper est coniuncta vel unita
+          intellectio alicuius intelligibilis eadem numero semper intelligit
+          illud intelligibile intellectione eadem numero – haec est omnino
+          manifesta; sed ipsi intellectui possibili semper est unita intellectio
+          intellectus agentis, quia ipse intellectus agens est suamet
+          intellectio sui ipsius secundum Aristotelem et Commentatorem hoc: In
+          ipso enim scientia est eadem rei scitae. Cum igitur intellectus agens
+          sit semper unitus intellectui possibili, sicut perfectio naturalis suo
+          perfectibili, ut patet ex praeostensis, sequitur quod semper est unita
+          intellectio intellectus agentis, et per consequens semper ipsum
+          intelligit.
+        </p>
+        <p xml:id="venice1480-da-28-l3q30-vlekvp">
+          Ex hoc autem videtur correlative posse concludi, quod ipse intellectus
+          possibilis per seipsum et per suam propriam substantiam non intelligit
+          intellectum agentem intellectione eadem numero alia ab illa quam
+          intellectus agens intelligit seipsum. Nam si sic, sequeretur quod unum
+          et idem haberet diversas intellectiones unius intelligibilis simul.
+          Quod non videtur possibile praecipiue, quia <pb ed="#V" n="273v"/><cb
+          ed="#V" n="a"/> cum intellectus possibilis sit substantia pure in
+          potentia, non est bene rationabile quod ex sui propria natura habeat
+          aliquem actum sine aliquo alio actu. Unde cum intelligere intellectum
+          agentem sit quidam actus et operatio, non bene viderem qualiter
+          intellectus possibilis per seipsum sine alio actu informante
+          intelligeret intellectum agentem.
+        </p>
+        <p xml:id="venice1480-da-28-l3q30-2riy67">
+          Propter quod videtur mihi ad praesens esse tenendum quod intellectus
+          possibilis semper intelligit intellectum agentem modo praedicto,
+          scilicet quia semper est ei unita intellectio intellectus agentis qua
+          seipsum intelligit. Illa tamen intellectio non est substantia nec
+          essentia intellectus possibilis nec e contrario.
+        </p>
+        <p xml:id="venice1480-da-28-l3q30-zrdfmx">
+          Si quis autem diceret quod non solum intellectus possibilis intelligit
+          intellectum agentem intellectione qua ipse intellectus agens
+          intelligit seipsum, et quae est substantia intellectus agentis
+          perficiens intellectum possibilem. Sed etiam quadam alia intellectione
+          quae sequitur immediate unionem intellectus agentis ad possibilem qua
+          quidem intellectio non est ipsa substantia intellectus agentis, sed
+          consequens unionem intellectus agentis cum possibili, tunc
+          inquaerendum est quae esset neccesitas essendi huius intellectionem,
+          cum intellectus possibilis sufficienter intelligat intellectum agentem
+          per eius substantiam. Hoc autem tibi perficiendum
+          reliquo.
+        </p>
+        <p xml:id="venice1480-da-28-l3q30-8awukx">
+          Sed considerandum est quod quamvis intellectus possibilis semper
+          intelligat intellectum agentem per <unclear>eiusmodi</unclear>
+          substantiam modo praedicto. Modo ista intellectio non denominat
+          aliquid individuum hominis, ut puto, quia non dependet a phantasmate
+          alicuius hominis, nec omnium, immo etiam intellectio similis huic
+          intellectioni, scilicet qua intelligit intellectus agens, non
+          contingit nobis perfecte in principio generationis philosophiae nec in
+          medio, sed forte in complemento, et de hoc debet inquaeri in
+          consequentibus.
+        </p>
+        <p xml:id="venice1480-da-28-l3q30-2f5zx5">
+          Ad rationem dico quod anima nostra nullam habet operationem propriam
+          novam et <unclear>differentem</unclear> a tota sua substantia sine
+          corpore obiecto, et sic intelligit Aristoteles. Unde intelligentem
+          quemcumque, supple de novo, neccesse est phantasma et cetera. Sed non
+          negavit Aristoteles animam intellectivam humanam habere operationem
+          aeternam non per corpore et operationem quae non est aliud realiter a
+          sua substantia. Et huiusmodi est intelligere praedictum, non enim est
+          realiter diversum a tota substantia animae intellectivae, cum sit ipsa
+          substantia intellectus agentis, immo huius intelligere non est
+          operatio propria nisi secundum modum intelligendi et significandi,
+          quare et cetera.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>
