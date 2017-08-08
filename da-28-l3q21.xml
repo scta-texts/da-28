@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          Utrum anima cogitativa possit cognoscere substantias materiales
+        </title>
+        <author>Jean de Jandun (Ioannes de Ianduno)</author>
+        <respStmt>
+          <persName>Paolo Rubini</persName>
+          <resp>Encoding and transcription</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.1">
+          <date when="2017-06-20"/>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Paolo Rubini (University of Helsinki)</publisher>
+        <authority>
+          <ref target="http://blogs.helsinki.fi/rationality-in-perception/">
+            Rationality in Perception: Transformations of Mind and Cognition
+            1250-1550. Research project financed by the European Research
+            Council under the grant agreement n. 637747
+          </ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref
+          target="https://creativecommons.org/licenses/by-sa/4.0/">Creative
+          Commons Attribution-ShareAlike 4.0 License</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="Ve_1544" n="68va--b">
+            Ioannis Iandoni Super tres libros De anima quaestiones
+            subtilissimae. Cum annotationibus textuum et quotationibus
+            commentariorum, ea cura nuper emendatae, ut castigatiores nunquam
+            prodierint, Venetiis: apud Iuntas, 1544, col. 68va--b
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <variantEncoding method="parallel-segmentation" location="internal"/>
+      <schemaRef n="lbp-critical-1.0.0"
+                 url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/1.0/critical.rng">
+      </schemaRef>
+      <editorialDecl>
+        <p>
+          Encoding of this text has followed the recommendations of the
+          LombardPress 1.0.0 guidelines for a critical edition.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-06-20" status="draft" n="0.0.1">
+          <p>Created the file for the first time</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la" type="critical">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#Ve_1544" n="68-v"/><cb ed="#Ve_1544" n="a"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="da-28-l3q21">
+        <p xml:id="da-28-l3q21-1544la-01">
+          Gratia quorundam praedictorum potest quaeri: Utrum anima
+          cogitativa possit cognoscere substantias materiales.
+        </p>
+        
+        <p xml:id="da-28-l3q21-1544la-02">
+          <supplied><hi>Arg. I:</hi></supplied>
+          Et arguitur primo quod sic auctoritate
+          <cit>
+            <ref>
+              <name ref="#Averroes">Commentatoris</name>
+              II <title>huius</title>
+            </ref>
+            <bibl>
+              <author>Averroes</author>,
+              <title>In De anima</title>, l. II, comm. 63 (?)
+            </bibl>
+          </cit>
+          , ubi dicit quod sensus, cum apprehendit sua sensibilia propria, cum
+          hoc apprehendit intentiones individuales diversas in generibus et
+          speciebus; comprehendit scilicet intentionem huius hominis
+          individualis et intentionem huius equi individualis; constat autem
+          quod hic homo individualis est substantia, et hic equus
+          <supplied>individualis est substantia; et</supplied> similiter de
+          aliis. Aut ergo per sensum intelligit <name>Commentator</name> sensus
+          particularem vel virtutem cogitativam quae est virtus animae
+          sensitivae; si sensum particularem, ergo multo fortius anima
+          cogitativa, quae est virtus nobilior et perfectior, cognoscit talia;
+          et si intelligat anima cogitativam, habetur propositum. Ergo etc.
+        </p>
+        <p xml:id="da-28-l3q21-1544la-03">
+          Et in
+          <cit>
+            <ref>sequente commento</ref>
+            <bibl><author>Averroes</author>, <title>In De anima</title>, l. II,
+            comm. 65 (?)</bibl>
+          </cit>
+          dicit quod accidit sensibus apprehendere differentias
+          individuorum secundum quod individua sunt – non secundum quod sunt
+          simplices sensus, sed secundum quod sunt sensus humani –, et praecipue
+          differentias substantiales. Videtur enim quod comprehensio intentionum
+          individualium substantiarum de quibus considerat intellectus, est
+          propria sensibus hominis; quare etc.
+        </p>
+        <p xml:id="da-28-l3q21-1544la-04">
+          <supplied><hi>Arg. II:</hi></supplied> Item, nisi cogitativa
+          cognosceret substantiam materialem, intellectus non posset eam
+          cognoscere; quod est absurdum. Et probatur consequentia: quia actus
+          cogitativae necessarius est ad actum intelligendi, praecipue in rebus
+          materialibus, ut videtur ex
+          <cit>
+            <ref><title>isto</title> III:</ref>
+            <bibl><author>Aristoteles</author>,
+            <title>De anima</title>, l. III, t. comm. 39</bibl>
+          </cit>
+          Intelligentem enim necesse est phantasma aliquod speculari. Ergo etc.
+        </p>
+        <p xml:id="da-28-l3q21-1544la-05">
+          <supplied><hi>Sed contra:</hi></supplied> Oppositum arguitur quia, si
+          anima cogitativa cognosceret formas materiales, eadem ratione
+          cognosceret seipsam, cum ipsa sit quaedam substantia sive forma
+          materialis, ut patet ex dictis prius; haec autem videtur impossibile,
+          quia forma materialis et corporea non est reflexiva supra seipsam, ut
+          communiter accipitur ex <title>Libro de causis</title>; quare etc.
+        </p>
+        <p xml:id="da-28-l3q21-1544la-06">
+          Et confirmatur, quia anima cogitativa non est nata cognoscere aliquod
+          ens actu nisi per eius speciem propriam; non enim est aliqua causa
+          quare cognoscat unum ens per speciem propriam et aliud sine specie
+          propria; sed ipsa non potest recipere speciem propriam sui ipsius,
+          quia sic idem subiectum, scilicet corpus humanum, haberet idem
+          secundum esse reale et secundum esse spirituale, scilicet animam
+          cogitativam; quod est absurdum; quare etc.
+        </p>
+        <p xml:id="da-28-l3q21-1544la-07">
+          <supplied><hi>Responsio:</hi></supplied> De isto possunt esse duae
+          opiniones probabiles. <supplied>1.</supplied> Una quod anima
+          cogitativa humana non cognoscit substantias materiales secundum se et
+          formaliter nisi recipiat
+          <app>
+            <lem type="conjecture-corrected"><corr>eorum</corr></lem>
+            <rdg wit="#Ve_1544">eius</rdg>
+          </app>
+          speciem propriam, quia anima cogitativa non habet cognoscere aliquid
+          proprie et secundum se et formaliter nisi recipiat eius speciem
+          propriam. Haec supponitur pro manifesta. Sed non recipit speciem
+          propriam substantiae materialis, quia illa species debet esse
+          substantia aliquo modo, ut dictum est
+          <cit>
+            <ref><title>prius</title>,</ref>
+            <bibl>
+              <author>Ioannes de Ianduno</author>, 
+              <title>Quaestiones super De anima</title>, l. III, q. 20
+            </bibl>
+          </cit>
+          anima autem cogitativa, cum sit quaedam forma et actus, non recipit in
+          se aliquid de genere substantiae. Quare etc.
+        </p>
+        <p xml:id="da-28-l3q21-1544la-08">
+          Diceretur tamen quod anima cogitativa bene cognoscit aliquas
+          proprietates individuales existentes in substantia materiali quas non
+          comprehendit aliquis sensus particularis; et istae dicuntur
+          intentiones non sensatae, et sunt illae quas <name>Commentator</name>
+          vocat intentiones substantiarum individualium: verbi gratia sicut haec
+          bonitas, haec malitia, haec paternitas, haec filiatio, haec actio,
+          haec passio, et huiusmodi proprietates aliorum praedicamentorum quae
+          non sunt sensibilia communia nec propria, et hae non comprenduntur a
+          sensibus particularibus. Quod autem anima cogitativa cognoscat
+          huiusmodi intentiones, testantur omnes philosophi qui locuti sunt de
+          distinctione virtutum animae humanae, et specialiter
+          <name>Averroes</name> et <name>Albertus</name> et
+          <name>Avicenna</name> et <name>Algaçel</name>. Et posset probari
+          sufficienter, quia virtus cogitativa, cum sit virtus cognoscitiva
+          nobilior et excellentior omni sensu particulari et sensu communi,
+          debet aliqua cognoscere quae non cognoscuntur ab istis virtutibus, et
+          illa non sunt nisi huiusmodi intentiones; quare etc.
+        </p>
+        <p xml:id="da-28-l3q21-1544la-09">
+          Et confirmatur secundum intentionem <name>Aristotelis</name> et
+          <name>Commentatoris</name>. Constat enim quod anima
+          <cb ed="#Ve_1544" n="b"/>
+          humana inhaerens corpori humano est nobilior omni alia anima
+          inhaerente et debet habere aliquam virtutem nobiliorem omnibus
+          virtutibus aliorum animalium. Et illa non est nisi cogitativa, quae
+          ratiocinatur de rebus particulariter apprehensis. Et ideo dicitur
+          quaedam ratio secundum
+          <cit>
+            <ref><name>Commentatorem</name> in <title>isto</title> III;</ref>
+            <bibl>
+              <author>Averroes</author>,
+              <title>In De anima</title>, l. III, comm. 20
+            </bibl>
+          </cit>
+          quare etc.
+        </p>
+        <p xml:id="da-28-l3q21-1544la-10">
+          <supplied>2.</supplied> Alia opinio posset esse quod cogitativa
+          cognoscit substantias materiales per species proprias individuales
+          earum, ita tamen quod huiusmodi species receptae in anima cogitativa
+          non sunt in genere substantiae, sed accidentis, puta in genere
+          qualitatis, repraesenta⟨n⟩t tamen substantias materiales pro tanto
+          quia sunt proprii effectus earum. Nec videtur esse inconveniens quod
+          substantia materialis immediate efficiat aliquod accidens spirituale
+          in subiecto apto nato, et cum agens propinquum sit simul cum patiente,
+          ut patet
+          <cit>
+            <ref>VII <title>Physicorum</title>.</ref>
+            <bibl>
+              <author>Aristoteles</author>,
+              <title>Physica</title>, l. VII, t. comm. 4
+            </bibl>
+          </cit>
+          Substantia autem materialis non est simul cum anima cogitativa humana
+          ut lapis, lignum et huismodi; necesse erit concedere quod huiusmodi
+          substantia materialis agit suam speciem in medio quod est inter animam
+          cogitativam et ipsam substantiam materialem, et eo mediante agit in
+          <app>
+            <lem type="conjecture-corrected"><corr>organum</corr></lem>
+            <rdg wit="#Ve_1544">organo</rdg>
+          </app>
+          sensuum et ulterius in animam cogitativam. Nec sequitur ex hoc quod
+          sensus particulares cognoscant substantiam materialem, quia non sunt
+          ordinati ad eius cognitionem per se, nec recipiunt speciem substantiae
+          secundum esse spirituale, sicut exigitur ad cognitonem. Et utinam ego
+          scirem quid est verum in isto quaesito. Et si plus apparuerit mihi,
+          alias scribam illud.
+        </p>
+        <p xml:id="da-28-l3q21-1544la-11">
+          <supplied><hi rendition="simple:bold">Ad arg. I:</hi></supplied>
+          Rationes autem et auctoritates in utramque partem evadentur secundum
+          praedicta. Cum ergo dicit <name>Commentator</name> quod sensus
+          apprehendit intentionem individualem huius hominis et huius equi, non
+          intelligit per intentionem individualem ipsam formam substantialem
+          hominis aut equi, sed aliquam proprietatem non sensatam propriam tali
+          individuo, ut quod cognoscat hanc paternitatem, aut hanc filiationem,
+          aut hanc risibilitatem, aut hanc habilitatem, aut fortitudinem
+          corporalem, aut aptitudinem ad ambulandum.
+        </p>
+        <p xml:id="da-28-l3q21-1544la-12">
+          Similiter, quando <name>Commentator</name> dicit ulterius quod accidit
+          sensibus comprehendere differentias individuorum substantiales, per
+          differentias substantiales individuorum intelligit quasdam
+          proprietates non sensatas consequentes substantiam individuui; quas
+          etiam <name>Commentator</name> vocat intentiones individuales
+          substantiarum de quibus consideratur intellectus.
+        </p>
+        <p xml:id="da-28-l3q21-1544la-13">
+          <supplied><hi>Ad arg. II:</hi></supplied> Ad rationem quando arguitur,
+          potest dici quod, ut intellectus cognoscat substantias materiales,
+          sufficit quod virtus cogitativa cognoscat eas in suis propriis
+          accidentibus, et praecipue in suis per se et propriis operationibus,
+          sicut ad intelligendum substantias immateriales non est necesse quod
+          cogitativa eas cognoscat, immo est impossibile, eo quod virtus
+          materialis et organica non potest cognoscere rem spiritualem et
+          incorporalem omnino; sed sufficit quod cogitativa cogitet proprios
+          effectus earum, scilicet motus sempiternos et uniformes, ut satis
+          patet ex
+          <cit>
+            <ref>VIII <title>Physicorum</title>;</ref>
+            <bibl>
+              <author ref="#Aristotle">Aristoteles</author>,
+              <title>Physica</title>, l. VIII, t. comm. 54; 85; 86
+            </bibl>
+          </cit>
+          quare etc.
+        </p>
+        <p xml:id="da-28-l3q21-1544la-14">
+          <supplied><hi>Ad sed contra:</hi></supplied> Sed cum arguitur in
+          contrarium quod eadem ratione anima <supplied>cogitativa</supplied>
+          cognosceret seipsam, difficile est multum et parum exquisitum. Potest
+          tamen dici quod anima cogitativa non cognoscit seipsam secundum
+          seipsam nec per suam speciem propriam, sive illa species poneretur de
+          genere substantiae sive de genere accidentis; sed si cognoscit se, hoc
+          est solum secundum suam operationem, quia cogitativa scit se cogitare,
+          quod est opus eius proprium et intrinsecum. Et sic forte non cognoscit
+          suam operationem, cum sit virtus organica et corporea; sed intellectus
+          eam cognoscit, et homo per intellectum. Quodsi quis dicat quod ipse
+          experitur se cogitare et scit se cogitare, diceretur ei quod ipse
+          abutitur ipso cogitare; immo debet dicere quod intellectus intelligit
+          se cogitare.
+        </p>
+        <p xml:id="da-28-l3q21-1544la-15">
+          Nescio plus de hoc. Quare considera et tu et cetera.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>
