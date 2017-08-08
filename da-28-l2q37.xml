@@ -1,0 +1,847 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Utrum phantasia sit idem cum sensu</title>
+        <author>Jean de Jandun (Ioannes de Ianduno)</author>
+        <respStmt>
+          <persName>Paolo Rubini</persName>
+          <resp>Encoding and transcription</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.1">
+          <date when="2017-06-20"/>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Paolo Rubini (University of Helsinki)</publisher>
+        <authority>
+          <ref target="http://blogs.helsinki.fi/rationality-in-perception/">
+            Rationality in Perception: Transformations of Mind and Cognition
+            1250-1550. Research project financed by the European Research
+            Council under the grant agreement n. 637747
+          </ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref
+          target="https://creativecommons.org/licenses/by-sa/4.0/">Creative
+          Commons Attribution-ShareAlike 4.0 License</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="Ve_1544" n="68va--b">
+            Ioannis Iandoni Super tres libros De anima quaestiones
+            subtilissimae. Cum annotationibus textuum et quotationibus
+            commentariorum, ea cura nuper emendatae, ut castigatiores nunquam
+            prodierint, Venetiis: apud Iuntas, 1544, col. 68va--b
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <variantEncoding method="parallel-segmentation" location="internal"/>
+      <schemaRef n="lbp-critical-1.0.0"
+                 url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/1.0/critical.rng">
+      </schemaRef>
+      <editorialDecl>
+        <p>
+          Encoding of this text has followed the recommendations of the
+          LombardPress 1.0.0 guidelines for a critical edition.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-06-20" status="draft" n="0.0.1">
+          <p>Created the file for the first time</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la" type="critical">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#Ve_1544" n="45-r"/><cb ed="#Ve_1544" n="a"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="da-28-l2q37">
+        <p xml:id="da-28-l2q37-1544la-01">
+          Deinde quaeritur circa capitulum de phantasia: Utrum phantasia sit
+          idem cum sensu.
+        </p>
+        <p xml:id="da-28-l2q37-1544la-02">
+          <supplied><hi rendition="simple:bold">Arg. I:</hi></supplied> Arguitur
+          primo quod sic, quia omnis virtus cognoscitiva organica videtur esse
+          sensus; in hoc enim differt sensus ab intellectus, ut patet in ista
+          scientia; sed phantasia est virtus cognoscitiva organica, ut manifestum
+          est per
+          <cit>
+            <ref>
+              <name ref="#Aristotle">Aristotelem</name> in
+              <title>isto</title> II et in III.
+            </ref>
+            <bibl>
+              <author ref="#Aristotle">Aristoteles</author>,
+              <title>De anima</title> l. III, t. comm. 6 et 7
+            </bibl>
+          </cit>
+        </p>
+        <p xml:id="da-28-l2q37-1544la-03">
+          <supplied><hi rendition="simple:bold">Arg. II:</hi></supplied> Item,
+          illae virtutes sunt eaedem quae habent idem obiectum. Haec videtur
+          manifesta. Nam virtutes distinguuntur per actus, et actus per obiecta,
+          ut
+          <cit>
+            <ref>communiter dicitur.</ref>
+            <bibl><author ref="#Aristotle">Aristoteles</author>,
+            <title>De anima</title>, l. II, t. comm. 160 et 161</bibl>
+          </cit>
+          Sed phantasia habet idem obiectum cum sensu. Nam sicut visus
+          potest videre colorem, sic phantasia potest ipsum phantasiari; et
+          similiter est de aliis
+          <cb ed="#Ve_1544" n="b"/>
+          sensibus. Quare etc.
+        </p>
+        <p xml:id="da-28-l2q37-1544la-04">
+          <supplied><hi rendition="simple:bold">Arg. III:</hi></supplied> Item,
+          phantasia aut est sensus aut est motus factus a sensu secundum actum.
+          Haec videtur divisio sufficiens secundum <name
+          ref="#Aristotle">Aristotelem</name>, quia phantasia non potest esse
+          scientia, nec opinio, nec intellectus, nec compositum ex opinione et
+          scientia, ut satis ostendit
+          <cit>
+            <ref>
+              <name ref="#Aristotle">Aristoteles</name> in
+              <title>littera</title>.
+            </ref>
+            <bibl>
+              <author ref="#Aristotle">Aristoteles</author>,
+              <title>De anima</title> l. III, t. comm. 153 et 158
+            </bibl>
+          </cit>
+          Unde sine dubio reliquintur ipsam esse vel sensum vel motum factum a
+          sensu secundum actum. Sed non potest esse motus factus a sensu
+          secundum actum. Probatio: quia motus non remanet deficiente movente.
+          Haec est manifesta per se, et habetur ex
+          <cit>
+            <ref>III et VII et VIII  <title>Physicorum</title>.</ref>
+            <bibl>
+              <author ref="#Aristotle">Aristoteles</author>,
+              <title>Physica</title> l. III, t. comm. 18; l. VII, t. comm. 1; l.
+              VIII, t. comm. 82
+            </bibl>
+          </cit>
+          Modo, deficiente sensu secundum actum, adhuc remanet phantasia, ut
+          patet in dormiente somniante. In ipso enim non est aliquis sensus
+          particularis in actu sentiendi, ut patet ex <title>De somno et
+          vigilia</title>. Et si in ipso est sensus communis in actu, ipse non
+          movet phantasiam, sed magis movetur ab imaginativa per species in ea
+          reservatam, ut habet videri in <title>De somno et vigilia</title>.
+          Ergo etc.
+        </p>
+        <p xml:id="da-28-l2q37-1544la-05">
+          <supplied><hi rendition="simple:bold">Sed contra:</hi></supplied>
+          Oppositum vult <name ref="#Aristotle">Aristoteles</name> in littera.
+        </p>
+        <p xml:id="da-28-l2q37-1544la-06">
+          <supplied><hi rendition="simple:bold">Responsio:</hi></supplied>
+          Ad evidentiam quaestionis praemittenda sunt aliqua.
+        </p>
+        <p xml:id="da-28-l2q37-1544la-07">
+          Primo, quod virtutes animae sensitivae secundum <name>Albertum</name>
+          sunt duae generaliter. Quaedam sunt apprehensivae de foris, et istae
+          dicuntur sensus particulares exteriores, scilicet visus, auditus etc.
+          Et dicuntur exteriores, non quia solum sint in extremitatibus
+          corporis, sed quia immutantur a sensibilibus exterioribus non
+          mediantibus aliis virtutibus animae prius immutatis: ut visus
+          immutatur a colore sine aliquo sensu intermedio; et auditus a sono; et
+          sic de ceteris. Et dicuntur particulares, quia unusquisque eorum
+          determinatus est ad aliquod genus sensibilium et aliud non cognoscit:
+          ut visus ad colores et auditus ad sonos. Aliae vero sunt virtutes
+          apprehensivae de intus, et haec communiter vocentur sensus interiores
+          quia non immutantur a rebus exterioribus nisi mediantibus aliis
+          sensibus. Et isti sunt quinque secundum <name>Albertum</name>,
+          scilicet sensus communis, imaginativa, cogitativa, phantasia et
+          memorativa; quarum necessitatem et distinctionem sic docet
+          <cit>
+            <ref><name>Albertus</name>.</ref>
+            <bibl>
+              <author>Albertus Magnus</author>, <title>De anima</title> l. II,
+              tract. 4, cap. 7, Gayer 156.84–-158.3.
+            </bibl>
+            <note>
+              Cf. <author>J.-B. Brenet</author>, <title>Transfert du
+              sujet</title>, Paris 2003, 197–203
+            </note>
+          </cit>
+        </p>
+        <p xml:id="da-28-l2q37-1544la-08">
+          Ad cuius evidentiam praemitto duo. Primo quod in individuis
+          substantiarum, et praecipue in hominibus, non solum sunt accidentia
+          sensibilia, propria et communia, sed etiam in eis sunt quaedam
+          proprietates quas non cognoscunt sensus particulares, sicut in Socrate
+          est bonitas vel malitia vel paternitas vel filiatio, et mansuetudo vel
+          iracundia vel sanitas vel aegritudo, et quando et ubi et huiusmodi
+          formae quas nullus particularium sensus cognoscit. Et ideo dicuntur
+          intentiones non sesatae. Et hoc satis insinuavit <name
+          ref="#Averroes">Commentator</name> in suo libello <title>De memoria et
+          reminiscentia</title>.
+        </p>
+        <p xml:id="da-28-l2q37-1544la-09">
+          Ulterius praemitto quod non est unius et eiusdem virtutis animae bene
+          recipere species et bene retinere seu conservare
+          <supplied>eas</supplied>; cuius ratio est secundum
+          <name>Albertus</name> – et accipit a <name
+          ref="#Averroes">Commentatore</name> in suo libello <title>De memoria
+          et reminiscentia</title> – quia ad hoc quod virtus sit bene receptiva
+          requiritur dominium humididatis super siccum in complexione sui
+          organi; humidi enim est bene recipere impressiones, ut manifestum est
+          in aere et aqua, quamvis non bene retineant. Sed ad bonam retentionem
+          requiritur magnum dominium siccitatis; siccum enim, licet cum
+          difficultate recipiat, tamen cum recepit bene retinet et conservat, ut
+          patet in lapidibus et lignis.
+        </p>
+        <p xml:id="da-28-l2q37-1544la-10">
+          His praeintellectis, dico quod nos experimur in nobis quod
+          cognoscimus diversitatem diversorum sensiblium; et ad hoc specialiter
+          deservit sensus communis; <supplied>quod</supplied>
+          <cit>
+            <ref>declaratum fuit,</ref>
+            <bibl>
+              <author>Ioannis de Ianduno</author>, <title>Quaestiones super De
+              anima</title>, l. II, q. 36
+            </bibl>
+          </cit>
+          et ideo pertranseo. Deinde nos etiam experimur in nobis quod in
+          absentia sensibilium tam communium quam propriorum nos reservamus
+          species ipsorum et tenemus, ut absente pariete tu habes apud te
+          speciem coloris eius et figurae et huiusmodi; similiter autem et in
+          aliis; et hoc est per virtutem imaginativam, quam etiam quidam
+          vocaverunt thesaurum seu archam formarum sensibilium. Et hoc bene
+          oportuit fieri per aliam virtutem a sensu communi, propter rationem
+          praetactam: quia non est unius virtutis penitus bene retinere et bene
+          recipere.
+        </p>
+        <p xml:id="da-28-l2q37-1544la-11">
+          Item, nos experimur in nobis quod nos cognoscimus proprietates
+          individuorum non sensatas, ut cognoscimus hanc paternitetem et hanc
+          filiationem, hanc amicitiam et hanc inimicitiam et huiusmodi. Et ad
+          hoc ponitur virtus cogitativa. De hac autem virtute multa pulchra et
+          perutilia docet <name ref="#Averroes">Commentator</name> <name
+          ref="#Averroes">Averroes</name> in diversis locis huius, et ego nunc
+          colligam ea propter bene esse, ut melius et clarius potero.
+        </p>
+        <p xml:id="da-28-l2q37-1544la-12">
+          Primo quidem de ista virtute dicit
+          <cit>
+            <ref>
+              <name ref="#Averroes">Commentator</name> in II
+              <title>huius</title>,
+            </ref>
+            <bibl>
+              <author>Averroes</author>, <title>In De anima</title>, l. II,
+              comm. 63, Crawford 225.44–-226.60
+            </bibl>
+          </cit>
+          quod ipsa cognoscit intentiones –- id est formas –- individuales
+          omnium decem praedicamentorum, ut formam individualem <pb
+          ed="#Ve_1544" n="45-v"/><cb ed="#Ve_1544" n="a"/> huius hominis
+          secundum quod hic homo, et hanc lineam, et hanc albedinem, et hanc
+          paternitatem, et hanc calefactionem, et huismodi plura; ita quod non
+          tantum cognoscit accidentia sensibilia communia et propria, sed
+          intentionem non sensatam, <hi rendition="simple:italic">et expoliat
+          eam ab eis quae fuerunt ei coniuncta de sensibilibus communibus et
+          propriis</hi> –- spoliat, dico, id est: distincte et divisim
+          cognoscit. Unde per tuam virtutem cogitativam tu cognoscis quod haec
+          anima non est idem cum hoc corpore, et hoc manifestum est, et etiam
+          quod haec amicitia non est idem cum hoc colore vel cum hac magnitudine
+          vel motu vel huiusmodi. Et ipsam intentionem <hi
+          rendition="simple:italic">reponit cogitativa in virtute
+          memorativa</hi>, ut dicit
+          <cit>
+            <ref><name ref="#Averroes">Commentator</name>.</ref>
+            <bibl>
+            <author>Averroes</author>, <title>In De anima</title>, l. II, comm.
+            63, Crawford ????
+            </bibl>
+          </cit>
+        </p>
+        <p xml:id="da-28-l2q37-1544la-13">
+          Item, de ista cogitativa dicit idem
+          <cit>
+            <ref>
+              <name ref="#Averroes">Commentator</name> in III <title>De
+              anima</title>
+            </ref>
+            <bibl>
+              <author>Averroes</author>, <title>In De anima</title>, l. III,
+              comm. 6, Crawford 415.56–-416.89
+            </bibl>
+          </cit>
+          quod quidam crediderunt eam esse intellectum. Et hoc specialiter
+          attribuitur <name ref="#Galen">Galeno</name>, cuius ratio fuit quia
+          ista virtus est propria homini, et intellectus est proprius homini,
+          ergo etc. Sed hoc non est verum, quia intellectus est virtus
+          immaterialis et sine corpore substante, et cognoscit quidditatem
+          universaliter et abstracte, sed cogitativa est de genere
+          <supplied>virtutum</supplied> existentium in corpore -– et hoc
+          manifestum est de ea, quia habet instrumentum determinatum, scilicet
+          medium ventriculum cerebri –- et est virtus individualis et
+          individualiter distincta. Nec valet ratio <name
+          ref="#Galen">Galeni</name>, quia procedit ex duabs affirmativis in
+          secunda figura. Propterea de hac virtute dicit
+          <cit>
+            <ref>
+              <name ref="#Averroes">Commentator</name> in <title>eodem</title>
+              III,
+            </ref>
+            <bibl>
+              <author>Averroes</author>, <title>In De anima</title>, l. III,
+              comm. 7, Crawford 419.55–-59
+            </bibl>
+          </cit>
+          quod ipsa <hi rendition="simple:italic">est de genere virtutum
+          sensibilium</hi>; et subdit quod <hi
+          rendition="simple:italic">imaginativa et cogitativa et memorativa non
+          sunt nisi</hi> ad praesentandum <supplied>intellectui</supplied> <hi
+          rendition="simple:italic">in loco virtutis sensibilis, et ideo</hi>
+          <supplied><hi rendition="simple:italic">intellectus</hi></supplied>
+          <hi rendition="simple:italic">non indiget eis nisi in absentia
+          sensibilis</hi>. Quod quomodo sit intelligendum, videbitur in III –-
+          Deo volente.
+        </p>
+        <p xml:id="da-28-l2q37-1544la-14">
+          Rursus dicit
+          <cit>
+            <ref>
+              <name ref="#Averroes">Commentator</name> de ista virtute in
+              <title>eodem</title> III,
+            </ref>
+            <bibl>
+              <author>Averroes</author>, <title>In De anima</title>, l. III,
+              comm. 20; Crawford 449.175–-176
+            </bibl>
+          </cit>
+          quod <hi rendition="simple:italic">ista virtus est aliqua ratio</hi>.
+          Et ipsum intelligo sic, quod sicut ratio est virtus apprehensiva
+          abstracta, ratiocinans de rebus universaliter apprehensis, sic ista
+          nobilis virtus ratiocinatur de rebus individualiter apprehensis et
+          discurrit de uno in aliud ad cognitionem ignoti; et ex hoc sequitur
+          eam esse propriam homini, quia solus homo ratiocinatur. Et dicit
+          <cit>
+            <ref><title>hic</title> <name ref="#Averroes">Commentator</name></ref>
+            <bibl><author>Averroes</author>, <title>In De anima</title>, l. III, comm. 20, Crawford 449.176–-178</bibl>
+          </cit>
+          quod eius una
+          <hi rendition="simple:italic">actio nihil aliud est quam componere
+          intentionem formae imaginationis cum suo idolo apud rememorationem:</hi>
+          ut cum aliquis memoratur se vidisse album, virtus cogitativa componit
+          quodammodo visionem, quae est quaedam intentio non sensata, cum
+          albedine, quae est forma sensata, ita quod in isto actu, cum aliquis
+          iudicat se vidisse album, virtus imaginativa praesentat idolum
+          albedinis, ((et)) virtus memorativa praesentat visionem praeteritam, et
+          virtus cogitativa componit illa adinvicem.
+          Et sic forte intellexit <name ref="#Averroes">Commentator</name>
+          quod cogitativa componit intentionem formae cum idolo apud rememorationem.
+          <cit>
+            <ref>Et addit:</ref>
+            <bibl><author>Averroes</author>, <title>In De anima</title>, l. III, comm. 20, Crawford 449.178–-179</bibl>
+          </cit>
+          <hi rendition="simple:italic">et distinguit eam</hi>, scilicet intentionem,
+          <hi rendition="simple:italic">ab eo</hi>, scilicet idolo,
+          <hi rendition="simple:italic">apud formationem</hi>, id est, apud intelligere.
+          Ad hoc enim, quod intellectus distincte intelligat aliquam huiusmodi intentionem non sensatam,
+          oportet quod virtus cogitativa distincte cogitet eam individualiter,
+          ut patebit ex III huius.
+        </p>
+        <p xml:id="da-28-l2q37-1544la-15">
+          Amplius de cogitativa inquit
+          <cit>          <ref><name ref="#Averroes">Commentator</name> in <title>eodem</title> III,</ref>          <bibl><author>Averroes</author>, <title>In De anima</title>, l. III, comm. 30, Crawford 475.41–-476.57</bibl>        </cit>        quod, cum ipsa fuerit adiuta per memorativam et imaginativam,
+          ipsa praesentabit aliquando individuum aliquod, id est,
+          accipiet aliquam cognitionem individui
+          quod non fuit sensatum ab illo homine cogitante,
+          utpote cognitionem alicuius futuri aut alicuius praeteriti;
+          verbi gratia sic intelligendo:
+          cum aliquis bonus medicus per suam virtutem cogitativam cognoscit hanc aegritudinem huius hominis
+          et eius causam et complexionem et aetatem et locum et huismodi particularia,
+          et per virtutem memorativam memoratur se vidisse seu cognovisse
+          ex tali aegritudine et consimili secutam fuisse mortem,
+          et per virtutem imaginativam imaginatur mortem istius hominis,
+          tunc contingit quod ipse iudicat vero iudicio hunc esse moriturum,
+          ac si praesentialiter sentiret ipsum mori.
+          Similiter autem cum aliquis bonus naturalis meteorologicus cogitat de grandine futura in aestate,
+          et per virtutem suam memorativam memoratur se vidisse
+          post talem calorem aestivum et post talem nubem frequenter secutam fuisse grandinem,
+          et per imaginativam imaginatur descensum grandinis,
+          tunc per cogitativam iudicat vero et recto iudicio grandinem esse cito futuram
+          ac si videret eam actu cadentem.
+          Et posset poni exemplum in humanis agibilibus;
+          sed quia illa sunt minus certa et sunt a libero arbitrio,
+          ideo nolo exemplificare.
+        </p>
+        <p xml:id="da-28-l2q37-1544la-16">
+          Hoc igitur est quod
+          <cit>
+            <ref><name ref="#Averroes">Commentator</name> subiungit:</ref>
+            <bibl><author>Averroes</author>, <title>In De anima</title>, l. III, comm. 30, Crawford 476.57–-59</bibl>
+          </cit>
+          <hi rendition="simple:italic">et intentio cogitationis</hi>
+          (supple: negotiantis circa praeterita aut futura, aut praesentia quae tamen remota sunt a sensu)
+          <hi rendition="simple:italic">nihil aliud est quam hoc,
+          scilicet quod virtus cogitativa ponit rem absentem a sensu quasi rem sensatam</hi>.
+          Unde
+          <cit>
+            <ref>subdit:</ref>
+            <bibl><author>Averroes</author>, <title>In De anima</title>, l. III, comm. 30, Crawford 476.59–-62</bibl>
+          </cit>
+          <hi rendition="simple:italic">Et ideo comprehensibilia humana dividuntur in haec duo,
+          scilicet in comprehensibile cuius principium est sensus,
+          et in comprehensibile cuius principium est cogitatio.</hi>
+          Comprehensibile quidem cuius principium est sensus est illud quod est praesens sensui;
+          <cb ed="#Ve_1544" n="b"/>
+          et comprehensibile cuius principium est cogitatio est illud quod est absens,
+          et praecipue aut praeteritum aut futurum.
+          Et adhuc dicit
+          <cit>
+            <ref><name ref="#Averroes">Commentator</name>:</ref>
+            <bibl><author>Averroes</author>, <title>In De anima</title> l. III, comm. 30, Crawford 476.67--74</bibl>
+          </cit>
+          <hi rendition="simple:italic">Et non debet aliquis dicere quod virtus cogitativa componit intellecta singularia</hi>,
+          id est intellecta quae secundum seorsum et divisim fuerunt intellecta;
+          <hi rendition="simple:italic">et iam declaratum est quod intellectus immaterialis componit ea</hi>
+          (supple: sub rationibus universalibus);
+          <hi rendition="simple:italic">cogitatio autem non est</hi>
+          (respectu absentium, supple)
+          <hi rendition="simple:italic">nisi distinguendo individua illorum intelligibilium
+          et praesentare ea in actu quasi essent apud sensum; et ideo quando</hi>
+          <app>
+            <lem type="conjecture-corrected"><corr><hi rendition="simple:italic">fuerint</hi></corr></lem>
+            <rdg wit="#Ve_1544">fuerunt</rdg>
+          </app>
+          <hi rendition="simple:italic">in praesentia apud sensum,
+          tunc cadet cogitatio et remanebit actio intellectus in eis</hi>,
+          id est respectu eorum.
+          Et hoc ultimum dictum est bene dubium,
+          quia scilicet hoc videtur velle <name ref="#Averroes">Commentator</name>,
+          quod intellectus, praesente individuo rei intelligibilis ad sensum,
+          non indiget cogitativa ad intelligendum;
+          quod videtur multum inconveniens,
+          quia
+          <cit>
+            <ref><name ref="#Aristotle">Aristoteles</name> dicit</ref>
+            <bibl><author ref="#Aristotle">Aristoteles</author>, <title>De anima</title>, l. III, t. comm. 30 et 39</bibl>
+          </cit>
+          quod
+          <hi rendition="simple:italic">intelligentem quemcumque necesse est phantasma aliquod speculari</hi>;
+          phantasia autem quae immediate ministrat ipsi intellectui videtur esse ipsa cogitativa;
+          et hoc videbitur
+          <cit>
+            <ref>in III <title>huius</title></ref>
+            <bibl><author>Ioannes de Ianduno</author>, <title>Quaestiones super De anima</title>, l. III, q. 33</bibl>
+          </cit>
+        </p>
+        <p xml:id="da-28-l2q37-1544la-17">
+          Deinde dicit
+          <cit>
+            <ref><name ref="#Averroes">Commentator</name></ref>
+            <bibl><author>Averroes</author>, <title>In De anima</title>, l. III, comm. 33, Crawford 476.79–-80</bibl>
+          </cit>
+          quod homo non est generabilis et corruptibilis nisi per istam virtutem,
+          id est per formam quam consequitur ista virtus.
+          Intellectus enim secundum ipsum et secundum <name ref="#Aristotle">Aristotelem</name> est perpetuus,
+          et ideo secundum ipsum homo non est corruptibilis.
+        </p>
+        <p xml:id="da-28-l2q37-1544la-18">
+          Haec sunt quae docet <name ref="#Averroes">Commentator</name> de virtute cogitativa, et sunt ita bona sicut tu vides.
+          Et forte haec est illa virtus animae humanae quam <name ref="#Aristotle">Aristoteles</name> distinguit contra scientificum
+          et vocat eam ratiocinativum vel consiliativum in VI <title>Ethicorum</title>.
+        </p>
+        <p xml:id="da-28-l2q37-1544la-19">
+          Sequitur videre de virtute phantastica secundum <name>Albertum</name>.
+          Dicit enim
+          <cit>
+            <ref><name>Albertus</name></ref>
+            <bibl><author>Albertus Magnus</author>, <title>De anima</title>, l. II, tract. 4, cap. 7, Gayer 157.74-–85</bibl>
+          </cit>
+          -– et hoc est verum -– quod nos experimur in nobis quod nos
+          componimus adinvicem formas cum formis et intentiones cum intentionibus
+          et intentiones cum formis et econverso. Et possumus exemplificare
+          propter illos in quibus incipit oriri philosophia. Nos iudicamus hoc
+          dulce esse album, et hoc est componere formam cum forma; per formam enim
+          intelligit sensibile proprium aut commune. Similiter nos iudicamus hunc
+          patrem esse amicum, et hoc est componere intentionem cum intentione; nam
+          per intentionem hic intelligit proprietatem non sensatam. Et rursus
+          iudicamus hoc dulce esse delectabile vel conveniens, et hoc est
+          componere intentionem cum forma; similiter et in aliis huiusmodi. Et
+          hanc compositionem facit quarta virtus, scilicet phantastica, ut ipse
+          dicit, et quaedam alia congregat de ea, sed hoc ad praesens mihi sufficit.
+        </p>
+        <p xml:id="da-28-l2q37-1544la-20">
+          Deinde experimur in nobis quod in absentia sensibilium nos reservamus
+          ipsas intentiones, id est proprietates non sensatas, et non est ab eadem
+          potentia tenere bene et bene recipere, et ideo illa virtus retentiva
+          debet esse alia a cogitativa quae cognoscit eas et bene recipit. Nec est
+          eadem reservativa quae tenet formas sensatas et intentiones non
+          sensatas, eo quod altioris gradus et abstractioris est intentio quam
+          forma, ut dicit. Et ideo cogimur ponere aliam virtutem quae tenet
+          intentiones elicitas, hoc est distincte cognitas, a virtute cogitativa:
+          et heac vocatur memorativa communi denominatione, vocatur autem a
+          quibusdam thesaurus intentionum, sicut imaginativa dicitur thesaurus formarum.
+        </p>
+        <p xml:id="da-28-l2q37-1544la-21">
+          Est igitur haec doctrina illius viri. Et quamvis bene et realiter
+          loquatur in maiori parte, tamen aliqualiter videtur recedere ab <name ref="#Averroes">Averroi</name>.
+          Nam ipse non ponit virtutes illas interiores nisi quatuor, sicut apparet
+          <cit>
+            <ref>in III <title>huius</title>.</ref>
+            <bibl><author>Averroes</author>, <title>In De anima</title>, l. III, comm. 6, Crawford 415.68–-416.72</bibl>
+          </cit>
+          Et ibi allegat <name ref="#Aristotle">Aristotelem</name>, dicens quod
+          <hi rendition="simple:italic"><name ref="#Aristotle">Aristoteles</name>
+          posuit virtutes distinctas individuales in quatuor ordinibus:
+          in primo posuit sensum communem, deinde imaginativam, deinde cogitativam, et postea rememorativam.</hi>
+          Et addit <name ref="#Averroes">Commentator</name>:
+          <hi rendition="simple:italic">et posuit rememorativam magis spiritualem,
+          deinde cogitativam, deinde imaginativam et post sensum communem.</hi>
+          Et puto quod illam virtutem, quam <name>Albertus</name> vocat phantasiam,
+          <name ref="#Averroes">Commentator</name> dicit eam esse cogitativam.
+          Et hoc rationabiliter, quia oportet quod virtus
+          <app>
+            <lem type="conjecture-corrected"><corr>cognoscitiva</corr></lem>
+            <rdg wit="#Ve_1544">cogitativa</rdg>
+          </app>
+          comprehendens composita et simplicia sit eadem, ut
+          <cit>
+            <ref><name>ipsemet</name> dicit in III <title>huius</title> capite:
+            <hi rendition="simple:italic">Indivisibilium quidem intelligibilia</hi></ref>
+            <bibl><author ref="#Aristotle">Aristoteles</author>, <title>De anima</title>, l. III, cap. 6, 430a26 (t. comm. 21)</bibl>
+          </cit>
+          Unde, cum virtus cogitativa cognoscat intentiones et formas,
+          necesse est ut ipsa eadem sit, compositiva et divisiva earum.
+          Unde non oportet quod aliqua alia virtus
+          <app>
+            <lem type="conjecture-corrected"><corr>eas</corr></lem>
+            <rdg wit="#Ve_1544">ea</rdg>
+          </app>
+          componat aut dividat, praecipue quia natura non facit per plura quod potest per unum.
+          Quod enim virtus cogitativa cognoscat formas sensatas non debet esse dubium, quia virtus
+          <app>
+            <lem type="conjecture-corrected"><corr>cognoscitiva</corr></lem>
+            <rdg wit="#Ve_1544">cogitativa</rdg>
+          </app>
+          superior cognoscit illa quae cognoscit inferior, modo tamen perfectiori.
+          Ideo magis credo <name ref="#Averroes">Commentatori</name>.
+        </p>
+        <p xml:id="da-28-l2q37-1544la-22">
+          Organa autem istarum virtutum ponuntur communiter decem,
+          ut accipitur ab <name>Alberto</name> et <name ref="#Averroes">Commentatore</name>
+          quod sensus
+          <pb ed="#Ve_1544" n="46-r"/><cb ed="#Ve_1544" n="a"/>
+          communis est in anteriori parte primae cellulae cerebri,
+          in loco ubi concurrunt nervi sensitivi, scilicet sensuum particularium;
+          postea in parte posteriori illius primae cellulae est virtus imaginativa secundum <name>Albertum</name>;
+          in prima vero parte mediae cellulae, quae calida est ex motu multiplici spiritus ad ipsam,
+          ponit virtutem cogitativam seu aestimativam, in medio autem ipsius
+          mediae cellulae ponit phantasiam tanquam centrum inter imaginativam et
+          memorativam; memoria enim est in posteriori parte cerebri, cuius signum
+          est quia, laesa illa parte, laeditur memoria; et illud similiter est
+          signum ad organa ceterorum.
+        </p>
+        <p xml:id="da-28-l2q37-1544la-23">
+          <name ref="#Averroes">Commentator</name> autem parum aliter loquitur, sed fere in idem redit.
+          Supponens enim quod sensus communis sit in anteriori parte primae
+          cellulae cerebri aut forte in corde, secundum quod videtur velle
+          <name ref="#Aristotle">Aristoteles</name> in <title>De somno et vigilia</title>
+          aut utroque modo aut altero, dicit quod virtus imaginativa est in
+          anteriori parte cerebri, et hoc est intelligendum secundum
+          <cit>
+            <ref><name>Albertum</name></ref>
+            <bibl><author>Albertus Magnus</author>, <title>De anima</title>, l. II, tract. 4, cap. 7, Gayer 158.10--33</bibl>
+          </cit>
+          quantum ad posteriorem partem primae cellulae; cogitativa autem est in
+          medio et rememorativa in posteriori. Dubitationes autem quae sunt circa
+          istas virtutes debent tractari in parvis libris naturalibus, praecipue
+          in <title>De somno et vigilia</title> et in <title>De memoria et reminiscentia</title>.
+        </p>
+        <p xml:id="da-28-l2q37-1544la-24">
+          Et est advertendum quod <name ref="#Aristotle">Aristoteles</name> in isto II non expresse loquitur
+          nisi de duabus istarum virtutum, scilicet de phantasia et sensu communi,
+          et puto quod per phantasiam quandoque intelligit imaginativam et
+          quandoque cogitativam. Dicit enim quod phantasia reservat species
+          sensibilium, et hoc competit imaginativae, et dicit quod animalia multa
+          operantur secundum illam, quod non est alio modo nisi quia animalia
+          appetunt fugere aut persequi illud quod phantasia iudicat aut bonum aut
+          malum; et hoc indubitanter competit illi virtuti quam <name ref="#Averroes">Commentator</name> vocat
+          cogitativam. Et
+          <cit>
+            <ref>in III <title>De anima</title> dicit <name ref="#Aristotle">Aristoteles</name></ref>
+            <bibl><author ref="#Aristotle">Aristotles</author>, <title>De anima</title>, l. III, t. comm. 56</bibl>
+          </cit>
+          quod phantasia quaedam est rationalis,
+          scilicet quae ratiocinatur de rebus individualibus; quod est
+          cogitativae. Unde per phantasiam quandoque intelligit cogitativam,
+          quandoque imaginativam, <supplied>ut</supplied>
+          <cit>
+            <ref><title>ubi</title> dicit</ref>
+            <bibl><author ref="#Aristotle">Aristotles</author>, <title>De anima</title>, l. III, t. comm. ultimo</bibl>
+          </cit>
+          et quoniam immanent
+          –- supple species sensibilium factae a sensibilibus secundum actum –-
+          in virtute imaginativa, multa secundum ipsam operantur animalia et agunt et patiuntur.
+          De memoria vero et reminiscentia seorsum tractat in libello <title>De memoria et reminiscentia</title>;
+          et ibidem declaratum est quod reminiscentia non est aliud substantialiter quam cogitativa.
+        </p>
+        <p xml:id="da-28-l2q37-1544la-25">
+          His visis dicendum ad quaestionem quod phantasia non est idem cum
+          sensu particulari exteriori, et de isto loquitur <name ref="#Aristotle">Aristoteles</name> in litera;
+          quod probat multipliciter, sed accipio solum unam rationem ad hoc. Si
+          phantasia esset sensus exterior, aut esset sensus in potentia aut sensus
+          in actu per sufficientem divisionem; sed non potest esse sensus in
+          potentia, quia maxime videretur esse visus; nunc autem aliquis carens
+          visus habet phantasiam, ut patet de caeco qui phantasiatur in somis; et
+          sic videtur quod phantasia non est idem cum visu, et tamen maxime
+          videtur quod phantasia sumpsit nomen a lumine quod pertinet ad visum, eo
+          quod ipse visus est maxime sensus, et plurium rerum cognitarum visu
+          reservamus phantasmata quam ab aliis sensibus; et ideo maxime videretur
+          quod esset visus quam quicumque alius sensus particularis.
+        </p>
+        <p xml:id="da-28-l2q37-1544la-26">
+          Item omne animal habet potentiam sensitivam, ut notum est, unde
+          animal est animal per sensum. Sed quaedam non habent phantasiam, ut
+          formica et apes, sicut explicatur in litera. Sed ut dicit <name>Albertus</name>,
+          illud exemplum omnino falsum est. Apes enim artificiose operantur casas,
+          et formica sibi providet in futurum; quod sine imaginatione aut
+          phantasia facere non possent. Unde
+          <cit>
+            <ref><name ref="#Averroes">Commentator</name></ref>
+            <bibl><author>Averroes</author>, <title>In De anima</title>, l. II, comm. 156</bibl>
+          </cit>
+          videtur velle quod apes et formica habent imaginativam: apes quidem per artificium,
+          id est propter hoc quia operantur similiter arti; et formica propter
+          depositum, id est quia deponit nutrimentum suum in loco determinato et
+          tempore determinato. Et <name>Albertus</name> putat hoc provenisse non ex vitio
+          <name>Philosophi</name>, sed ex vitio translatoris: quia translator non intellexit
+          nomina animalium quae dicit <name ref="#Aristotle">Aristoteles</name> phantasiam non habere, et loco
+          eorum posuit formicas et apes. Vel si volumus salvare illam literam et
+          bonitatem translationis, possumus legere illud exemplum affirmative, ut
+          fit sensum quod phantasia non videtur inesse quibusdam animalibus sicut
+          inest formicae et api; et hoc est verum. Istis enim inest phantasia
+          determinata, scilicet quae potest esse in actu suo in absentia sensatorum.
+        </p>
+        <p xml:id="da-28-l2q37-1544la-27">
+          De apibus autem dicit
+          <cit>
+            <ref><name ref="#Averroes">Commentator</name> in II <title>huius</title>, capite de odore,</ref>
+            <bibl><author>Averroes</author>, <title>In De anima</title>, l. II, comm. 97</bibl>
+          </cit>
+          quod apes moventur ad nutrimentum ex loco remotissimo, quia, in
+          quacunque regione fuerint, in quodam tempore singulis annis petunt litus
+          maris, ut ex limo vigorem sui nutrimenti percipiant. Formica similiter
+          procedit de uno loco ad alium, quasi imaginans suum nutrimentum distans,
+          et redit ad locum determinatum ubi congregat in aestate de quo vivat in
+          hieme. Unde
+          <cb ed="#Ve_1544" n="b"/>
+          in quadam scriptura dicitur: Surge miser usquequo
+          dormis! Vade ad formicam et considera vias eius! Quae cum non habeat
+          conductorem, congregat in aestate de quo vivat in hyeme etc.
+        </p>
+        <p xml:id="da-28-l2q37-1544la-28">
+          Patet igitur quod phantasia non est sensus in potentia. Et per idem
+          convincitur quod non sit sensus in actu, quia iste inest omnibus
+          animalibus, phantasia autem non omnibus.
+        </p>
+        <p xml:id="da-28-l2q37-1544la-29">
+          Sed considerandum quod secundum
+          <cit>
+            <ref><name ref="#Averroes">Commentatorem</name> in <title>isto</title> II</ref>
+            <bibl><author>Averroes</author>, <title>In De anima</title>, l. II, comm. 20</bibl>
+          </cit>
+          -- et innuit
+          <cit>
+            <ref><name ref="#Aristotle">Aristoteles</name> in III <title>huius</title></ref>
+            <bibl><author ref="#Aristotle">Aristoteles</author>, <title>De anima</title>, l. III, t. comm. 56</bibl>
+          </cit>
+          -- phantasia est duplex.
+          Quaedam est phantasia imperfecta et diminuta, et est illa quae non est
+          in actu suo nisi in praesentia rei sensibilis. Et ista habent animalia
+          quaecunque imperfecta. Nam aliter non cognoscerent intentionem
+          convenientis et nocivi, nec fugerent nocivum, nec prosequerentur
+          conveniens. Cuius oppositum videmus in imperfectissimis, scilicet quibus
+          tactum solus inest, ut
+          <cit>
+            <ref><name ref="#Aristotle">Aristoteles</name> dicit in III <title>huius</title>.</ref>
+            <bibl><author ref="#Aristotle">Aristoteles</author>, <title>De anima</title>, l. III, t. comm. 28, 29 et 30</bibl>
+          </cit>
+          Ista enim cum punguntur, aut eis apponitur aliquid disconveniens,
+          retrahunt se; quod non facerent nisi iudicarent illud sibi nocivum. Et
+          cum apponitur eis aliquid conveniens, dilatant se super illud ut
+          possunt; quod nequaquam agerent, nisi cognoscerent illud sibi
+          conveniens. ’Nocivum’ autem et ’conveniens’ seu ’proficuum’ sunt
+          intentiones non sensatae, quas non cognoscit aliquis sensus exterior.
+          Unde relinquitur quod habeant virtutem interiorem cognoscitivam istarum
+          proprietatum, licet multum diminute cognoscant, et solum cognoscant re
+          praesente. Cuius signum manifestum est, quia nunquam moverentur de se de
+          uno loco ad alium locum distantem. Istis igitur concedebatur phantasia
+          indeterminata, id est imperfecta et diminuta. Phantasia vero determinata
+          est illa quae phantasiatur aliquid in absentia ipsius, et hanc habent
+          animalia mobilia de loco ad locum.
+        </p>
+        <p xml:id="da-28-l2q37-1544la-30">
+          Item, quod phantasia non sit sensus secundum actum est manifestum ex
+          alio: quia dormientibus contingunt phantasticae
+          <app>
+            <lem type="conjecture-corrected"><corr>appetitiones</corr></lem>
+            <rdg wit="#Ve_1544">appitiones</rdg>
+            </app>,
+            in quibus tamen nullus est sensus particularis in actu sentiendi, ut probatur in
+            <title>De somno et vigilia</title>. Ergo phantasia
+            nullo modo est sensus particularis.
+        </p>
+        <p xml:id="da-28-l2q37-1544la-31">
+          Et est notandum quod phantasia aliquando sumitur pro potentia
+          naturali animae sensitivae, aliquando pro actu illius virtutis; et pro
+          potentia aliquando sumitur pro virtute reservativa specierum
+          sensibilium, et sic est imaginativa, et quandoque sumitur pro potentia
+          cognoscitiva ipsorum sensibilium in absentia eorum et cognoscitiva etiam
+          intentionum non sensatarum, et sic est cogitativa secundum rei veritatem
+          secundum
+          <cit>
+            <ref><name ref="#Averroes">Commentatorem</name> III <title>huius</title>.</ref>
+            <bibl><author>Averroes</author>, <title>In de anima</title>, l. III, comm. 20</bibl>
+          </cit>
+          Primo quidem modo videtur
+          <cit>
+            <ref><name ref="#Aristotle">Aristoteles</name></ref>
+            <bibl><author ref="#Aristotle">Aristoteles</author>, <title>De anima</title>, l. II, t. comm. 162</bibl>
+          </cit>
+          sumere phantasiam cum dicit quod in ipsa maneant species
+          sensibilium similes sensibilibus. Et secundo modo
+          <cit>
+            <ref><name>ipse</name> dicit III <title>huius</title></ref>
+            <bibl><author ref="#Aristotle">Aristoteles</author>, <title>De anima</title>, l. III, t. comm. 56</bibl>
+          </cit>
+          quod phantasia quaedam est rationalis, ut tangebatur prius; et etiam cum
+          <cit>
+            <ref><name>ipse</name> dicit III <title>huius</title></ref>
+            <bibl><author ref="#Aristotle">Aristoteles</author>, <title>De anima</title>, l. III, t. comm. 50</bibl>
+          </cit>
+          phantasiam esse principium motus una cum appetitu, ibi sumit phantasiam pro cogitativa.
+          Illa enim virtus quae cum appetitu est principium motus, debet
+          cognoscere illud ad quod est motus tanquam bonum ad prosequendum. Unde
+          <cit>
+            <ref><name ref="#Aristotle">Aristoteles</name> probat III <title>huius</title></ref>
+            <bibl><author ref="#Aristotle">Aristoteles</author>, <title>De anima</title>, l. III, t. comm. 46, 30 et 34</bibl>
+          </cit>
+          intellectum speculativum non esse principium motus,
+          quia nihil dicit de prosequibili aut fugibili.
+          Et in illo capitulo:
+          <hi rendition="simple:italic">Videtur autem sensibile ex potentia existente</hi>
+          etc. dicit:
+          <hi rendition="simple:italic">Cumque autem delectabile aut tristabile
+          affirmat aut negat aut fugit aut sequitur</hi>.
+          Non enim appetitus appetit prosequi nisi illud quod cognitum est sub ratione boni, neque
+          fugere nisi quod cognitum est ut malum. Et hoc etiam manifestum est in
+          <title>De motibus animalium</title> et ex III <title>Ethicorum</title>.
+          Virtus autem phantastica quam
+          <cit>
+            <ref><name ref="#Aristotle">Aristoteles</name></ref>
+            <bibl><author ref="#Aristotle">Aristoteles</author>, <title>De anima</title>, l. III, t. comm. 39</bibl>
+          </cit>
+          ponit esse principium motus cum appetitu
+          non est illa virtus quae solum reservat imagines aut species, sed est
+          virtus cogitativa modo praedicto; et illa est cogitativa virtus in
+          hominibus et aestimativa in brutis. Et sic manifeste apparet quod
+          <name ref="#Aristotle">Aristoteles</name> accipit phantasiam pro cogitativa et aestimativa.
+          Adhuc cum ipse dicit quod
+          <hi rendition="simple:italic">intelligentem quemcunque necesse est phantasma aliquod speculari</hi>,
+          puto quod per phantasma intelligat actum cogitativae.
+          Et similiter in aliis verbis in quibus
+          assignat virtutem ministrantem intellectui.
+          Sed hoc magis manifestabitur in III.
+        </p>
+        <p xml:id="da-28-l2q37-1544la-32">
+          <supplied><hi rendition="simple:bold">Ad arg. I:</hi></supplied>
+          Ad primam rationem dico quod concludit phantasiam esse aliquem sensum,
+          communiter dicto sensu pro interiori et exteriori.
+          Sed non probat quod sit sensus particularis exterior.
+        </p>
+        <p xml:id="da-28-l2q37-1544la-33">
+          <supplied><hi rendition="simple:bold">Ad arg. II:</hi></supplied>
+          Ad aliam cum dicitur:
+          virtutes quae habent idem obiectum etc. dico quod verum est, nisi
+          <app>
+            <lem type="conjecture-corrected"><corr>sunt</corr></lem>
+            <rdg wit="#Ve_1544">sint</rdg>
+          </app>
+          virtutes ordinatae adinvicem, sic quod una immutaretur ab alia;
+          sed si sunt ordinatae isto modo possunt habere quodammodo idem obiectum.
+          Modo, phantasia et sensus sunt ordinatae virtutes,
+          quia phantasia non immutatur a rebus exterioribus nisi mediante
+          <pb ed="#Ve_1544" n="46-v"/><cb ed="#Ve_1544" n="a"/>
+          sensu, et ideo possunt habere idem
+          obiecto. Visus autem et auditus sunt diversae virtutes quarum una non
+          immutatur ab alia, et sic non habent unum obiectum, sed diversa.
+        </p>
+        <p xml:id="da-28-l2q37-1544la-34">
+          <supplied><hi rendition="simple:bold">Ad arg. III:</hi></supplied>
+          Ad aliam dico quod
+          imo phantasia, pro actu praedictae virtutis, est motus factus a sensu
+          actu simili illi, ut dicit
+          <cit>
+            <ref><name ref="#Aristotle">Aristoteles</name></ref>
+            <bibl><author ref="#Aristotle">Aristoteles</author>, <title>De anima</title>, l. II, t. comm. 161</bibl>
+          </cit>
+          et <name ref="#Averroes">Commentator</name>.
+          Et cum dicitur quod motus non remanet etc., potest dici quod sicut in motu
+          continuo est considerare ipsam perfectionem quae recipitur et ipsam
+          receptionem quam
+          <cit>
+            <ref><name ref="#Averroes">Commentator</name> vocat transmutationem coniunctam cum tempore in V <title>Physicorum</title>,</ref>
+            <bibl><author>Averroes</author>, <title>In Physica</title>, l. V, comm. 9</bibl>
+          </cit>
+          sic in alteratione spirituali et instantanea est considerare qualitatem
+          spiritualem quae recipitur in virtute aliqua, et ipsam actualem
+          transmutationem qua denominatur
+          <app>
+            <lem type="conjecture-corrected"><corr>transmutata</corr></lem>
+            <rdg wit="#Ve_1544">transmutatam</rdg>
+            </app>,
+            vel receptionem qua dicitur recipiens in actu. Et si quidem sumatur motus
+            spiritualis pro illa qualitate spirituali quae recipitur in aliquo
+            subiecto spiritualiter immutato, ille motus utique remanere potest
+            absente vel deficiente motore qui illam formam impressit, ut deficiente
+            vel absente igne calefaciente aquam, potest remanere illa calididitas
+            quam generavit ignis. Similiter autem est in aliis multis. Sed si
+            sumatur motus pro ipsa transmutatione actuali qua formaliter aliquid
+            dicitur transmutari, et est de genere passionis secundum
+            <cit>
+              <ref><name ref="#Averroes">Commentatorem</name> in V <title>Physicorum</title> et in III,</ref>
+              <bibl><author>Averroes</author>, <title>In Physica</title>, l. V, comm. 9, et l. III, comm. 4 et 7</bibl>
+            </cit>
+            sic verum est quod motus non remanet deficiente motore;
+            absente enim igne calefaciente, amplius aqua non transmutatur ad
+            caliditatem. Et est intelligenda diffinitio quam ponit <name ref="#Aristotle">Aristoteles</name>, quod
+            phantasia est motus factus a sensu secundum actum, id est quaedam forma
+            vel qualitas spiritualis impressa alicui virtuti ab ipso sensu actuato
+            specie sensibili; et illa multum bene remanet in virtute reservativa.
+            Unde sine dubio <name ref="#Aristotle">Aristoteles</name> videtur ibi capere phantasiam pro actu
+            virtutis imaginativae, quem recipit a sensu actuato; et ideo non valet
+            ratio. Dixerunt autem aliqui quod diffinitio sic intelligi debet:
+            Phantasia est motus etc. id est, virtus nata moveri a sensu secundum
+            actum, ita quod ibi <name ref="#Aristotle">Aristoteles</name> accipit accidens pro subiecto ad ipsum
+            notificandum; ideo non valet ratio.
+        </p>
+        <p xml:id="da-28-l2q37-1544la-35">
+          Et haec de secundo libro <hi rendition="simple:italic">De
+          anima</hi>.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>
