@@ -4,7 +4,10 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Quaestiones in De anima</title>
+        <title>
+          Quaestio III.28: Utrum intellectus possibilis possit intelligere
+          seipsum
+        </title>
         <author>John of Jandun</author>
         <editor>Michael Stenskjær Christensen</editor>
       </titleStmt>
@@ -67,7 +70,7 @@
           intel<lb ed="#V"/>ligere seipsum<pc type="punctus"/> et arguitur primo
           <lb ed="#V"/> quod non<pc type="punctus"/> quia sicut se habet sensus ad
           sen<lb ed="#V"/>tire sic intellectus ad intelligere per
-          con<lb ed="#V"/>venientem similitudinem<pc type="punctus"/> sed sens non
+          con<lb ed="#V"/>venientem similitudinem<pc type="punctus"/> sed sensus non
           <lb ed="#V"/> sentit seipsum<pc type="punctus"/> immo neque suam cognoscit
           <lb ed="#V"/> sensationem<pc type="punctus"/> ut vult Aristoteles in de somno et
           <lb ed="#V"/> vigilia non enim visus sentit seipsum
@@ -77,14 +80,14 @@
           Item quod non est sensibilie non
           <lb ed="#V"/> est intelligibile cum intelligere vel sit
           phan<lb ed="#V"/>tasia vel non est sine phantasia<pc type="punctus"/> et
-          intelligen<lb ed="#V"/> te quemqumque necesse est phantasma aliquod
+          intelligen<lb ed="#V"/>tem quemqumque necesse est phantasma aliquod
           <lb ed="#V"/> speculari<pc type="punctus"/> sed intellectus possibilis non est
           <lb ed="#V"/> sensibilis<pc type="punctus"/> ut patet ex isto tertio quare et cetera<pc type="punctus"/>
         </p>
         <p xml:id="venice1480-da-28-l3q28-jn8wgr">
           <lb ed="#V"/> Item si sic tunc idem esset in actu et in
           po<lb ed="#V"/>tentia respectu eiusdem<pc type="punctus"/> quod est
-          impos<lb ed="#V"/>sibilie quia ista sunt valde opposita<pc type="punctus"/> ut
+          impos<lb ed="#V"/>sibile quia ista sunt valde opposita<pc type="punctus"/> ut
           pa<lb ed="#V"/>tet nono metaphysicae<pc type="punctus"/> et habetur a Commentator in
           <lb ed="#V"/> primo huius<pc type="punctus"/> et patet consequentia<pc type="punctus"/> quia intelligere est
           <lb ed="#V"/> actus respectu intellectus intelligentis<pc type="punctus"/> et
@@ -92,9 +95,9 @@
           intel<lb ed="#V"/>lectionis<pc type="punctus"/> ut patet ex isto tertio quare et cetera<pc type="punctus"/>
         </p>
         <p xml:id="venice1480-da-28-l3q28-pcfqv6">
-          <lb ed="#V"/> Item se sic aut intelligeret seipsum per
+          <lb ed="#V"/> Item si sic aut intelligeret seipsum per
           <lb ed="#V"/> suam essentiam seu substantiam<pc type="punctus"/> aut per
-          <lb ed="#V"/> aliuquid aliud<pc type="punctus"/> per sufficientem divisionem
+          <lb ed="#V"/> aliquid aliud<pc type="punctus"/> per sufficientem divisionem
           <lb ed="#V"/> non per seipsum<pc type="punctus"/> quia intelligibilia et
           in<lb ed="#V"/>tellectus possibilis sunt eiusdem rationis
           <lb ed="#V"/> quia aliter intellectus possibilis non esset
@@ -107,9 +110,9 @@
           <lb ed="#V"/> autem ipse intellectus possibilis est intelligibilis per
           in<lb ed="#V"/>tentionem aliam sive per aliquid aliud<pc type="punctus"/> tunc cum
           <lb ed="#V"/> alia intelligibilia scilicet entia materialia sint
-          intelligi<lb ed="#V"/>bilia per aliquid aliud et ips anon intelligunt<pc type="punctus"/>
+          intelligi<lb ed="#V"/>bilia per aliquid aliud et ipsa non intelligunt<pc type="punctus"/>
           se<lb ed="#V"/>quitur quod intellectus possbiilis etiam non intelligeret
-          <lb ed="#V"/> quod est absurdem<pc type="punctus"/> et haec est ration Aristotelis in littera<pc type="punctus"/>
+          <lb ed="#V"/> quod est absurdem<pc type="punctus"/> et haec est ratio Aristotelis in littera<pc type="punctus"/>
         </p>
         <p xml:id="venice1480-da-28-l3q28-mmmbek">
           Item
@@ -143,7 +146,7 @@
         </p>
         <p xml:id="venice1480-da-28-l3q28-m5hr0v">
           Item intellectus possibilis
-          enun<lb ed="#V"/>ciat aliquae de seipso secundum affirmationem et
+          enun<lb ed="#V"/>tiat aliquae de seipso secundum affirmationem et
           ne<lb ed="#V"/>gationem ut quod ipse sit substantia incorporea et est in
           <lb ed="#V"/> potentia ad intelligibilia et huiusmodi multa sicut
           <lb ed="#V"/> patet ex prius dictis<pc type="punctus"/> Secundum ostenditur<pc type="punctus"/> quia si
@@ -154,7 +157,7 @@
         </p>
         <p xml:id="venice1480-da-28-l3q28-0ar1w4">
           Istam rationem tangit Commentator
-          <lb ed="#V"/> in commento quito ubi dicit<pc type="punctus"/> et si iste
+          <lb ed="#V"/> in commento quinto ubi dicit<pc type="punctus"/> et si iste
           intelle<lb ed="#V"/>ctus esset intellectus per se contingeret in scientia
           specula<lb ed="#V"/>tiva quod scientia et scitum essent idem quod est impsossibile
           <lb ed="#V"/> consequentia non est omnino manifesta<pc type="punctus"/> nec etiam
@@ -163,7 +166,7 @@
           <lb ed="#V"/> bene manifestum est<pc type="punctus"/> Cum ergo intellectus et
           intelligibi<lb ed="#V"/>le se habeant sicut extrema et intellectio sit
           si<lb ed="#V"/>cut medium inter ea<pc type="punctus"/> sequitur quod si intellectus et
-          intel<lb ed="#V"/>ligibile sint omnino unum et 8idem cum eis et sic si
+          intel<lb ed="#V"/>ligibile sint omnino unum et idem cum eis et sic si
           <lb ed="#V"/> intellectus possibilis secundum seipsum est intelligens et
           <lb ed="#V"/> quod intelligitur necesse est quod intellectio sua sit substantia
           <lb ed="#V"/> sua et sic patet consequentia<pc type="punctus"/> sed falsitas huius consequentis potest
@@ -194,7 +197,7 @@
           <lb ed="#V"/> actu de se formaliter<pc type="punctus"/> quia omnis talis substantia est de se
           <lb ed="#V"/> intelligens et intellecta intellectione quae est sua
           sub<lb ed="#V"/>stantia secundum doctrinam Aristotelis et Commentatoris in isto tertio
-          <lb ed="#V"/> Sed diceret aliquis contra istrud correlarium<pc type="punctus"/> quod
+          <lb ed="#V"/> Sed diceret aliquis contra istud correlarium<pc type="punctus"/> quod
           <lb ed="#V"/> non sequitur<pc type="punctus"/> et cum dicitur omnis substantia intellectualis
           <lb ed="#V"/> actu existens de se intelligit seipsa et cetera<pc type="punctus"/> verum est
           <lb ed="#V"/> si sit talis substantia actu quae non sit dependens in
@@ -230,7 +233,7 @@
           de<lb ed="#V"/>beat aliter et magis esse dispositus ad
           recipen<lb ed="#V"/>dum cognitionem suiipsius quam ad recipiendum
           <lb ed="#V"/> cognitiones aliorum entium<pc type="punctus"/> unde cum ad
-          recipiend<lb ed="#V"/>dum cognitiones entium naturalium disponatur per
+          recipien<lb ed="#V"/>dum cognitiones entium naturalium disponatur per
           spe<lb ed="#V"/>cies eorum non esset rationabile quod eisdem speciebus
           <lb ed="#V"/> proficeatur ad cognitionem suiipsius<pc type="punctus"/> quod ergo
           intelle<lb ed="#V"/>ctus possibilis indigeat ad cognitionem
@@ -243,7 +246,7 @@
           viden<lb ed="#V"/>dum est modus per quem intellectus possibilis
           per<lb ed="#V"/>veniat ad intelligere seipsum<pc type="punctus"/> et breviter credo
           <lb ed="#V"/> quod modus est quod prius intelligat aliquod
-          intelligibi<lb ed="#V"/>le per eius speciem recpetam quodcumque sit illud<pc type="punctus"/>
+          intelligibi<lb ed="#V"/>le per eius speciem receptam quodcumque sit illud<pc type="punctus"/>
           de<lb ed="#V"/>inde considerat istam speciem in se receptam de
           no<lb ed="#V"/>vo<pc type="punctus"/> et postmodum considerat potentiam
           recep<lb ed="#V"/>tivam illius speciei<pc type="punctus"/> et tandum considerat substantiam
@@ -283,7 +286,7 @@
           dispo<lb ed="#V"/>situs et perfectus speciebus intelligibilibus
           abstra<lb ed="#V"/>ctis a materia<pc type="punctus"/> cum ergo intelligit seipsum modo
           acciden<lb ed="#V"/>tali ut dicit Alexander id est secundum quod accidit
-          intelle<cb ed="#V" n="b"/><lb ed="#V"/>ctis rerum quae fuerunt ipae ipsae id est essentia eius<pc type="punctus"/> haec
+          intelle<cb ed="#V" n="b"/><lb ed="#V"/>ctis rerum quae fuerunt ipsae id est essentia eius<pc type="punctus"/> haec
           <lb ed="#V"/> sunt verba Commentatoris quae sic intelligo<pc type="punctus"/> quod
           intelle<lb ed="#V"/>ctus intelligit seipsum modo accidentali id est
           dis<lb ed="#V"/>ponitur ad intelligendum seipsum per aliquod
@@ -298,7 +301,7 @@
           <lb ed="#V"/> recipiuntur in eius essentia<pc type="punctus"/> bene tamen verum est quod
           <lb ed="#V"/> huiusmodi species sunt essentia intellectus possibilis secundum quod
           <lb ed="#V"/> ipse non est dispositus et praeperatus ad intelligere
-          <lb ed="#V"/> sin eillis<pc type="punctus"/> sed tunc ille species non sunt idem
+          <lb ed="#V"/> sine illis<pc type="punctus"/> sed tunc illae species non sunt idem
           essenti<lb ed="#V"/>aliter cum substantia intellectus possibilis absolute<pc type="punctus"/> et haec
           <lb ed="#V"/> expositio hoc est consideranda<pc type="punctus"/> Considerandum
           <lb ed="#V"/> etiam quod quamvis intellectus possibilis secundum
@@ -319,10 +322,10 @@
           <lb ed="#V"/> potest intelligere seipsum modo praedicto intellectione
           <lb ed="#V"/> simplici et intuitiva quae est de primis eius
           opera<lb ed="#V"/>tionibus quoquo modo<pc type="punctus"/> sed etiam ipse potest se
-          intellige<lb ed="#V"/>re enuntiando aliquae de sipso secundum affirmationem
-          <lb ed="#V"/> et negationem<pc type="punctus"/> ut quod ipse sit substantia materialis it
+          intellige<lb ed="#V"/>re enuntiando aliquae de seipso secundum affirmationem
+          <lb ed="#V"/> et negationem<pc type="punctus"/> ut quod ipse sit substantia materialis et
           incor<lb ed="#V"/>porea et receptiva specierum et alia huiusmodi quae etiam de
-          <lb ed="#V"/> ipso demonstrative cognoscit<pc type="punctus"/> sict patet ex ista
+          <lb ed="#V"/> ipso demonstrative cognoscit<pc type="punctus"/> sicut patet ex ista
           <lb ed="#V"/> scientia de anima<pc type="punctus"/> et in hac scientia est delectatio
           mirabi<lb ed="#V"/>lis et sincera quam non percipiunt nisi pauci<pc type="punctus"/>
         </p>
@@ -371,7 +374,7 @@
           pos<lb ed="#V"/>sibile ut patet in animali movente seipsum<pc type="punctus"/> dicam
           <lb ed="#V"/> ergo quod anima intellectiva intelligens seipsam est in
           <lb ed="#V"/> actu et in potentia simul respectu sui intelligere
-          <lb ed="#V"/> sed hoc est ratione diversorum quae sun in ea<pc type="punctus"/> Est enim in
+          <lb ed="#V"/> sed hoc est ratione diversorum quae sunt in ea<pc type="punctus"/> Est enim in
           <lb ed="#V"/> potentia receptiva ratione suae naturae possibilis
           <lb ed="#V"/> et est in potentia activa respectu intellectu
           agen<lb ed="#V"/>tis<pc type="punctus"/> ut prius dictum fuit<pc type="punctus"/>
@@ -385,11 +388,11 @@
           in<lb ed="#V"/>telligibilia sicut intellectus<pc type="punctus"/> dico quod non est simile
           <lb ed="#V"/> quia species rerum materialium quibus intelliguntur non
           <lb ed="#V"/> sunt in eis in actu subiective et inhaerenter<pc type="punctus"/> sed in potentia
-          <lb ed="#V"/> activa prop quanto movent intellectum ad suas
+          <lb ed="#V"/> activa pro quanto movent intellectum ad suas
           <lb ed="#V"/> species<pc type="punctus"/> et ideo non intelligunt secundum eas<pc type="punctus"/> sed huius species
           <lb ed="#V"/> sunt in intellectu secundum actum id est inhaerentes ei
           forma<lb ed="#V"/>liter<pc type="punctus"/> et sic perficiunt eum ad intelligere et haec est
-          inten<lb ed="#V"/>tio Aristotelis et Commentatores in littera<pc type="punctus"/> dicit enim Aristoteles quod in
+          inten<lb ed="#V"/>tio Aristotelis et Commentatoris in littera<pc type="punctus"/> dicit enim Aristoteles quod in
           <lb ed="#V"/> habentibus materiam unumquodque intelligibilium est in
           po<lb ed="#V"/>tentia scilicet ad species intelligibile modo praedicto<pc type="punctus"/> et
           <lb ed="#V"/> ideo illis scilicet rebus materialibus non <unclear>inhaereat</unclear> intellectus
@@ -399,11 +402,11 @@
           <lb ed="#V"/> intellectu est intelligibile et non intelligens<pc type="punctus"/> et hoc
           <lb ed="#V"/> etiam voluit dicere Commentator ibidem<pc type="punctus"/> ubi sic
           loqui<lb ed="#V"/>tur<pc type="punctus"/> Dissolutio ergo quaestionis est<pc type="punctus"/> quod intentio per quam
-          <lb ed="#V"/> intellectus materialis sit intellectus actu est quamtum est
-          intel<lb ed="#V"/>lectu actu id est species intelligibilis per quma
+          <lb ed="#V"/> intellectus materialis sit intellectus actu est quantum est
+          intel<lb ed="#V"/>lectu actu id est species intelligibilis per quam
           in<lb ed="#V"/>tellectus materialis fit actu intellectus est in ipso
           intel<lb ed="#V"/>lectu actu scilicet sicut forma ei inhaerens<pc type="punctus"/>
-          Inten<cb ed="#V" n="b"/><lb ed="#V"/>tio vero per quma res quae sunt extra animam sunt entia est
+          Inten<cb ed="#V" n="b"/><lb ed="#V"/>tio vero per quam res quae sunt extra animam sunt entia est
           <lb ed="#V"/>quia sunt intellectae in potentia id est species
           intelligibi<lb ed="#V"/>lis per quam res extra animam est intelligibilis est in
           ip<lb ed="#V"/>sa in potentia modo praedicto<pc type="punctus"/> Vel sic intentio id est
