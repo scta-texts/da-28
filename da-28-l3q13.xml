@@ -163,7 +163,7 @@
                 <title ref="#Arist.Metaph">Metaph</title> IV.4 1006b10.
               </bibl>
             </cit>
-            , et probatur consequentia quia cum intellectio lapidis sit in
+            . Et probatur consequentia quia cum intellectio lapidis sit in
             intellectu, oportet quod intellectus intelligat lapidem sicut cum
             visio coloris est in visu necesse est tunc quod visus videat colorem,
             si igitur intellectus intelligeret intellectionem lapidis existentem
@@ -214,12 +214,11 @@
             et
             <cit>
               <ref>
-                <name ref="#Averroes">Commentator</name>
-                dicit in suo libro de generatione
+                <name ref="#Averroes">Commentator</name> dicit in suo libro
+                <title ref="#Averroes.GC">De generatione</title>
               </ref>
               <quote type="paraphrase">
-                quod nullum ens est
-                ignotum naturaliter
+                quod nullum ens est ignotum naturaliter
               </quote>
               <bibl>
                 <name ref="#Averroes">Arist.</name>
@@ -247,9 +246,9 @@
                 429b10--14, comm. III.9, p. 422.36--50 (ed. Crawford).
               </bibl>
             </cit>
-            ; cum igitur lapis sit alia natura a sua intellectione et econverso
-            quomodo potest esse unum et idem intelligere quo intelligit utrumque,
-            si autem illa intellectio sit alia ab intellectione lapidis sequitur
+            ; cum igitur lapis sit alia natura a sua intellectione et econverso,
+            quomodo potest esse unum et idem intelligere quo intelligit utrumque?
+            Si autem illa intellectio sit alia ab intellectione lapidis, sequitur
             unum inconveniens manifestum, scilicet quod intellectus simul potest
             intelligere infinita sub rationibus suis propriis, <pb ed="#V"
             n="218"/><cb ed="#V" n="a"/> quia qua ratione intellectus intelligit
@@ -278,7 +277,7 @@
             intellectionem existentem in eo intellectione diversa ab illa.
           </p>
           <p xml:id="da-28-l3q13-lfl9hf">
-            Qualiter ergo intelliget eam. Et ad istam difficultatem solvendam
+            Qualiter ergo intelliget eam? Et ad istam difficultatem solvendam
             invenio paucos laborasse manifeste. Unde ad praesens sufficit mihi
             probabiliter transire, salva mihi libertate aliter dicendi alias, si
             mihi melius apparebit. Possem itaque dicere quod intellectus
@@ -318,31 +317,31 @@
           <p xml:id="da-28-l3q13-qfglmx">
             Et ad auctoritatem <name ref="#Averroes">Commentatoris</name>, cum
             dicitur <quote>intelligere diversificatur secundum diversitatem
-            naturae intellectae</quote>, possum dicere quod verum est si illae res
-            sint eiusdem ordinis, verbi gratia intellectiones duarum formarum
-            materialium sunt diversae, et similiter intellectiones duorum
-            diversorum actuum immaterialium sunt diversae; sed si intelligibilia
-            sunt diversorum ordinum, scilicet quod unum illorum sit materiale et
-            aliud abstractum ab illo materiali, sic non oportet quod eorum sint
-            diversae intellectiones, et sic est in proposito, nam intellectio
-            lapidis est in alio ordine entium a lapide et e contrario; lapis enim
-            est res materialis, et eius intellectio est quid immateriale et
-            abstractum et causatum ab ipso lapide et quoquomodo sciliet median<cb
-            ed="#V" n="b"/>te suo phantasmate una cum intellectu agente, quare non
-            valet.
+            naturae intellectae</quote>, possum dicere quod verum est si illae
+            res sint eiusdem ordinis, verbi gratia intellectiones duarum
+            formarum materialium sunt diversae, et similiter intellectiones
+            duorum diversorum actuum immaterialium sunt diversae; sed si
+            intelligibilia sunt diversorum ordinum, scilicet quod unum illorum
+            sit materiale et aliud abstractum ab illo materiali, sic non oportet
+            quod eorum sint diversae intellectiones, et sic est in proposito,
+            nam intellectio lapidis est in alio ordine entium a lapide et e
+            contrario; lapis enim est res materialis, et eius intellectio est
+            quid immateriale et abstractum et causatum ab ipso lapide et quoquo
+            modo, scilicet median<cb ed="#V" n="b"/>te suo phantasmate, una cum
+            intellectu agente, quare non valet.
           </p>
         </div>
         <div ana="ad-rationes">
           <p xml:id="da-28-l3q13-r8ha89">
             Ad primam rationem dico quod est simile de sensu et intellectu quoad
-            hoc; quia sicut sensus est subiectum sensationis sic intellectus
+            hoc, quia sicut sensus est subiectum sensationis sic intellectus
             intellectionis; sed est difficile in hoc, quia sensus est virtus
-            organica et corporea, et ideo non est nata cognoscere suum actum; sed
-            intellectus est virtus abstracta, et incorporea et ideo potest
+            organica et corporea, et ideo non est nata cognoscere suum actum,
+            sed intellectus est virtus abstracta, et incorporea et ideo potest
             cognoscere suum actum.
           </p>
           <p xml:id="da-28-l3q13-x88ng3">
-            Ad aliam cum dicitur quod <quote>non est sensibile et cetera</quote>
+            Ad aliam cum dicitur <quote>quod non est sensibile et cetera</quote>
             potest dici quod verum est quod nec est sensibile nec habet
             habitudinem ad aliquod sensibile, licet si habet habitudinem per se ad
             aliquod sensibile sic potest intelligi, modo licet intellectio non sit
@@ -361,9 +360,8 @@
               <ref>
                 <name ref="#Aristotle">Aristoteles</name> quod
               </ref>
-              <quote type="paraphrase">
-                unum non
-                intelligit et cetera
+              <quote>
+                unum non intelligit et cetera
               </quote>
               <bibl>
                 <name ref="#Aristotle">Arist.</name>
