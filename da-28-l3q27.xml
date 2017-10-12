@@ -65,7 +65,10 @@
     </front>
     <body>
       <div xml:id="da-28-l3q13">
-        <head>Quaestio 28</head>
+        <head>Quaestio 27</head>
+        <!-- The numbering is problematic. V1 counts 28 here because of the
+             question discussing the agent intellect that may or may not be a
+             question proper. -->
         <p xml:id="da-28-l3q27-qcwm7y">
           <supplied>N</supplied>unc tempus est quaerendi utrum intellectus
           possibilis possit intelligere seipsum.
@@ -95,20 +98,20 @@
           </p>
           <p xml:id="da-28-l3q27-pcfqv6">
             Item, si sic aut intelligeret seipsum per suam essentiam seu
-            substantiam aut per aliquid aliud per sufficientem divisionem; non per
-            seipsum, quia intelligibilia et intellectus possibilis sunt eiusdem
-            rationis, quia aliter intellectus possibilis non esset potentia una;
-            si ergo intellectus possibilis est intellectus a seipso per seipsum
-            sequitur quod etiam alia intelligibilia <pb ed="#V" n="263"/><cb
-            ed="#V" n="a"/> essent intelligibilia per seipsa, et tunc sicut
-            intellectus possibilis intelligit se sic et alia intelligerent, quod
-            est absurdum -- lapis enim et lignum non intelligunt, si autem ipse
-            intellectus possibilis est intelligibilis per intentionem aliam sive
-            per aliquid aliud, tunc cum alia intelligibilia, scilicet entia
-            materialia, sint intelligibilia per aliquid aliud et ipsa non
-            intelligunt, sequitur quod intellectus possbiilis etiam non
-            intelligeret, quod est absurdem, et haec est ratio Aristotelis in
-            littera.
+            substantiam aut per aliquid aliud per sufficientem divisionem; non
+            per seipsum, quia intelligibilia et intellectus possibilis sunt
+            eiusdem rationis, quia aliter intellectus possibilis non esset
+            potentia una; si ergo intellectus possibilis est intellectus a
+            seipso per seipsum sequitur quod etiam alia intelligibilia <pb
+            ed="#V1" n="263"/><cb ed="#V1" n="a"/> essent intelligibilia per
+            seipsa, et tunc sicut intellectus possibilis intelligit se sic et
+            alia intelligerent, quod est absurdum -- lapis enim et lignum non
+            intelligunt, si autem ipse intellectus possibilis est intelligibilis
+            per intentionem aliam sive per <cb ed="#V2" n="b"/> aliquid aliud,
+            tunc cum alia intelligibilia, scilicet entia materialia, sint
+            intelligibilia per aliquid aliud et ipsa non intelligunt, sequitur
+            quod intellectus possibilis etiam non intelligeret, quod est
+            absurdem, et haec est ratio Aristotelis in littera.
           </p>
           <p xml:id="da-28-l3q27-mmmbek">
             Item, quod non potest movere intellectum non potest intelligi,
@@ -177,63 +180,69 @@
               huius consequentis potest sic probari: nam si intellectus
               possibilis esset sua intellectio essentialiter, numquam reciperet
               de novo intellectionem suae propriae substantiae, nihil enim est
-              per se rece<cb ed="#V" n="b"/>ptivum alicuius quod est eiusdem
+              per se rece<cb ed="#V1" n="b"/>ptivum alicuius quod est eiusdem
               speciei cum eo; omnis autem intellectio propria secundum quam
               intelligitur substantia propria intellectus possibilis est eadem
-              secundum speciem per se loquendo sicut et ipse est unus secundum
-              speciem; si ergo intellectus possiblis esset sua intellectio,
-              numquam reciperet suam intellectionem eo quod recipiens debet esse
-              denudatum essentialiter a tota specie ipsius recepti, sicut
-              pulchre docet Commentator in isto tertio commento quinto et
-              septimo. Ridiculum enim esset dicere quod aliquid eiusdem speciei
-              cum aliquo esset per se receptivum illius, ut quod una albedo
-              esset per se receptiva alterius albedinis. Inconveniens autem
-              videtur omnino quod intellectus possibilis numquam recipiat de
-              novo intellectionem propriam suae propriae substantiae, quia
-              quilibet intelligens experitur in seipso se intelligere propriam
-              substantiam intellectus possibilis et eius differentiam a sua
-              potentia quoquo modo, et ab intellectu agente et a specie
-              intelligibili recepta in intellectu; ergo sequitur quod
-              intellectus possbilis non est intellectus a seipso per seipsum.
+              secundum speciem per se, loquendo sicut <quote>et ipse est unus
+              secundum speciem</quote>; si ergo intellectus possiblis esset sua
+              intellectio, numquam reciperet suam intellectionem eo quod
+              recipiens debet esse denudatum essentialiter a tota specie ipsius
+              recepti, sicut pulchre docet Commentator in isto tertio commento
+              quinto et septimo. Ridiculum enim esset dicere quod aliquid
+              eiusdem speciei cum aliquo esset per se receptivum illius, ut quod
+              una albedo esset per se receptiva alterius albedinis.
+            </p>
+            <p xml:id="da-28-l3q27-8ybaql">
+              Inconveniens autem videtur omnino quod intellectus possibilis
+              numquam recipiat de novo intellectionem propriam suae propriae
+              substantiae, quia quilibet intelligens experitur in seipso se
+              intelligere propriam substantiam intellectus possibilis et eius
+              differentiam a sua potentia quoquo modo, et ab intellectu agente
+              et a specie intelligibili recepta in intellectu; ergo sequitur
+              quod intellectus possibilis non est intellectus a seipso per
+              seipsum.
             </p>
             <p xml:id="da-28-l3q27-9es317">
               Et ex hoc sequitur unum correlarium quod etiam prius positum est,
               scilicet quod intellectus possibilis non est substantia aliquae
-              intellectualis actu de se formaliter, quia omnis talis substantia est
-              de se intelligens et intellecta intellectione quae est sua substantia
-              secundum doctrinam Aristotelis et Commentatoris in isto tertio. Sed
-              diceret aliquis contra istud correlarium quod non sequitur, et cum
-              dicitur <quote>omnis substantia intellectualis actu existens de se
-              intelligit seipsa et cetera</quote>, verum est si sit talis substantia
-              actu quae non sit dependens in operatione sua ab aliquo existente in
-              materia, scilicet a phantasmate. Hoc non proficit quia secundum istam
-              positionem ipse intellectus possiblis erit substantia actu naturaliter
-              priusquam moveatur ab aliquo phantasmate humano, et sic naturaliter
-              prius habebit aliquam operationem, quod non esset nisi prius
-              naturaliter intelligeret suam propriam substantiam; et confirmatur
-              omne quod de se formaliter est ens actu antequam moveatur et
-              informetur ab aliquod de se est intelligibile ab ipso intellectu
-              possibili priusquam ab aliquo moveatur, sic ergo intellectus
-              possibilis est substantia actu de se formaliter, antequam immutetur ab
-              aliquo existente in materia, necessario prius est intelligibilis sive
-              intellectus a seipso, quare ergo prius naturaliter intelliget seipsum
-              quam moveatur a phantasmate, cum ibi est prius intellectus et
-              intellgibile secundum seipsum. Sed ad hoc respondetur hic quod
-              intellectus possibilis bene est actu de se intellectus naturaliter
-              antequam moveatur a phantasmate; sed non est intellectus secundum
-              seipsum, nec potest intelligere seipsum potentia propinqua nisi cum
+              intellectualis actu de se formaliter, quia omnis talis substantia
+              est de se intelligens et intellecta intellectione quae est sua
+              substantia secundum doctrinam Aristotelis et Commentatoris in isto
+              tertio. Sed diceret aliquis contra istud correlarium quod non
+              sequitur, et cum dicitur <quote>omnis substantia intellectualis
+              actu existens de se intelligit seipsa et cetera</quote>, verum est
+              si sit talis substantia actu quae non sit dependens in operatione
+              sua ab aliquo existente in materia, scilicet a phantasmate. Hoc
+              non proficit quia secundum istam positionem ipse intellectus
+              possiblis erit substantia actu naturaliter priusquam moveatur ab
+              aliquo phantasmate humano, et sic naturaliter prius habebit
+              aliquam operationem, quod non esset nisi prius naturaliter
+              intelligeret suam propriam substantiam; et confirmatur omne quod
+              de se formaliter est ens actu antequam moveatur et informetur ab
+              aliquod de se est intelligibile ab ipso intellectu possibili
+              priusquam ab aliquo moveatur, sic ergo intellectus possibilis est
+              substantia actu de se formaliter, antequam immutetur ab aliquo <pb
+              ed="#V2" n="79-r"/><cb ed="#V2" n="a"/> existente in materia,
+              necessario prius est intelligibilis sive intellectus a seipso,
+              quare ergo prius naturaliter intelliget seipsum quam moveatur a
+              phantasmate, cum ibi est prius intellectus et intelligibile
+              secundum seipsum. Sed ad hoc respondetur hic quod intellectus
+              possibilis bene est actu de se intellectus naturaliter antequam
+              moveatur a phantasmate; sed non est intellectus secundum seipsum,
+              nec potest intelligere seipsum potentia propinqua nisi cum
               receperit speciem a phantasmate qua quidem specie disponitur ad
               recipiendum cognitionem suiipsius. Sed illud non est rationabile
-              omnino, quia postquam intellectus possibilis esset substantia ens actu
-              de se for<pb ed="#V" n="263"/><cb ed="#V" n="a"/>maliter antequam
-              moveatur ab aliquo alio, ipse debeat aliter et magis esse dispositus
-              ad recipendum cognitionem suiipsius quam ad recipiendum cognitiones
-              aliorum entium; unde cum ad recipiendum cognitiones entium naturalium
-              disponatur per species eorum, non esset rationabile quod eisdem
-              speciebus proficeatur ad cognitionem suiipsius; quod ergo intellectus
-              possibilis indigeat ad cognitionem suiipsius disponi per species
-              aliorum. Hoc non est nisi quia ipse secundum se est ens pure in
-              potentia receptiva et non actu de se formaliter.
+              omnino, quia postquam intellectus possibilis esset substantia ens
+              actu de se for<pb ed="#V1" n="263"/><cb ed="#V1" n="a"/>maliter
+              antequam moveatur ab aliquo alio, ipse debeat aliter et magis esse
+              dispositus ad recipendum cognitionem suiipsius quam ad recipiendum
+              cognitiones aliorum entium; unde cum ad recipiendum cognitiones
+              entium naturalium disponatur per species eorum, non esset
+              rationabile quod eisdem speciebus proficeatur ad cognitionem
+              suiipsius; quod ergo intellectus possibilis indigeat ad
+              cognitionem suiipsius disponi per species aliorum. Hoc non est
+              nisi quia ipse secundum se est ens pure in potentia receptiva et
+              non actu de se formaliter.
             </p>
           </div>
           <div>
@@ -280,7 +289,7 @@
               secundum quod ipse est dispositus et perfectus speciebus
               intelligibilibus abstractis a materia. Cum ergo intelligit seipsum
               modo accidentali, ut dicit Alexander, id est secundum quod accidit
-              intelle<cb ed="#V" n="b"/>ctis rerum quae fuerunt ipsae, id est
+              intelle<cb ed="#V1" n="b"/>ctis rerum quae fuerunt ipsae, id est
               essentia eius, haec sunt verba Commentatoris quae sic intelligo
               quod intellectus intelligit seipsum modo accidentali, id est
               disponitur ad intelligendum seipsum per aliquod accidens, scilicet
@@ -290,8 +299,8 @@
               essentia eius, id est quod fuerunt receptae in essentia eius. Non
               ergo est intelligendum quod ipse intelligit seipsum per species
               rerum pro tanto, quia illae species sint idem essentialiter cum
-              substantia ipsius intellectus hoc absit, sed quia huiusmodi
-              species accidunt ei et recipiuntur in eius essentia; bene tamen
+              substantia ipsius intellectus hoc absit; sed quia huiusmodi
+              species accidunt ei et recipiuntur in eius essentia, bene tamen
               verum est quod huiusmodi species sunt essentia intellectus
               possibilis secundum quod ipse non est dispositus et praeperatus ad
               intelligere sine illis, sed tunc illae species non sunt idem
@@ -301,13 +310,14 @@
             <p xml:id="da-28-l3q27-fcpuw5">
               Considerandum etiam quod quamvis intellectus possibilis secundum
               communem doctrinam non intelligat seipsum in eodem instanti in quo
-              intelligit rem cuius species est apud eum, sed in alio instanti, et in
-              tempore medio continuatur intellectio illius rei, cum contingit quod
-              illud tempus est multum breve et parvum et propter eius parvitatem
-              putatur nullum esse, et ideo in eodem instanti creditur utraque
-              intellectio contingere; immo audivi aliquis dicere se expiri in seipsis
-              quod ipsi intelligerent simul rem et ipsum suum intellectum; hoc autem
-              est bene difficile et forte inquiretur a modo in consequentibus, an
+              intelligit rem cuius species est apud eum, sed in alio instanti,
+              et in tempore medio continuatur intellectio illius rei, cum
+              contingit quod illud tempus est multum breve et parvum et propter
+              eius parvitatem putatur nullum esse, et ideo in eodem instanti
+              creditur utraque intellectio contingere; immo audivi aliquis
+              dicere <cb ed="#V2" n="b"/> se expiri in seipsis quod ipsi
+              intelligerent simul rem et ipsum suum intellectum; hoc autem est
+              bene difficile et forte inquiretur a modo in consequentibus, an
               intellectus possit simul intelligere plura intelligibilia diversis
               intellectionibus.
             </p>
@@ -343,7 +353,7 @@
             esse speculatio de hoc.
           </p>
           <p xml:id="da-28-l3q27-bcczx3">
-            Ad aliud cum dicitur <pb ed="#V" n="264"/><cb ed="#V" n="a"/>
+            Ad aliud cum dicitur <pb ed="#V1" n="264"/><cb ed="#V1" n="a"/>
             <quote>quod non est sensibile non est intelligibile et
             cetera</quote>, dico quod verum est quod illud quod non est
             sensibile non est intelligibile primo, id est non praecedente
@@ -416,8 +426,9 @@
             </p>
           </div>
           <p xml:id="da-28-q3l28-jub1n8">
-            Ad aliam rationem patet ex dictis quia intellectus non movet seipsum
-            ad intellectum per speciem sui sed alterius.
+            Ad aliam rationem patet ex dictis quia <pb ed="#V2" n="79-v"/><cb
+            ed="#V2" n="a"/> intellectus non movet seipsum ad intellectum per
+            speciem sui sed alterius.
           </p>
         </div>
       </div>
