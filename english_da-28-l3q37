@@ -1,0 +1,779 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          Is phantasy the same as sense? (English translation of the question:
+          Utrum phantasia sit idem cum sensu)
+        </title>
+        <author>Jean de Jandun (Ioannes de Ianduno)</author>
+        <respStmt>
+          <persName>Paolo Rubini</persName>
+          <resp>Translation</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.1">
+          <date when="2017-06-20"/>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Paolo Rubini (University of Helsinki)</publisher>
+        <authority>
+          <ref target="http://blogs.helsinki.fi/rationality-in-perception/">
+            Rationality in Perception: Transformations of Mind and Cognition
+            1250-1550. Research project financed by the European Research
+            Council under the grant agreement n. 637747
+          </ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref
+          target="https://creativecommons.org/licenses/by-sa/4.0/">Creative
+          Commons Attribution-ShareAlike 4.0 License</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="Ve_1544">
+            Ioannis Iandoni Super tres libros De anima quaestiones
+            subtilissimae. Cum annotationibus textuum et quotationibus
+            commentariorum, ea cura nuper emendatae, ut castigatiores nunquam
+            prodierint, Venetiis: apud Iuntas, 1544, col. 45ra--46va
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <variantEncoding method="parallel-segmentation" location="internal"/>
+      <schemaRef n="lbp-critical-1.0.0"
+                 url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/1.0/critical.rng">
+      </schemaRef>
+      <editorialDecl>
+        <p>
+          Encoding of this text has followed the recommendations of the
+          LombardPress 1.0.0 guidelines for a critical edition.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-06-20" status="draft" n="0.0.1">
+          <p>Created the file for the first time</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="en" type="translation">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#Ve_1544" n="45-r"/><cb ed="#Ve_1544" n="a"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="da-28-l2q37">
+        <p xml:id="da-28-l2q37-1544en-01">
+          Then there is a question on the chapter about phantasy: Is
+          phantasy the same as sense?
+        </p>
+        <p xml:id="da-28-l2q37-1544en-02">
+          <supplied><hi rendition="simple:bold">1<hi
+          rendition="simple:superscript">st</hi> arg.</hi></supplied> First
+          argument for the affirmative answer: Every organic cognitive power
+          appears to be sense; for sense differs from intellect in this regard
+          <supplied>= in being an organic cognitive power</supplied>, as it is
+          evident from psychology; but phantasy is an organic cognitive power,
+          as it is manifest from <name ref="#Aristotle">Aristotle</name>,
+          <title>De anima</title>, book II and III.
+        </p>
+        <p xml:id="da-28-l2q37-1544en-03">
+          <supplied><hi rendition="simple:bold">2<hi
+          rendition="simple:superscript">nd</hi> arg.</hi></supplied> Likewise,
+          if <supplied>cognitive</supplied> powers have the same object, they
+          are identical. This sentence appears to be manifest. For powers differ
+          from each other with regard to their acts, and acts <supplied>differ
+          from each other</supplied> with regard to their objects, as it is
+          commonly said. But phantasy has the same object as sense. For, as much
+          as sight can see a color, phantasy can phantasize it; and the same is
+          to be said about the other
+          <cb ed="#Ve_1544" n="b"/>
+          senses. Therefore etc. <supplied>= the conclusion is reached</supplied>.
+        </p>
+        <p xml:id="da-28-l2q37-1544en-04">
+          <supplied><hi rendition="simple:bold">3<hi
+          rendition="simple:superscript">rd</hi> arg.</hi></supplied> Likewise,
+          phantasy is either a sense or a motion brought about by a sense
+          according to its being in act. This disjunction appears to be
+          exhaustive according to <name ref="#Aristotle">Aristotle</name>, since
+          phantasy cannot be science, nor opinion, nor intellect, nor something
+          composed by opinion and science, as <name
+          ref="#Aristotle">Aristotle</name> shows in his text
+          <supplied><title>De anima</title> III 3</supplied>. Without any doubt,
+          therefore, it remains that phantasy is either a sense or a motion
+          brought about by a sense according to its being in act. But it cannot
+          be a motion brought about by a sense according to its being in act.
+          The reason is that no motion remains when a mover is lacking. This
+          sentence is manifest by itself and is found in <title>Physics</title>,
+          III; VII; and VIII. Now, phantasy remains even when an actualized
+          sense is lacking, as it appears in a person who dreams during sleep.
+          For in this person there is no particular sense that is actually
+          sensing, as it is manifest from the treatise <title>About sleeping and
+          being awaken</title>. Even if the common sense in this person is
+          actualized, it <supplied>= the common sense</supplied> does not move
+          phantasy, but is rather moved by phantasy through the species stored
+          in it <supplied>= phantasy</supplied>, as it can be seen in
+          <title>About sleeping and being awaken</title>. Therefore etc.
+        </p>
+        <p xml:id="da-28-l2q37-1544en-05">
+          <supplied><hi rendition="simple:bold">To the opposite:</hi></supplied>
+          <name ref="#Aristotle">Aristotle</name> defends the opposite view in
+          his text <supplied>= <title>De anima</title> III 3</supplied>.
+        </p>
+        <p xml:id="da-28-l2q37-1544en-06">
+          <supplied><hi rendition="simple:bold">Response:</hi></supplied> In
+          order for the question to become evident, some premises are needed.
+        </p>
+        <p xml:id="da-28-l2q37-1544en-07">
+          First premise: According to <name>Albert</name>, the sensitive soul’s
+          powers are of two kinds. Some of them are able to apprehend from the
+          outside, and these are called particular external senses such as
+          sight, hearing etc. They are called external, not only because they
+          are at the extremities of the body, but <supplied>also</supplied>
+          because they are altered by external sensible objects without other
+          powers of the souls being first altered: for instance, sight is
+          altered by a color without any intermediary sense <supplied>being
+          altered</supplied>; and hearing <supplied>is altered</supplied> by a
+          sound <supplied>without any intermediary sense being
+          altered</supplied>; and so on. And they are called particular because
+          each of them is determined <supplied>to cognize</supplied> some
+          <supplied>particular</supplied> kind of sensible objects and does not
+          cognize any other: for instance, sight <supplied>is determined to
+          cognize</supplied> colors and hearing sounds. Some other powers
+          <supplied>of the sensitive soul</supplied> are able to apprehend from
+          the inside, and these are commonly called internal senses because they
+          are altered only by external things by means of other senses. These
+          <supplied>inner senses</supplied> are five according to
+          <name>Albert</name>, i.e. common sense, imagination, cogitative power,
+          phantasy, and memory. About their necessity <supplied>= the necessity
+          of assuming these five internal senses</supplied> and about their
+          distinction <supplied>= how they differ from each other</supplied>,
+          <name>Albert</name> teaches these things.
+        </p>
+        <p xml:id="da-28-l2q37-1544en-08">
+          To make this evident I assume two premises. First premise: in
+          individual substances, and particularly in human beings, there are not
+          only sensible accidents, proper and common, but there are in them also
+          some properties which are not cognized by any particular senses. For
+          instance, there are in Socrates goodness, malice, paternity,
+          being-son, and mildness, anger, health or illness, and ‘when’ and
+          ‘where’ and <supplied>further</supplied> forms of this kind which are
+          not cognized by any of the senses <supplied>that cognize</supplied>
+          particular things. For this reason they are called <hi
+          rendition="simple:italic">non-sensed intentions</hi>. This is what
+          <name ref="#Averroes">Averroes</name> suggested clearly enough in his
+          booklet <title>About memory and reminiscence</title>.
+        </p>
+        <p xml:id="da-28-l2q37-1544en-09">
+          Second premise: it does not belong to one and the same power of the
+          soul to be good in receiving species and in retaining or storing them.
+          The reason for that is according to <name>Albert</name> – who borrows
+          the idea from <name ref="#Averroes">Averroes</name>’ booklet
+          <title>About memory and reminiscence</title> – the following: In order
+          for a power to be good in receiving, it is required that humidity
+          dominates over dryness in the complexion of the power’s organ. For it
+          belongs to humid things to be good in receiving impressions, as is
+          manifest in the air and water, whereas these
+          <supplied>elements</supplied> are not good in retaining. In order to
+          be good in retaining, a large domination of dryness is required
+          <supplied>in the complexion of the power’s organ</supplied>. For dry
+          things surely receive <supplied>impressions</supplied> with difficult,
+          but once they have received <supplied>them</supplied>, they are good
+          in retaining and storing <supplied>them</supplied>, as is evident in
+          stone and wood.
+        </p>
+        <p xml:id="da-28-l2q37-1544en-10">
+          After having understood these two premises, I say that we experience
+          in ourselves that we cognize the difference between different sensible
+          objects. The common sense serves specifically to this
+          <supplied>cognition</supplied>. Since this point has already been
+          explained <supplied>above, q. 36</supplied>, I move on. Then we
+          experience in ourselves that, although sensible objects (both common
+          and proper) are absent, we have stored and retain species of them. For
+          instance, when the wall is absent you retain along with you a species
+          of its color and of its figure and so on; with other sensible objects
+          it is similar. And this happens by means of the imaginative power,
+          which is also called by some authors a treasure or a coffer of
+          sensible forms. And it reasonably needs to happen by means of a power
+          that is different from the common sense for the reason previously
+          mentioned, namely that it does not belong to the same power to be good
+          in retaining and to be good in receiving.
+        </p>
+        <p xml:id="da-28-l2q37-1544en-11">
+          Likewise, we experience in ourselves that we cognize non sensed
+          properties of individuals. For instance, we cognize this paternity and
+          this being-son, this friendship and this hostility and so on. To this
+          end, we usually assume a cogitative power. <name
+          ref="#Averroes">Averroes</name> the Commentator teaches many beautiful
+          and useful things about this power in different places in his books.
+          Now I am going to collect them as correctly and clearly as I can, for
+          the sake of goodness.
+        </p>
+        <p xml:id="da-28-l2q37-1544en-12">
+          First, <name ref="#Averroes">Averroes</name> says in book II of his
+          <title>De anima</title> that the cogitative power cognizes individual
+          intentions – i.e. <supplied>individual</supplied> forms – of all ten
+          categories, for instance the individual form <pb ed="#Ve_1544"
+          n="45-v"/><cb ed="#Ve_1544" n="a"/> of this man according to which
+          this man is this man, and this line, and this whiteness, and this
+          paternity, and warming, and more things of this kind. Thus, the
+          cogitative power does not only cognizes the sensible accidents – the
+          common and the proper ones –, but also the non-sensed intention, <hi
+          rendition="simple:italic">and strips all common and proper sensible
+          objects that were joint to the intention, away from it</hi>. With
+          “strips away from it” I mean that the cogitative power cognizes the
+          intention distinctly and separately. Accordingly, by means of your
+          cogitative power you cognize that this soul is not the same as this
+          body – this is manifest – and also that this friendship is not the
+          same as this color or this magnitude or this motion, and so on. And
+          <name ref="#Averroes">Averroes</name> says that the cogitative power
+          <hi rendition="simple:italic">places the intention</hi> <supplied>that
+          it has grasped</supplied> <hi rendition="simple:italic">in the power
+          of memory</hi>.
+        </p>
+        <p xml:id="da-28-l2q37-1544en-13">
+          Likewise, <name ref="#Averroes">Averroes</name> says in book III of
+          his <title>De anima</title> about the cogitative power that some
+          authors believed it to be the intellect. This belief is especially
+          attributed to <name ref="#Galen">Galen</name>. <name
+          ref="#Galen">Galen</name>’s reason was that the cogitative power
+          belongs properly to the human being, as well as the intellect belongs
+          properly to the human being; therefore etc. <supplied>i.e., cogitative
+          power and intellect are the same</supplied>. But this is not true
+          because the intellect is an immaterial power and does not have any
+          underlying body, and it cognizes the quiddity in a universal and
+          abstract manner, whereas the cogitative power belongs to the kind of
+          powers that exist in a body – this is manifest, since the cogitative
+          power has a determined instrument, namely the middle ventricle of the
+          brain – and it is an individual and individually distinct power. Nor
+          is <name ref="#Galen">Galen</name>’s reason
+          <supplied>formally</supplied> valid, since it rests on two affirmative
+          premises within the second <supplied>syllogistic</supplied> figure.
+          Accordingly, <name ref="#Averroes">Averroes</name> in the same III
+          book says that the cogitative power <hi
+          rendition="simple:italic">belongs to the kind of the sensitive
+          powers</hi>. And he adds that <hi
+          rendition="simple:italic">imagination, cogitative power and memory
+          only serve</hi> to present <supplied>sensible objects to the
+          intellect</supplied> <hi rendition="simple:italic">instead of the
+          sensitive power, and for this reason</hi> <supplied>the
+          intellect</supplied> <hi rendition="simple:italic">only needs
+          them</hi> <supplied>= imagination, cogitative power and
+          memory</supplied> <hi rendition="simple:italic">when no sensible
+          object is present.</hi> We will see in the III book how this is to be
+          understood – if this is God’s will.
+        </p>
+        <p xml:id="da-28-l2q37-1544en-14">
+          Again, in the same third book of his <title>De anima</title> <name
+          ref="#Averroes">Averroes</name> says about the cogitative power that
+          <hi rendition="simple:italic">this power is a kind of reason</hi>. I
+          understand this in the following way. As reason is an abstract
+          apprehensive power that reasons about things it has apprehended in a
+          universal manner, this noble <supplied>= cogitative</supplied> power
+          similarly reasons about things apprehended in an individual manner and
+          draws inferences from one thing to another in order to cognize an
+          unknown thing. From this it follows that the cogitative power properly
+          belongs to human beings, since only human beings reason. <name
+          ref="#Averroes">Averroes</name> also says there that one activity of
+          the cogitative power <hi rendition="simple:italic">is to put together
+          the intention of a form of the imagination with its image within
+          memory</hi>. For instance, when somebody remembers to have seen
+          something white, the cogitative power in some way puts together
+          vision, which is a non-sensed intention, with whiteness, which is a
+          sensed form; so that in the act by which somebody judges to have seen
+          something white, the imaginative power presents the image of
+          whiteness, the power of memory presents the past vision, and the
+          cogitative power puts both together. Perhaps this is how <name
+          ref="#Averroes">Averroes</name> thought that the cogitative power puts
+          together the intention of a form with an image within memory. Then
+          <name ref="#Averroes">Averroes</name> adds: <hi
+          rendition="simple:italic">and</hi> the cogitative power <hi
+          rendition="simple:italic">distinguishes</hi> the intention <hi
+          rendition="simple:italic">from</hi> the image <hi
+          rendition="simple:italic">within formation</hi>, i.e., within
+          understanding. For, if the intellect has to understand such an
+          intention distinctly, then the cogitative power must first cogitate it
+          individually, as it will become evident in the III book. <supplied>q.
+          23</supplied>
+        </p>
+        <p xml:id="da-28-l2q37-1544en-15">
+          Further on, <name ref="#Averroes">Averroes</name> in the same III book
+          of his <title>De anima</title> says that the cogitative power, when it
+          is supported by memory and imagination, will sometimes present an
+          individual, i.e., the cogitative power will have a cognition of an
+          individual that has not been perceived by the person who is
+          cogitating, such as a cognition of a future individual or of a past
+          individual. We can for instance understand <supplied>this
+          suggestion</supplied> in the following way: When a good physician (a)
+          by means of his cogitative power cognizes this illness in this patient
+          and its cause and the <supplied>patient’s</supplied> complexion and
+          age and place and <supplied>further</supplied> particulars of this
+          kind, and (b) by means of his memory he remembers to have seen or
+          cognized that such an illness or a similar one was followed by
+          <supplied>those patients’</supplied> death, and (c) by means of his
+          imaginative power he imagines the <supplied>present</supplied>
+          patient’s death, then it happens that (d) the physician judges by a
+          true judgement that the person is going to die, as if he presently
+          perceived that the person is dying. Likewise, when a good expert of
+          natural meteorology (a) cogitates about hail that is going to fall in
+          summer, and (b) by means of his memory he remembers to have seen that
+          a hailstorm frequently followed such a summerly heatwave and such a
+          cloud, and (c) by means of his imagination he imagines a hail fall,
+          then (d) by means of his cogitative power he judges by a true and
+          correct judgment that hail is going to fall soon, as if he saw hail
+          falling actually. One could also make an example from the field of
+          possible human actions. But since these things are less certain and
+          originate from free choice, I do not want to make any example
+          <supplied>from this field</supplied>.
+        </p>
+        <p xml:id="da-28-l2q37-1544en-16">
+          Thus, this is what <name ref="#Averroes">Averroes</name> adds: <hi
+          rendition="simple:italic">The scope of cogitation</hi> (supply:
+          dealing with past or future things, or with present things that are
+          nevertheless remote from the senses) <hi rendition="simple:italic">is
+          nothing but this, namely that the cogitative power sets up a thing
+          that is not present to the senses as it were a sensed thing</hi>.
+          Hence <name ref="#Averroes">Averroes</name> adds: <hi
+          rendition="simple:italic">Therefore things that can be comprehended by
+          human beings are divided into two classes, namely into comprehensible
+          things whose principle is sensation, and comprehensible things whose
+          principle is cogitation.</hi> Comprehensible things whose principle is
+          sensation are those which are present to the senses,
+          <cb ed="#Ve_1544" n="b"/>
+          whereas comprehensible things whose principle is cogitation are those
+          which are absent, especially past or future things. <name
+          ref="#Averroes">Averroes</name> sais moreover: <hi
+          rendition="simple:italic">Nor must somebody say that the cogitative
+          power compounds singular contents of intellection</hi>, i.e. contents
+          that are grasped in independent and separate acts of intellection. <hi
+          rendition="simple:italic">It has already been explained that the
+          immaterial intellect compounds them</hi> (supply: under universal
+          concepts). <hi rendition="simple:italic">But cogitation</hi> (supply:
+          with regard to absent things) <hi rendition="simple:italic">only
+          consists in distinguishing the individuals that correspond to those
+          intelligible contents and in presenting such individuals in actuality
+          as if they were before the senses. Therefore, when such individuals
+          are present before the senses, then cogitation ceases and only the
+          action of intellect upon them</hi> (i.e. with regard to them) <hi
+          rendition="simple:italic">remains</hi>. This last statement is highly
+          dubious, since <name ref="#Averroes">Averroes</name> seems to want to
+          say that, if an individual corresponding to an intelligible content is
+          present to the senses, then the intellect does not need the cogitative
+          power in order to understand <supplied>the correspondent intelligible
+          content</supplied>. This seems to be very inappropriate, since <name
+          ref="#Aristotle">Aristotle</name> says that, <hi
+          rendition="simple:italic">for whoever is understanding, it is
+          necessary to consider some phantasm</hi>; but the power of phantasy
+          that immediately delivers the intellect <supplied>with
+          phantasms</supplied> appears to be precisely the cogitative power. We
+          are going to discuss this issue in the III book <supplied>question
+          33</supplied>.
+        </p>
+        <p xml:id="da-28-l2q37-1544en-17">
+          Then <name ref="#Averroes">Averroes</name> said that human beings are
+          only generable and perishable on account of this <supplied>=
+          cogitative</supplied> power, i.e. on account of the form of which this
+          power is a consequence. For according to <name
+          ref="#Averroes">Averroes</name> and <name
+          ref="#Aristotle">Aristotle</name> the intellect is perpetual, and
+          hence the human being is not corruptible with regard to intellect.
+        </p>
+        <p xml:id="da-28-l2q37-1544en-18">
+          This is what <name ref="#Averroes">Averroes</name> teaches about the
+          cogitative power; these things are as good as you can see. And perhaps
+          this is the power of the human soul that <name
+          ref="#Aristotle">Aristotle</name> distinguishes from the faculty of
+          scientific knowledge and that he calls discursive or deliberative
+          faculty in book VI of <title>Nicomachean Ethics</title>.
+        </p>
+        <p xml:id="da-28-l2q37-1544en-19">
+          At this point we have to consider what <name>Albert</name> says about
+          the power of phantasy. <name>Albert</name> says – and what he says is
+          true – that we experience in ourselves that we combine forms with
+          forms and intentions with intentions and intentions with forms or the
+          way around. Examples can be made for the sake of those who start to
+          make philosophy. (1.) We judge this sweet to be white, and this is to
+          combine a form with a form; for under “form”
+          <supplied><name>Albert</name></supplied> understands a proper or
+          common sensible object. (2.) Likewise we judge this father to be
+          friend, and this is to combine an intention with an intention; for
+          under “intention” <supplied><name>Albert</name></supplied> understands
+          a non-sensible property. (3.) And again we judge this sweet to be
+          pleasant or appropriate, and this is to combine an intention with a
+          form. And it works in a similar way with other objects of this kind.
+          This combination is made by a fourth power, namely the power of
+          phantasy, as <supplied><name>Albert</name></supplied> says. And he
+          collects further details about this power, but what I have reported is
+          enough for the actual purpose.
+        </p>
+        <p xml:id="da-28-l2q37-1544en-20">
+          Then we experience in ourselves that, when sensible objects are
+          absent, we have their intentions, i.e. their non-sensible properties,
+          stored; but it does not belong to one and the same power to be good in
+          retaining and to be good in receiving; therefore the retentive power
+          needs to be different from the cogitative power that cognizes them
+          <supplied>= intentions</supplied> and is good in receiving them. Nor
+          is one and the same retentive power that retains both sensible forms
+          and non-sensible intentions, for an intention has a higher degree of
+          abstraction than a form, as <supplied><name>Albert</name></supplied>
+          says. We are therefore compelled to assume a further power, which
+          retains the intentions that have been elicited (i.e. distinctively
+          cognized) by the cogitative power: this <supplied>further</supplied>
+          power is called memory according to a common denomination, but someone
+          calls it a treasure of intentions, as imagination is called a treasure
+          of forms.
+        </p>
+        <p xml:id="da-28-l2q37-1544en-21">
+          This is what <name>Albert</name> teaches. And although he speaks
+          rightly and truly for the major part, he appears to take distance from
+          <name ref="#Averroes">Averroes</name> to some extent. For <name
+          ref="#Averroes">Averroes</name> only assumes four inner sensitive
+          powers, as it is evident in the III book of his <title>De
+          anima</title>. There he mentions <name
+          ref="#Aristotle">Aristotle</name> and says: <hi
+          rendition="simple:italic"><name ref="#Aristotle">Aristotle</name>
+          assumed different individual powers at four levels: at the first level
+          he assumed the common sense, then imagination, then the cogitative
+          power, and finally memory.</hi> And <name
+          ref="#Averroes">Averroes</name> adds: <hi
+          rendition="simple:italic">he</hi> <supplied>= <name
+          ref="#Aristotle">Aristotle</name></supplied> <hi
+          rendition="simple:italic">took memory to be the most spiritual power,
+          then the cogitative power, then imagination, and finally the common
+          sense.</hi> I guess that the power that <name>Albert</name> calls
+          “phantasy” is called by <name ref="#Averroes">Averroes</name>
+          “cogitative power”. And this is reasonable, for it is necessary that
+          it is one and the same cognitive power that apprehends both composite
+          and simple contents, as <name ref="#Averroes">Averroes</name> himself
+          says in the III book of his <title>De anima</title>, in the commentary
+          on the chapter that begins with: <hi
+          rendition="simple:italic">Intellection of indivisible things …</hi>
+          Hence, since the cogitative power cognizes both intentions and forms,
+          it is necessary for it to be one and the same power, a capacity of
+          combining and distinguishing intentions and forms. Hence it is not
+          necessary that any other power combines and distinguishes intentions
+          and forms, especially because nature never produces by means of
+          multiple instruments what can be produced by means of only one
+          instrument. Indeed, there can be no doubt that the cogitative power
+          cognizes sensible forms, since a superior cognitive power always
+          cognizes what an inferior cognitive power cognizes, but in a more
+          perfect way. Therefore I rather believe to <name
+          ref="#Averroes">Averroes</name> <supplied>than to
+          <name>Albert</name></supplied>.
+        </p>
+        <p xml:id="da-28-l2q37-1544en-22">
+          The organs of these powers are commonly assumed to be ten. For
+          instance, according to <name>Albert</name> and <name
+          ref="#Averroes">Averroes</name> the common <pb ed="#Ve_1544"
+          n="46-r"/><cb ed="#Ve_1544" n="a"/> sense is located in the anterior
+          part of the brain’s first cell, in the place where the sensitive
+          nerves – i.e. the nerves that originate from the particular senses –
+          come together. Then, the imaginative power is located in the posterior
+          part of this first cell <supplied>of the brain</supplied> according to
+          <name>Albert</name>. In the first part of the middle cell, which is
+          warm on account of the animal spirits moving in multiplex ways to it,
+          <name>Albert</name> places the cogitative power <supplied>of
+          humans</supplied> or the estimative power <supplied>of
+          animals</supplied>. In the middle of this same middle cell
+          <supplied>of the brain</supplied> <name>Albert</name> places the power
+          of phantasy as a sort of center between imagination and memory. For
+          memory is located in the posterior part of the brain; this is evident
+          because, if this part is injured, then memory is offended. And this is
+          likewise evident with regard to the organs of the other sensitive
+          powers.
+        </p>
+        <p xml:id="da-28-l2q37-1544en-23">
+          <name ref="#Averroes">Averroes</name> actually describes things a bit
+          differently, but what he says perhaps amounts to the same. He supposes
+          that the common sense is located in the anterior part of the brain’s
+          first cell, or perhaps in the heart, because <name
+          ref="#Aristotle">Aristotle</name> in his treatise <title>On sleeping
+          and being awaken</title> seems to defend either both views
+          <supplied>about the location of common sense</supplied> or the second
+          one. Accordingly, <name ref="#Averroes">Averroes</name> says that the
+          power of imagination is located in the anterior part of the brain
+          (this, according to <name>Albert</name>, is to be understood as a
+          reference to the posterior part of the first cell). The cogitative
+          power is, according to <name ref="#Averroes">Averroes</name>, located
+          in the middle and the power of memory in the posterior part
+          <supplied>of the brain</supplied>. Questions about these powers have
+          to be discussed in <supplied>commenting on</supplied> the small
+          treatises on natural philosophy <supplied>so called <title>Parva
+          naturalia</title></supplied>, especially in <title>On sleeping and
+          being awaken</title> and in <title>On memory and reminiscence</title>.
+        </p>
+        <p xml:id="da-28-l2q37-1544en-24">
+          We need to take into account that <name
+          ref="#Aristotle">Aristotle</name> in <title>De anima</title>, book II,
+          only mention two of these powers explicitly, namely phantasy and
+          common sense. I believe that, under “phantasy”, he sometimes
+          understand imagination and sometimes the cogitative power. For he says
+          that phantasy stores the species of sensible objects, and this applies
+          to the power of imagination; he also says that animals do many things
+          on account of this power, and this can only be
+          <supplied>understood</supplied> in the sense that animals strive to
+          avoid or to pursue what phantasy judges to be either good or bad, and
+          this in turn applies without any doubt to the power that is called
+          “cogitative” by <name ref="#Averroes">Averroes</name>. And in
+          <title>De anima</title>, book III, <name
+          ref="#Aristotle">Aristotle</name> says that a certain phantasy is
+          rational, namely <supplied>the phantasy</supplied> that reasons about
+          individual things; and this belongs to the cogitative power. Hence
+          <name ref="#Aristotle">Aristotle</name> under “phantasy” sometimes
+          understands the cogitative power and sometimes the imaginative power,
+          <supplied>for instance</supplied> where he says: Since (supply: the
+          species of sensible objects, brought about by sensible objects
+          according to their being in actuality) are preserved in the
+          imaginative power, animals do many things according to this power and
+          act and suffer. <name ref="#Aristotle">Aristotle</name> deals
+          separately with memory and reminiscence in his booklet <title>On
+          memory and reminiscence</title>. There he declares that reminiscence
+          is not different in its substance from the cogitative power.
+        </p>
+        <p xml:id="da-28-l2q37-1544en-25">
+          After having seen these things, it must be said about the question
+          that phantasy is not the same as a particular external sense, and this
+          is what <name ref="#Aristotle">Aristotle</name> says in the text. He
+          delivers many reasons in support of this view, but I will only report
+          one of them. If phantasy were an external sense, then phantasy would
+          be either a sense in potency or a sense in act, since this alternative
+          is exhaustive. Phantasy, however cannot be a sense in potency, because
+          it is evident that phantasy would mostly be sight; but persons who
+          lack sight do have phantasy, as it appears in blind persons who have
+          phantasies in their dreams. Thus it is evident that phantasy is not
+          the same as sight. Nevertheless it is mostly evident that phantasy
+          took its name from light, which pertains to sight, because sight is
+          sense perception in the highest degree, and we retain more phantasms
+          of things cognized by sight than by any other sense. Therefore
+          phantasy would evidently be in the highest degree sight, rather than
+          any other particular sense.
+        </p>
+        <p xml:id="da-28-l2q37-1544en-26">
+          Moreover, each and every animal notoriously has a sensitive power, so
+          that an animal is an animal on account of sensation. However, some
+          animals do not have phantasy: for instance ants and bees, as <name
+          ref="#Aristotle">Aristotle</name> explains in the text.
+          <name>Albert</name> says however that this example is completely
+          wrong. For bees build their houses according to some technical skill,
+          and ants are provident for themselves with regard to the future – what
+          they would not be able to do without imagination or phantasy. Thus
+          <name ref="#Averroes">Averroes</name> seems to assume that bees and
+          ants have an imaginative power: bees for the reason of their technical
+          skill, and ants for the reason of depositing, i.e., because they
+          deposit their nourishment in a determinate place and at a determinate
+          time. And <name>Albert</name> believes that this mistake was made not
+          by <name ref="#Aristotle">Aristotle</name>, but by the translator
+          <supplied>of <title>De anima</title> from Greek into Latin</supplied>:
+          the translator did not understand the names of the animals that
+          according to <name ref="#Aristotle">Aristotle</name> lack phantasy,
+          and in place of them he put ants and bees. Or if you want to save the
+          text and the translator’s honesty, we can read <name
+          ref="#Aristotle">Aristotle</name>’s example in an affirmative way, so
+          that its meaning becomes this: phantasy does not belong to certain
+          animals as it belongs to ants and bees. And this is true. A
+          determinate phantasy belongs to them <supplied>= ants and
+          bees</supplied>, i.e. <supplied>a power</supplied> that can be
+          actualized when the sensible objects are absent.
+        </p>
+        <p xml:id="da-28-l2q37-1544en-27">
+          <name ref="#Averroes">Averroes</name> in book II of his <title>De
+          anima</title>, in the chapter about smell, says about bees that they
+          move to their nourishment from very remote places; for, in whichever
+          region they may stay, they every single year move to the sea shore at
+          some point of time, in order to gain the vigor of their nourishment
+          from mud. Ants likewise move from one place to another as if they
+          imagined their distant nourishment and they come back to a determinate
+          place where they accumulate in summer what they need for living in
+          winter. Thus
+          <cb ed="#Ve_1544" n="b"/>
+          it is written somewher: Wake up, you miserable! Go to an ant and
+          consider its way. Although ants do not have a leader, they accumulate
+          in summer what they need to live in winter etc.
+        </p>
+        <p xml:id="da-28-l2q37-1544en-28">
+          Therefore it is evident that phantasy is not a sense in potency. And
+          by the same argument one will be convinced that phantasy is not a
+          sense in act <supplied>= a sense actually sensing</supplied>. For a
+          sense in act belongs to any animal, whereas phantasy does not belong
+          to any one.
+        </p>
+        <p xml:id="da-28-l2q37-1544en-29">
+          But we need to consider that according to what <name
+          ref="#Averroes">Averroes</name> says in book II of his <title>De
+          anima</title>, and <name ref="#Aristotle">Aristotle</name> suggests in
+          book III, phantasy is of two kind. There is first a certain imperfect
+          and diminished kind of phantasy which is only actualized when a
+          sensible thing is present. All animals, however imperfect, have this
+          kind of phantasy; otherwise they would not be able to cognize the
+          intention of what is convenient or noxious, and they could not avoid
+          what is noxious and pursue what is convenient. We see the opposite in
+          the most imperfect animals, i.e. those which only possess the sense of
+          touch, as <name ref="#Aristotle">Aristotle</name> says in book III of
+          <title>De anima</title>. For these animals retreat when they are
+          punctured or when something inconvenient is applied to them, and they
+          could not do this if they did not judge the puncture or the applied
+          thing noxious. When something convenient is applied to them, they
+          expand themselves onto the applied thing as much as they can; and they
+          could not do this either, if they did not cognize that the applied
+          thing is convenient. But ‘noxious’ and ‘convenient’ or ‘useful’ are
+          non-sensible intentions which no external sense can cognize. As a
+          result, the imperfect animals must have an interior cognitive power
+          for grasping these <supplied>non-sensible</supplied> properties,
+          although they are only able to cognize <supplied>such
+          properties</supplied> in a very diminished way and only when a thing
+          is present. This is evident from the fact that they never would move
+          by themselves form one place to another distant place. Therefore, an
+          undetermined phantasy has been attributed to these animals, i.e.an
+          imperfect and diminished phantasy. A determined phantasy is, on the
+          other hand, a phantasy which grasps contents even when things are
+          absent; a phantasy of this kind belongs to animals which can move from
+          one place to another.
+        </p>
+        <p xml:id="da-28-l2q37-1544en-30">
+          Moreover, that phantasy cannot be a sense according to its being in
+          actuality is manifest from another reason: it happens to sleepers –
+          although they do not have any actual sensations – that they do have
+          imaginary appetites, as it is shown in the treatise
+          <title>On sleeping and being awaken</title>. Hence
+          phantasy is in no way a particular sense.
+        </p>
+        <p xml:id="da-28-l2q37-1544en-31">
+          It ought to be noticed that phantasy is sometimes taken to be a
+          natural power of the sensitive soul and sometimes the actualization of
+          this power. And as power, phantasy is sometimes taken to be a power
+          that retains sensible species, and then it is the imaginative power;
+          sometimes it is taken to be a power for cognizing sensible things
+          themselves when they are absent and also for cognizing non-sensible
+          intentions, and then it is truly the cogitative power according to
+          what <name ref="#Averroes">Averroes</name> says in book III of his
+          <title>De anima</title>. We see <name
+          ref="#Aristotle">Aristotle</name> assuming phantasy in the first way
+          when he says that species of sensible things which are similar to
+          sensible things persist in it <supplied>= phantasy</supplied>. And in
+          <title>De anima</title> III <name ref="#Aristotle">Aristotle</name>
+          says according to the second way that a certain kind of phantasy is
+          rational, as we mentioned previously. And also when he says in
+          <title>De anima</title> III that phantasy is a principle of locomotion
+          together with the appetitive power, he takes phantasy to be the
+          cogitative power. For a power that is a principle of locomotion
+          (together with the appetitive power) needs to cognize the thing
+          towards which a locomotion has to take place, as a thing that is good
+          to be pursued. Accordingly, <name ref="#Aristotle">Aristotle</name>
+          shows in book III that the theoretical intellect is not a principle of
+          locomotion because it does not say anything about what is to be
+          pursued or avoided. And in the chapter of <title>De anima</title> III
+          that begins with the words: <hi rendition="simple:italic">But it
+          appears that the sensible object …</hi> he writes: <hi
+          rendition="simple:italic">Since it affirms or denies or avoids or
+          pursues what is pleasant or what is unpleasant.</hi> For the
+          appetitive power only desires to pursue what is cognized under the
+          concept of good, and it only desires to avoid what is cognized as bad.
+          This is also manifest from <name ref="#Aristotle">Aristotle</name>’s
+          book <title>On the locomotion of animals</title> and from book III of
+          his <title>Nicomachean Ethics</title>. But the power of phantasy which
+          <name ref="#Aristotle">Aristotle</name> takes to be a principle of
+          motion together with the appetitive power cannot be the power that
+          only retains images or species, but it has to be a cogitative power in
+          the way we have explained previously; and such a power is the
+          cogitative power in human beings and the estimative power in animals.
+          Thus, it is evident that <name ref="#Aristotle">Aristotle</name> takes
+          phantasy to be the cogitative power <supplied>in humans</supplied> and
+          the estimative power <supplied>in animals</supplied>. Further on, when
+          he says that <hi rendition="simple:italic">for whoever is
+          understanding, it is necessary to consider some phantasm</hi>, I
+          believe that under “phantasm” <name ref="#Aristotle">Aristotle</name>
+          understand the act of the cogitative power. And <supplied>he
+          speaks</supplied> likewise in other places while assessing which power
+          delivers the intellect <supplied>with phantasms</supplied>. But this
+          shall become clearer in <supplied>commenting on</supplied> <title>De
+          anima</title> III.
+        </p>
+        <p xml:id="da-28-l2q37-1544en-32">
+          <supplied><hi rendition="simple:bold">To the 1<hi
+          rendition="simple:superscript">st</hi> argument:</hi></supplied> In
+          replying to the first argument I say that it proves phantasy to be a
+          sense, assuming sense in a general way as an internal or an external
+          sense. But the argument does not prove that phantasy is a particular
+          external sense.
+        </p>
+        <p xml:id="da-28-l2q37-1544en-33">
+          <supplied><hi rendition="simple:bold">To the 2<hi
+          rendition="simple:superscript">nd</hi> argument:</hi></supplied> In
+          replying to the further argument (“powers which have the same object”
+          etc.) I say that the argument is true only if the powers that are
+          mentioned there, are not ordered to each other in a way that one power
+          be altered by another power; but if the powers are ordered in this
+          way, then they may somehow have the same object. But phantasy and the
+          senses are ordered powers, since phantasy can only be altered by
+          external things by the mediation <pb ed="#Ve_1544" n="46-v"/><cb
+          ed="#Ve_1544" n="a"/> of a sense. Therefore they can have the same
+          object. By contrast, sight and hearing are different powers which are
+          not altered by each other. Thus, they do not have the same object, but
+          different objects.
+        </p>
+        <p xml:id="da-28-l2q37-1544en-34">
+          <supplied><hi rendition="simple:bold">To the 3<hi
+          rendition="simple:superscript">rd</hi> argument:</hi></supplied> In
+          replying to the further argument I say that phantasy is indeed a
+          motion brought about by a sense according to its being in act and
+          similar to this, as <name ref="#Aristotle">Aristotle</name> and <name
+          ref="#Averroes">Averroes</name> say. And as the third argument says
+          that “a motion does not persist” etc., one can reply in the following
+          way: As in a continuous motion we need to
+          <supplied>separately</supplied> consider the perfection received and
+          the reception which <name ref="#Averroes">Averroes</name> in
+          <title>Physics</title> V calls “transmutation joined with time”,
+          likewise in a spiritual and instantaneous alteration we need to
+          <supplied>separately</supplied> consider the spiritual quality which
+          is being received in a power and the actual transmutation according to
+          which <supplied>the power</supplied> is called “transmuted”, or the
+          reception according to which <supplied>the power</supplied> is called
+          “actually receiving”. If a spiritual motion is taken to be the
+          spiritual quality that is received in a subject that is altered by a
+          spiritual alteration, then this motion can certainly persist even if
+          the motor that has impressed this form is absent or deficient;
+          likewise, even if fire that has been warming water becomes absent or
+          deficient, the warmth that has been generated by fire can persist in
+          the water. And the same happens in many other things. But if motion is
+          assumed as the very actual transmutation according to which something
+          is said to transmute formally, and this belongs to the category of
+          passion according to what <name ref="#Averroes">Averroes</name> says
+          in <title>Physics</title> V, then it is true that motion does not
+          persist if the motor is lacking; for as soon as fire warming water is
+          absent, water does not transmute to warmth any more. And we need to
+          understand the definition formulated by <name
+          ref="#Aristotle">Aristotle</name> (“phantasy is a motion brought about
+          by a sense according to its being in act”) <supplied>in the following
+          way: phantasy is</supplied> some spiritual form or quality that has
+          been impressed into a power by a sense, after this sense has been
+          actualized by a sensible species; and this <supplied>form or
+          quality</supplied> persists very well in the retentive power.
+          Accordingly, here <name ref="#Aristotle">Aristotle</name> apparently
+          takes phantasy to be the act that the imaginative power receives from
+          an actualized sense. Therefore, the argument is not valid. Some
+          interpreters said that the definition is to be understood in this way:
+          “phantasy is a motion” etc. means “<supplied>phantasy is</supplied> a
+          power naturally apt to being moved by a sense according to its being
+          in act.” In this way, <name ref="#Aristotle">Aristotle</name> would
+          here assume an accident as the subject in order to notify it.
+          Therefore the argument is not valid.
+        </p>
+        <p xml:id="da-28-l2q37-1544en-35">
+          Here the discussion of book II of <name ref="#Aristotle">Aristotle</name>’s
+          <title>De anima</title> ends.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>
