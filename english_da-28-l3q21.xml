@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          Utrum anima cogitativa possit cognoscere substantias materiales
+        </title>
+        <author>Jean de Jandun (Ioannes de Ianduno)</author>
+        <respStmt>
+          <persName>Paolo Rubini</persName>
+          <resp>Encoding and transcription</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.1">
+          <date when="2017-06-20"/>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Paolo Rubini (University of Helsinki)</publisher>
+        <authority>
+          <ref target="http://blogs.helsinki.fi/rationality-in-perception/">
+            Rationality in Perception: Transformations of Mind and Cognition
+            1250-1550. Research project financed by the European Research
+            Council under the grant agreement n. 637747
+          </ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref
+          target="https://creativecommons.org/licenses/by-sa/4.0/">Creative
+          Commons Attribution-ShareAlike 4.0 License</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="Ve_1544">
+            Ioannis Iandoni Super tres libros De anima quaestiones
+            subtilissimae. Cum annotationibus textuum et quotationibus
+            commentariorum, ea cura nuper emendatae, ut castigatiores nunquam
+            prodierint, Venetiis: apud Iuntas, 1544, col. 68va--b
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <variantEncoding method="parallel-segmentation" location="internal"/>
+      <schemaRef n="lbp-critical-1.0.0"
+                 url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/1.0/critical.rng">
+      </schemaRef>
+      <editorialDecl>
+        <p>
+          Encoding of this text has followed the recommendations of the
+          LombardPress 1.0.0 guidelines for a critical edition.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-06-20" status="draft" n="0.0.1">
+          <p>Created the file for the first time</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="en" type="translation">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#Ve_1544" n="68-v"/><cb ed="#Ve_1544" n="a"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="da-28-l3q21">
+        <p xml:id="da-28-l3q21-1544en-01">
+          Because of something which was previously said one can ask:
+          Is the cogitative soul able to cognize material substances?
+        </p>
+        <p xml:id="da-28-l3q21-1544en-02">
+          <supplied><hi rendition="simple:bold">1<hi
+          rendition="simple:superscript">st</hi> arg.</hi></supplied> First, one
+          can argue for the affirmative answer on account of what <name
+          ref="#Averroes">Averroes</name> sais in book II of his <title>De
+          anima</title>: When a sense apprehends its proper objects, along with
+          them it also apprehends individual intentions of different kinds
+          according to genera and species; i.e., it apprehends the intention of
+          this individual human being and the intention of this individual
+          horse. But it is well known that this individual human being is a
+          substance, and this individual horse <supplied>is a substance;
+          and</supplied> likewise about other <supplied>individual
+          things</supplied>. Under “sense”, <name
+          ref="#Averroes">Averroes</name> <supplied>in his sentence</supplied>
+          understands either a particular sense <supplied>like sight, hearing
+          etc.</supplied> or the cogitative power, which is a power of the
+          sensitive soul. If he understands a particular sense, then
+          <supplied>we have to assume that</supplied> the cogitative soul, which
+          is a more noble and more perfect power <supplied>than any particular
+          sense</supplied>, will even stronger cognize objects of this kind
+          <supplied>= individual material substances</supplied>. If he
+          <supplied>under “sense”</supplied> understands the cogitative soul,
+          then we have immediately got the point. Therefore etc.
+        </p>
+        <p xml:id="da-28-l3q21-1544en-03">
+          And in the following comment <name ref="#Averroes">Averroes</name>
+          says that it belongs accidentally to the senses to apprehend
+          differences – in particular substantial differences – among
+          individuals, insofar as they are individuals; this belongs to the
+          senses not insofar as they are just senses, but insofar as they are
+          human senses. For it manifestly belongs to human senses to apprehend
+          individual intentions of substances that are considered by the
+          intellect. Therefore etc.
+        </p>
+        <p xml:id="da-28-l3q21-1544en-04">
+          <supplied><hi rendition="simple:bold">2<hi
+          rendition="simple:superscript">nd</hi> arg.</hi></supplied> Moreover,
+          if the cogitative power did not cognize a material substance, then the
+          intellect could not cognize it either, which is nonsense
+          <supplied>because the intellect’s proper function is to cognize any
+          material substance</supplied>. The inference can be proved as follows:
+          an act of the cogitative power is necessary in order to have an act of
+          intellection, in particular when the objects of acts of intellection
+          are material things; this is evident from what is said <supplied>by
+          <name ref="#Aristotle">Aristotle</name></supplied> in <title>De anima</title> III: <hi
+          rendition="simple:italic">for whoever is understanding, it is
+          necessary to consider some phantasm</hi>. Therefore etc.
+        </p>
+        <p xml:id="da-28-l3q21-1544en-05">
+          <supplied><hi rendition="simple:bold">To the opposite</hi></supplied>
+          One can argue for the opposite view: if the cogitative soul cognized
+          material forms, then for the same reason the cogitative soul would
+          cognize itself, since the cogitative soul is a material substance or
+          form, as it is manifest from what was said previously. This, however,
+          appears to be impossible, for a material and corporeal form can never
+          reflect about itself, as it is commonly assumed by reference to the
+          <title>Liber de causis</title>. For this reason etc.
+        </p>
+        <p xml:id="da-28-l3q21-1544en-06">
+          This reason is confirmed by the following argument: the cogitative
+          soul is naturally apt to cognize actual beings only by means of their
+          proper species. For there is no reason for which the cogitative soul
+          should cognize one being by means of its proper species and another
+          being without its proper species. But the cogitative soul cannot
+          receive the proper species of itself, otherwise one and the same
+          subject – i.e. the human body – would have the very same
+          <supplied>form</supplied> both according to <supplied>the
+          form’s</supplied> real being and according to <supplied>the
+          form’s</supplied> spiritual being; but this is impossible. For this
+          reason etc.
+        </p>
+        <p xml:id="da-28-l3q21-1544en-07">
+          <supplied><hi rendition="simple:bold">Response:</hi></supplied> On
+          this topic there are two probable opinions. <supplied>1.</supplied>
+          The first opinion is that the human cogitative soul only cognizes
+          material substances in themselves and formally, if it <supplied>= the
+          cogitative soul</supplied> receives their proper species; for the
+          cogitative soul can only cognize something properly and in itself and
+          formally, if it <supplied>= the cogitative soul</supplied> receives
+          the proper species of it. This assumption is supposed to be manifest.
+          But the cogitative soul cannot receive the proper species of any
+          material substance. For this species has to be a substance in a way,
+          as it has been said previously, and the cogitative soul cannot receive
+          in itself anything belonging to the genus of substance, since it
+          <supplied>= the cogitative soul</supplied> is
+          <supplied>itself</supplied> a <supplied>substantial</supplied> form
+          and act. For this reason etc.
+        </p>
+        <p xml:id="da-28-l3q21-1544en-08">
+          One could say, however, that the cogitative soul indeed cognizes
+          individual properties that exist in a material substance and are not
+          apprehended by any particular sense. These properties are called
+          non-sensible intentions, and they are what <name
+          ref="#Averroes">Averroes</name> calls intentions of individual
+          substances: such as, for instance, this goodness, this malice, this
+          fatherhood, this being-son/daughter, this action, this passion, and
+          similar properties that belong to other categories and which are
+          neither common nor proper sensible objects; these properties cannot be
+          apprehended by particular senses. But the cogitative soul cognizes
+          intentions of this kind, as all philosophers who have spoken about the
+          difference between the powers of the human soul – in particular <name
+          ref="#Averroes">Averroes</name>, <name>Albert</name>,
+          <name>Avicenna</name>, <name>Algazel</name> – testify. And this can
+          also be proved sufficiently by the following argument: since the
+          cogitative power is as a cognitive power nobler and more excellent
+          than any particular sense and the common sense, it <supplied>=the
+          cogitative power</supplied> must cognize things that cannot be
+          cognized by these latter powers, and such things can only be
+          intentions of the kind I have mentioned. For this reason
+          <supplied>etc.</supplied>
+        </p>
+        <p xml:id="da-28-l3q21-1544en-09">
+          This view can be confirmed according to the intention of <name
+          ref="#Aristotle">Aristotle</name> and <name
+          ref="#Averroes">Averroes</name>. For it is known that the human soul,
+          <cb ed="#Ve_1544" n="b"/>
+          which inheres in the human body, is nobler than any other inherent
+          <supplied>= bodily</supplied> soul und must have a power that is
+          nobler than any powers of other animals. That power can only be the
+          cogitative power, which reasons about particular things that have been
+          apprehended. Therefore it is called a certain reason, according to
+          <supplied>what</supplied> <name ref="#Averroes">Averroes</name>
+          <supplied>says</supplied> in this third book of his <title>De
+          anima</title>. For this reason etc.
+        </p>
+        <p xml:id="da-28-l3q21-1544en-10">
+          <supplied>2.</supplied> The second opinion could be that the
+          cogitative power cognizes material substances by means of their
+          individual proper species, but <supplied>only</supplied> insofar as
+          the species of this kind that are received in the cogitative soul do
+          not belong to the category of substance, but to the category of
+          accident, for instance to the category of quality; these species
+          nonetheless represent material substances to the extent that they are
+          proper effects of them. And it does not appear to be inconvenient that
+          a material substance immediately produces some spiritual accident
+          <supplied>= quality</supplied> in a subject that is naturally apt
+          <supplied>to receive it</supplied>, when the proximate agent is
+          together with the patient, as it is evident from
+          <title>Physics</title> VII. But a material substance is not together
+          with the human cogitative soul in the way a stone, a piece of wood and
+          things of this kind are; <supplied>for this reason</supplied> we will
+          have to admit that a material substance of this kind produces its
+          species in the medium existing between the cogitative soul and the
+          material substance, and through this medium it <supplied>= the
+          material substance</supplied> produces <supplied>its
+          species</supplied> in the organ of the senses and further on in the
+          cogitative soul. But from this it does not follow that the particular
+          senses cognize the material substance, for they are not appointed to
+          cognize it by itself, nor do they receive the species of the substance
+          according to spiritual being, as it is required for cognition. Oh
+          might I know what is true in this question! If some new ideas appear
+          to my mind, I will write them down at another place.
+        </p>
+        <p xml:id="da-28-l3q21-1544en-11">
+          <supplied><hi rendition="simple:bold">To the 1<hi
+          rendition="simple:superscript">st</hi> argument:</hi></supplied> Both
+          reasons and authorities in favor of both opinions can be avoided
+          according to what we have just said. Thus, when <name
+          ref="#Averroes">Averroes</name> says that the sense apprehends the
+          individual intention of this human being and of this horse,
+          <supplied>we can reply that</supplied> under “individual intention” he
+          does not understands the very substantial form of the human being or
+          of the horse, but some non-sensible property which belongs to such an
+          individual, so that <supplied>the sense = the cogitative
+          power</supplied> would cognize this paternity, this
+          being-son/being-daughter, this capacity of laughing, this bodily
+          strength, this aptitude to walk <supplied>etc.</supplied>
+        </p>
+        <p xml:id="da-28-l3q21-1544en-12">
+          Likewise, when <name ref="#Averroes">Averroes</name> says that it
+          belongs accidentally to the senses to apprehend the substantial
+          differences of individuals, <supplied>we can reply that</supplied>
+          under “substantial differences” he understands some non-sensible
+          properties deriving from the substance of an individual; <name
+          ref="#Averroes">Averroes</name> also calls them individual intentions
+          of the substances considered by the intellect.
+        </p>
+        <p xml:id="da-28-l3q21-1544en-13">
+          <supplied><hi rendition="simple:bold">To the 2<hi
+          rendition="simple:superscript">nd</hi> argument:</hi></supplied> To
+          the second argument – which was a reason argument, not an authority
+          argument – we can reply as follows: in order for the intellect to
+          cognize material substances it suffices that the cogitative power
+          cognizes them by their proper accidents, particularly by operations
+          which belong to them <supplied>= material substances</supplied> as
+          proper accidents per se. Likewise, in order <supplied>for the
+          intellect</supplied> to understand immaterial substances it is not
+          necessary that the cogitative power cognizes them – this is even
+          impossible, since a material and organic power is absolutely not able
+          to cognize any spiritual and incorporeal thing –, but it suffices that
+          the cogitative power apprehends proper effects of them <supplied>=
+          immaterial substances</supplied>, i.e. the perpetual and uniform
+          motions <supplied>of the stars</supplied>, as it is evident from
+          <title>Physics</title> VIII. For this reason, etc.
+        </p>
+        <p xml:id="da-28-l3q21-1544en-14">
+          <supplied><hi rendition="simple:bold">To the “to the
+          opposite”:</hi></supplied> The argument “to the opposite” – namely
+          that the cogitative soul, for the very same reason <supplied>for which
+          it would cognize material substances</supplied>, should also cognize
+          itself – is very complicate and not very fine. Nonetheless we may
+          reply that the cogitative soul does not cognize itself by itself or
+          through its proper species, whether this species is taken to belong to
+          the category of substance or to a category of accidents. But if the
+          cogitative soul cognizes itself <supplied>at all</supplied>, then this
+          is so only by its operation, since the cogitative
+          <supplied>soul</supplied> knows that it is cogitating, which is its
+          proper and intrinsic activity. Thus, the cogitative soul perhaps does
+          not cognize its own operation, for it is an organic and corporeal
+          power; but it is the intellect that cognizes it <supplied>= the
+          operation of the cogitative power</supplied>, and human beings
+          <supplied>in turn cognizes this operation</supplied> by means of the
+          intellect. If someone said that she is aware of her cogitating and she
+          knows her cogitating, then we might reply to her that she is abusing
+          her cogitating; in fact she should say that the intellect
+          <supplied>and not the cogitative power</supplied> understands her
+          cogitating.
+        </p>
+        <p xml:id="da-28-l3q21-1544en-15">
+          I do not know anything more about this topic. Thus, try to think
+          yourself, too. And so on.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>
