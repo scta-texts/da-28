@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../tools/schema/lombardpress-schema.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestiones in De anima</title>
+        <author>John of Jandun</author>
+        <editor>Michael Stenskjær Christensen</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.1-dev">
+          <date when="2017-09-19">September 19, 2017</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Michael</publisher>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-sa/4.0/">Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)</ref></p>
+        </availability>
+        <date when="2017-09-19">September 19, 2017</date>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="V">
+            Venice 1480, Quaestiones super libros de anima Aristoteles (early
+            print, BNF)
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <variantEncoding method="parallel-segmentation" location="internal"/>
+      <schemaRef n="lbp-diplomatic-1.0.0"
+                 url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/1.0/diplomatic.rng">
+      </schemaRef>
+      <editorialDecl>
+        <p>
+          Encoding of this text has followed the recommendations of the
+          LombardPress 1.0.0 guidelines for a diplomatic edition.
+        </p>
+        <p>
+          Orthography has been classicized.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-09-19" status="draft" n="0.0.1-dev">
+          <p>Created file for the first time.</p>
+        </change>
+     </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la" type="diplomatic">
+    <front>
+      <div xml:id="starts-on">
+        <pb n="217" ed="#V"/><cb ed="#V" n="a"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="venice1480-da-28-l3q13">
+        <head>Quaestio 13</head>
+        <p xml:id="venice1480-da-28-l3q13-zpf7gg">
+          <lb ed="#V"/> Um autem sic singula fiant et cetera<pc type="punctus"/>
+          <lb ed="#V"/> Quaeritur hic<pc type="punctus"/> utrum intellectus
+          possi<lb ed="#V"/>bilis possit intelligere suam
+          intellecti<lb ed="#V"/>onem existentem in eo<pc type="punctus"/> Arguitur primo quod non
+          <lb ed="#V"/> quia sicut se habet sensus ad sensationem sic
+          intel<lb ed="#V"/>lectus ad intellectionem per convenienetem
+          simili<lb ed="#V"/>tudinem<pc type="punctus"/> sed sensus non potest sentire suam
+          sensa<lb ed="#V"/><cb ed="#V" n="b"/>tionem<pc type="punctus"/> ut plane dicit Aristoteles<pc type="punctus"/> in de somno et
+          <lb ed="#V"/> vigilia<pc type="punctus"/> et commentator in de substantia orbis<pc type="punctus"/> Non enim visu
+          <lb ed="#V"/> videt aliquis quem videt<pc type="punctus"/> similiter autem et in aliis
+          <lb ed="#V"/> quare et cetera<pc type="punctus"/>
+        </p>
+        <p xml:id="venice1480-da-28-l3q13-filqrw">
+          Item illud quod non est sensibile non
+          <lb ed="#V"/> est intelligibile<pc type="punctus"/> cum anima nihil intelligat sine
+          <lb ed="#V"/> phantasmate ut dicit Aristoteles<pc type="punctus"/> in isto tertio<pc type="punctus"/>
+          phantas<lb ed="#V"/>ma autem non est nisi rei sensibilis ut patet ex secundo
+          <lb ed="#V"/> hoc et tertio<pc type="punctus"/> sed ipsa intellectio non est sensibilis
+          <lb ed="#V"/> ut manifestum est quare et cetera<pc type="punctus"/>
+        </p>
+        <p xml:id="venice1480-da-28-l3q13-1ycp7h">
+          Item omne quod
+          intel<lb ed="#V"/>ligitur agit in intellectum<pc type="punctus"/> cum intelligere sit
+          <lb ed="#V"/> quoddam pati ab intelligibili aut aliquod huiusmodi
+          al<lb ed="#V"/>terum<pc type="punctus"/> scilicet<pc type="punctus"/> consequens passionem<pc type="punctus"/> sed intellectio non agit
+          <lb ed="#v"/> aliquod in intellectum<pc type="punctus"/> quia accidens non agit in
+          <lb ed="#V"/> suum subiectum et universaliter forma non agit in suam materiam
+          <lb ed="#V"/> in qua existit quare et cetera<pc type="punctus"/>
+        </p>
+        <p xml:id="venice1480-da-28-l3q13-u31q20">
+          Item si intellectus
+          in<lb ed="#V"/>telligeret intellectionem existentem in eo<pc type="punctus"/> verbi gratia
+          in<lb ed="#V"/>tellectionem lapidis sequeretur quod simul intelligeret
+          <lb ed="#V"/> diversa intelligibilia<pc type="punctus"/> quod reputatur
+          <!-- Arist. Metaph IV.4 1006b10 -->
+          impossibi<lb ed="#V"/>le secundum Aristotelem quarto metaphysicae<pc type="punctus"/> ubi dicit quod quis unum
+          <lb ed="#V"/> non intelligit nihil intelligit<pc type="punctus"/> et probatur consequentia
+          <lb ed="#V"/> quia cum intellectio lapidis sit in intellectu oportet
+          <lb ed="#V"/> quod intellectus intelligat lapidem<pc type="punctus"/> sicut cum
+          vi<lb ed="#V"/>sio coloris est in visu necesse est tunc quod visus
+          <lb ed="#V"/> videat colorem<pc type="punctus"/> si igitur intellectus intelligeret
+          in<lb ed="#V"/>tellectionem lapidis existentem in ipso dum est in
+          ip<lb ed="#V"/>so<pc type="punctus"/> cum ipsa intellectio lapidis sit aliud
+          la<lb ed="#V"/>pide<pc type="punctus"/> sequeretur inconveniens praedictum quare et cetera<pc type="punctus"/>
+        </p>
+        <p xml:id="venice1480-da-28-l3q13-y7nqut">
+          Oppositum arguitur auctoritate Aristotelis<pc type="punctus"/> in isto capitulo
+          <lb ed="#V"/> ubi dicit quod intellectus intelligit se per suum actum
+          <lb ed="#V"/> quod non contingeret nisi posset intelligere suum
+          <lb ed="#V"/> actum ut manifestum est<pc type="punctus"/>
+        </p>
+        <p xml:id="venice1480-da-28-l3q13-8yi16m">
+          Ad quaestionem dico
+          <lb ed="#V"/> breviter quod intellectus bene potest intelligere
+          su<lb ed="#V"/>am intellectionem et universaliter suum actum quiscumque sit
+          <lb ed="#V"/> sive primus sive secundus<pc type="punctus"/> et probatur quia intellectus potest
+          <lb ed="#V"/> intelligere omne ens<pc type="punctus"/> sed actus ipsius intellectus est
+          <lb ed="#V"/> aliquod ens igitur et cetera<pc type="punctus"/> maior est manifesta ex isto
+          <lb ed="#V"/> tertio cum intellectus sit in potentia omnia fieri<pc type="punctus"/> et commentator
+          <lb ed="#V"/> dicit in suo libro de generatione<pc type="punctus"/> quod nullum ens
+          <lb ed="#V"/> est ignotum naturaliter<pc type="punctus"/> et minor similiter apparet de se
+          <lb ed="#V"/> quare et cetera<pc type="punctus"/> Sed de modo secundum quem intellectus
+          in<lb ed="#V"/>telligit intellectionem existentem in ipso est magna
+          <lb ed="#V"/> difficultas<pc type="punctus"/> Si enim intellectus cognoscit
+          intellecti<lb ed="#V"/>onem lapidis existentem in ipso quaero utrum
+          intelle<lb ed="#V"/>ctio illa quae intelligit intellectionem lapidis sit
+          <lb ed="#V"/> per se eadem cum ipsa intellectione lapidis aut
+          <lb ed="#V"/> diversa<pc type="punctus"/> Si dicatur quod sit eadem hoc videtur esse
+          <lb ed="#V"/> falsum<pc type="punctus"/> quia intelligere diversificatur secundum naturam rei
+          <lb ed="#V"/> intellectae ut dicit plane commentator in isto tertio commento
+          <lb ed="#V"/> nono cum igitur lapis sit alia natura a sua
+          intellecti<lb ed="#V"/>one et econverso quomod potest esse unum et idem intelligere
+          <lb ed="#V"/> quo intelligit utrumque<pc type="punctus"/> si autem illa intellectio
+          <lb ed="#V"/> sit alia ab intellectione lapidis sequitur unum
+          <lb ed="#V"/> inconveniens manifestum scilicet quod intellectus simul
+          <lb ed="#V"/> potest intelligere infinita sub rationibus suis propriis
+          <pb ed="#V" n="218"/><cb ed="#V" n="a"/>
+          <lb ed="#V"/> quia qua ratione intellectus intelligit
+          intellectio<lb ed="#V"/>nem lapidis existentem in eo intellectione alia
+          <lb ed="#V"/> ab ipsa<pc type="punctus"/> eadem ratione intelligere poterit
+          intellecti<lb ed="#V"/>onem illius intellectionis per aliam intellectionem et
+          <lb ed="#V"/> illam per aliam et sic in infinitum<pc type="punctus"/> et unamquamque
+          <lb ed="#V"/> istarum intellectionum simul intelligeret intellectus secundum
+          <lb ed="#V"/> rationem suam propriam<pc type="punctus"/> sicut simul ponitur intelligere
+          <lb ed="#V"/> lapidem et intellectionem lapidis existentem in eo secundum
+          <lb ed="#V"/> rationem suam propriam<pc type="punctus"/> hoc autem videtur omnino absurdum
+          <lb ed="#V"/> scilicet quod intellectus intelligat infinita acta<pc type="punctus"/> quia
+          infi<lb ed="#V"/>nitum est ignotum secundum Aristotelem primo physicorum et secundo
+          me<lb ed="#V"/> taphysicae quare inconveniens videtur quod intellectus
+          intel<lb ed="#V"/>ligat intellectionem existentem in eo intellectionem
+          di<lb ed="#V"/>versa ab illa<pc type="punctus"/> Qualiter ergo intelliget eam<pc type="punctus"/> Et ad
+          <lb ed="#V"/> istam difficultatem solvendam invenio paucos
+          <lb ed="#V"/> laborasse manifeste<pc type="punctus"/> Unde ad praesens sufficit
+          <lb ed="#V"/> mihi probabiliter transire salva mihi
+          liberta<lb ed="#V"/>te aliter dicendi alias si mihi melius apparebit<pc type="punctus"/>
+          <lb ed="#V"/> Possem itaque dicere quod intellectus intelligit
+          in<lb ed="#V"/>tellectionem lapidis existentem actu in eo sed non
+          <lb ed="#V"/> alia intellectione simpliciter sed eadem<pc type="punctus"/> ita quod
+          intel<lb ed="#V"/>lectio lapidis existens in intellectu est
+          in<lb ed="#V"/>tellectio lapidis et intellectio sui ipsius et
+          <lb ed="#V"/> intellectus ista intellectione denominatur intelligens
+          <lb ed="#V"/> lapidem et ipsammet intellectionem<pc type="punctus"/> Et quodam
+          <lb ed="#V"/> modo simile sicut albedo non dicitur alba per aliam
+          al<lb ed="#V"/>bedinem superadditam sibi<pc type="punctus"/> sed dicitur alba eo modo quo
+          <lb ed="#V"/> potest dici alba per seipsam<pc type="punctus"/> quia ipsa est illud quo
+          for<lb ed="#V"/>maliter aliquid est album<pc type="punctus"/> sic intellectio lapidis
+          <lb ed="#V"/> dicitur intellecta non quidem per aliam intellectionem
+          <lb ed="#V"/> sed per seipsam inquantum est id quo aliquid dicitur
+          intelle<lb ed="#V"/>ctum et intelligens<pc type="punctus"/>
+        </p>
+        <p xml:id="venice1480-da-28-l3q13-bfhhap">
+          Et si quis quaeret quare
+          intelle<lb ed="#V"/>ctio lapidis est aliud a lapide et intellectio
+          intel<lb ed="#V"/>lectionis lapidis non est aliud ab ipsa<pc type="punctus"/> Forte
+          <lb ed="#V"/> causa huius est quia lapis est res materialis et non
+          abstra<lb ed="#V"/>cta<pc type="punctus"/> et talia non sunt de se actu intellecta nec
+          in<lb ed="#V"/>tellectiones ut dicit Aristoteles in isto tertio<pc type="punctus"/> In habentibus
+          <lb ed="#V"/> autem materiam potentia est unumquodque intelligibilium<pc type="punctus"/>
+          <lb ed="#V"/> sed ipsa intellectio est res abstracta a materia scilicet
+          <lb ed="#V"/> actus universalis<pc type="punctus"/> omnis autem talis actus est de se intellectus<pc type="punctus"/>
+          <lb ed="#V"/> et habens huiusmodi actum in se est actu intelligens quare et cetera
+        </p>
+        <p xml:id="venice1480-da-28-l3q13-qfglmx">
+          Et ad auctoritatem commentatoris cum dicitur intelligere
+          diver<lb ed="#V"/>sificatur secundum diversitatem naturae intellectae<pc type="punctus"/> possum dicere
+          <lb ed="#V"/> quod verum est si illae res sint eiusdem ordinis<pc type="punctus"/> verbi
+          <lb ed="#V"/> gratia<pc type="punctus"/> Intellectiones duarum formarum materialium sunt
+          <lb ed="#V"/> diversae<pc type="punctus"/> et similiter intellectiones duorum diversorum
+          actu<lb ed="#V"/>um immaterialium sunt diversae<pc type="punctus"/> sed si intelligibilia sunt
+          <lb ed="#V"/> diversorum ordinum scilicet quod unum illorum sit materiale et
+          <lb ed="#V"/> aliud abstractum ab illo materiali<pc type="punctus"/> sic non oportet quod
+          <lb ed="#V"/> eorum sint diversae intellectiones<pc type="punctus"/> et sic est in
+          proposi<lb ed="#V"/>to<pc type="punctus"/> nam intellectio lapidis est in alio ordine
+          en<lb ed="#V"/>tium a lapide et e contrario lapis enim est res materialis<pc type="punctus"/> et
+          <lb ed="#V"/> eius intellectio est quid immateriale et abstractum et
+          <lb ed="#V"/> causatum ab ipso lapide et quoquomodo scilicet
+          median<cb ed="#V" n="b"/><lb ed="#V"/>te suo phantasmate una cum intellectu agente
+          <lb ed="#V"/> quare non valet<pc type="punctus"/> Ad primam rationem dico quod est
+          <lb ed="#V"/> simile de sensu et intellectu quo ad hoc<pc type="punctus"/> quia sicut
+          <lb ed="#V"/> sensus est subiectum sensationis sic intellectus
+          intelle<lb ed="#V"/>ctionis sed est difficile in hoc quia sensus est virtus
+          orga<lb ed="#V"/>nica et corporea et ideo non est nata cognoscere
+          <lb ed="#V"/> suum actum<pc type="punctus"/> sed intellectus est virtus abstracta et
+          incorporea et ideo potest cognoscere suum actum<pc type="punctus"/>
+        </p>
+        <p xml:id="venice1480-da-28-l3q13-x88ng3">
+          <lb ed="#V"/> Ad aliam cum dicitur<pc type="punctus"/> quod non est sensibile et cetera
+          <lb ed="#V"/> potest dici quod verum est quod nec est sensibile nec
+          <lb ed="#V"/> habet habitudinem ad aliquod sensibile<pc type="punctus"/> licet si habet
+          <lb ed="#V"/> habitudinem per se ad aliquod sensibile sic potest
+          in<lb ed="#V"/>telligi<pc type="punctus"/> modo licet intellectio non sit sensibilis per
+          <lb ed="#V"/> se<pc type="punctus"/> tamen habet habitudinem ad sensibile per se scilicet ad
+          il<lb ed="#V"/>lud a quo causatur in intellectu quoquomodo
+          <lb ed="#V"/> sicut causatum habet habitudinem ad suam causam et hoc dicitur
+          <lb ed="#V"/> sufficere<pc type="punctus"/> quomodo enim aliter possemus intelligere
+          sub<lb ed="#V"/>stantias separatas nisi quia habent habitudinem ad
+          <lb ed="#V"/> aliquae sensibilia scilicet ad motus caelestes<pc type="punctus"/>
+        </p>
+        <p xml:id="venice1480-da-28-l3q13-8jzd8u">
+          Ad
+          <lb ed="#V"/> aliam potest concedi rationabiliter quod intellectus bene
+          <lb ed="#V"/> potest simul intelligere diversa saltem una
+          intellecti<lb ed="#V"/>one et sic erit in proposito<pc type="punctus"/> intelligens enim
+          intelli<lb ed="#V"/>git lapidem et intellectionem lapidis unica
+          in<lb ed="#V"/>tellectione<pc type="punctus"/> Et cum dicit Aristoteles quod unum non
+          in<lb ed="#V"/>telligit et cetera potest dici sicut communiter exponitur
+          <lb ed="#V"/> quod quis unum non intelligit secundum unam
+          intellectio<lb ed="#V"/>nem nihil intelligit<pc type="punctus"/> Utrum autem possint
+          intelli<lb ed="#V"/>gi plura diversis intellectionibus nihil ab eodem
+          <lb ed="#V"/> individuo bona difficultas est sed magis habet
+          <lb ed="#V"/> locum alibi scilicet in quarto metaphysicae et sic de isto<pc type="punctus"/>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>
