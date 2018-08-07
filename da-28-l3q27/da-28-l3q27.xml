@@ -64,8 +64,12 @@
       </div>
     </front>
     <body>
-      <div xml:id="da-28-l3q13">
-        <head>Quaestio 27</head>
+      <div xml:id="da-28-l3q27">
+        <head>
+          <supplied ana="#meta-text">
+            III.27: Utrum intellectus possibilis possit intelligere seipsum
+          </supplied>
+        </head>
         <!-- The numbering is problematic. V1 counts 28 here because of the
              question discussing the agent intellect that may or may not be a
              question proper. -->
@@ -74,7 +78,7 @@
           possibilis possit intelligere seipsum.
         </p>
         <div ana="#rationes-principales">
-          <p xml:id="da-28-l3q13-v8me6r">
+          <p xml:id="da-28-l3q27-v8me6r">
             Et arguitur primo quod non, quia sicut se habet sensus ad sentire sic
             intellectus ad intelligere per convenientem similitudinem; sed sensus
             non sentit seipsum immo neque suam cognoscit sensationem, ut vult
@@ -132,7 +136,7 @@
         <div ana="#determinatio">
           <p xml:id="da-28-l3q27-apjl8r" ana="#structure-head">
             Ad quaestionem primo dico breviter quod intellectus possibilis potest
-            seipsum intelligere, secundo onstendetur quod non intelligit seipsum
+            seipsum intelligere, secundo ostendetur quod non intelligit seipsum
             per seipsum, scilicet per suam propriam substantiam, tertio videbitur
             modus per quem contingit ei seipsum intelligere.
           </p>
@@ -168,7 +172,7 @@
                 <quote>
                   et si iste intellectus esset intellectus per se, contingeret
                   in scientia speculativa quod scientia et scitum essent idem,
-                  quod est impsossibile.
+                  quod est impossibile.
                 </quote>
                 <bibl>
                   <name ref="#Averroes">Averroes</name>,
@@ -182,37 +186,54 @@
               consequentis, et ideo considerandum est in istis.
             </p>
             <p xml:id="da-28-l3q27-ay0i1u">
-              Consequentia est propinqius extremis quam extrema inter se – hoc
-              bene manifestum est; cum ergo intellectus et intelligibile se
-              habeant sicut extrema, et intellectio sit sicut medium inter ea,
-              sequitur quod si intellectus et intelligibile sint omnino unum et
-              idem cum eis, et sic si intellectus possibilis secundum seipsum
-              est intelligens et quod intelligitur, necesse est quod intellectio
-              sua sit substantia sua, et sic patet consequentia. Sed falsitas
-              huius consequentis potest sic probari: nam si intellectus
-              possibilis esset sua intellectio essentialiter, numquam reciperet
-              de novo intellectionem suae propriae substantiae, nihil enim est
-              per se rece<cb ed="#V1" n="b"/>ptivum alicuius quod est eiusdem
-              speciei cum eo; omnis autem intellectio propria secundum quam
-              intelligitur substantia propria intellectus possibilis est eadem
-              secundum speciem per se, loquendo sicut <quote>et ipse est unus
-              secundum speciem</quote>; si ergo intellectus possiblis esset sua
-              intellectio, numquam reciperet suam intellectionem eo quod
-              recipiens debet esse denudatum essentialiter a tota specie ipsius
-              recepti, sicut pulchre docet Commentator in isto tertio commento
-              quinto et septimo. Ridiculum enim esset dicere quod aliquid
-              eiusdem speciei cum aliquo esset per se receptivum illius, ut quod
-              una albedo esset per se receptiva alterius albedinis.
-            </p>
-            <p xml:id="da-28-l3q27-8ybaql">
-              Inconveniens autem videtur omnino quod intellectus possibilis
-              numquam recipiat de novo intellectionem propriam suae propriae
-              substantiae, quia quilibet intelligens experitur in seipso se
-              intelligere propriam substantiam intellectus possibilis et eius
-              differentiam a sua potentia quoquo modo, et ab intellectu agente
-              et a specie intelligibili recepta in intellectu; ergo sequitur
-              quod intellectus possibilis non est intellectus a seipso per
-              seipsum.
+              <app>
+                <lem type="conjecture-corrected">Medium</lem>
+                <rdg wit="#V1 #V2">Consequentia</rdg>
+              </app>
+              est propinqius extremis quam extrema inter se – hoc bene
+              manifestum est; cum ergo intellectus et intelligibile se habeant
+              sicut extrema, et intellectio sit sicut medium inter ea, sequitur
+              quod si intellectus et intelligibile sint omnino unum et idem,
+              <supplied>et intellectio erit idem</supplied> cum eis, et sic si
+              intellectus possibilis secundum seipsum est intelligens et quod
+              intelligitur, necesse est quod intellectio sua sit substantia sua,
+              et sic patet consequentia. Sed falsitas huius consequentis potest
+              sic probari: nam si intellectus possibilis esset sua intellectio
+              essentialiter, numquam reciperet de novo intellectionem suae
+              propriae substantiae, nihil enim est per se rece<cb ed="#V1"
+              n="b"/>ptivum alicuius quod est eiusdem speciei cum eo; omnis
+              autem intellectio propria secundum quam intelligitur substantia
+              propria intellectus possibilis est eadem secundum speciem per se,
+              loquendo sicut <quote>et ipse est unus secundum speciem</quote>;
+              si ergo intellectus possiblis esset sua intellectio, numquam
+              reciperet suam intellectionem
+              <cit>
+                <quote type="paraphrase">
+                  eo quod recipiens debet esse denudatum essentialiter a tota
+                  specie ipsius recepti,
+                </quote>
+                <ref>
+                  sicut pulchre docet <name ref="#Averroes">Commentator</name>
+                  in isto tertio commento quinto et septimo
+                </ref>
+                <bibl>
+                  <name ref="#Averroes">Averroes</name>
+                  <titl ref="#Averroes.Com-DA">
+                    Comm. Magn. in DA
+                  </titl>
+                  , XXX=!?!?!
+                </bibl>
+              </cit>
+              . Ridiculum enim esset dicere quod aliquid eiusdem speciei cum
+              aliquo esset per se receptivum illius, ut quod una albedo esset
+              per se receptiva alterius albedinis. Inconveniens autem videtur
+              omnino quod intellectus possibilis numquam recipiat de novo
+              intellectionem propriam suae propriae substantiae, quia quilibet
+              intelligens experitur in seipso se intelligere propriam
+              substantiam intellectus possibilis et eius differentiam a sua
+              potentia quoquo modo, et ab intellectu agente et a specie
+              intelligibili recepta in intellectu; ergo sequitur quod
+              intellectus possibilis non est intellectus a seipso per seipsum.
             </p>
             <p xml:id="da-28-l3q27-9es317">
               Et ex hoc sequitur unum correlarium quod etiam prius positum est,
@@ -257,7 +278,7 @@
               species eorum, non esset rationabile quod eisdem speciebus
               proficeatur ad cognitionem suiipsius, quod ergo intellectus
               possibilis indigeat ad cognitionem suiipsius disponi per species
-              aliorum hoc non est nisi quia ipse secundum se est ens pure in
+              aliorum. Hoc non est nisi quia ipse secundum se est ens pure in
               potentia receptiva et non actu de se formaliter.
             </p>
           </div>
@@ -274,7 +295,7 @@
               aliquod tempus, et in fine illius temporis incipiet considerare
               speciem illam receptam, et illa consideratio erit per aliquod tempus,
               deinde in fine illius temporis incipiet intelligere potentiam
-              susceptivam illius specei, et postea contiget ut intelligat
+              susceptivam illius specei, et postea continget ut intelligat
               substantiam subiectam illi potentiae et specei et sic intelliget
               seipsum.
             </p>
@@ -330,19 +351,21 @@
               Haec sunt verba Commentatoris quae sic intelligo quod intellectus
               intelligit seipsum modo accidentali, id est disponitur ad
               intelligendum seipsum per aliquod accidens, scilicet per speciem
-              intelligibilem receptam in eo, et hoc est quod subdit secundum
-              quod accidit, id est contingit intellectis rerum, id est speciebus
-              intelligibilibus rerum quod fuerint ipsae, id est essentia eius,
-              id est quod fuerunt receptae in essentia eius. Non ergo est
-              intelligendum quod ipse intelligit seipsum per species rerum pro
-              tanto, quia illae species sint idem essentialiter cum substantia
-              ipsius intellectus hoc absit, sed quia huiusmodi species accidunt
-              ei et recipiuntur in eius essentia. Bene tamen verum est quod
-              huiusmodi species sunt essentia intellectus possibilis secundum
-              quod ipse non est dispositus et praeparatus ad intelligere sine
-              illis, sed tunc illae species non sunt idem essentialiter cum
-              substantia intellectus possibilis absolute, et haec expositio hoc
-              est consideranda.
+              intelligibilem receptam in eo, et hoc est quod subdit
+              <mentioned>secundum quod accidit</mentioned>, id est contingit
+              intellectis rerum, id est speciebus intelligibilibus
+              <mentioned>rerum quod [=quae?] fuerint ipsae</mentioned>, id est
+              essentia eius, id est quod fuerunt receptae in essentia eius. Non
+              ergo est intelligendum quod ipse intelligit seipsum per species
+              rerum pro tanto quia illae species sint idem essentialiter cum
+              substantia ipsius intellectus (hoc absit), sed
+              quia huiusmodi species accidunt ei et recipiuntur in eius
+              essentia. Bene tamen verum est quod huiusmodi species sunt
+              essentia intellectus possibilis secundum quod ipse non est
+              dispositus et praeparatus ad intelligere sine illis, sed tunc
+              illae species non sunt idem essentialiter cum substantia
+              intellectus possibilis absolute, et haec expositio hoc est
+              consideranda.
             </p>
             <p xml:id="da-28-l3q27-fcpuw5">
               Considerandum etiam quod quamvis intellectus possibilis secundum
@@ -362,13 +385,14 @@
           <div>
             <p xml:id="da-28-l3q27-9favfb">
               Notandum etiam quod intellectus possibilis non solum potest
-              intelligere seipsum modo praedicto intellectione simplici et intuitiva
-              quae est de primis eius operationibus quoquo modo, sed etiam ipse
-              potest se intelligere enuntiando aliquae de seipso secundum
-              affirmationem et negationem, ut quod ipse sit substantia materialis et
-              incorporea et receptiva specierum et alia huiusmodi quae etiam de ipso
-              demonstrative cognoscit, sicut patet ex ista scientia de anima, et in
-              hac scientia est delectatio mirabilis et sincera quam non percipiunt
+              intelligere seipsum modo praedicto intellectione simplici et
+              intuitiva quae est de primis eius operationibus quoquo modo, sed
+              etiam ipse potest se intelligere enuntiando aliquae de seipso
+              secundum affirmationem et negationem, ut quod ipse sit substantia
+              <supplied>im</supplied>materialis et incorporea et receptiva
+              specierum et alia huiusmodi quae etiam de ipso demonstrative
+              cognoscit, sicut patet ex ista scientia de anima, et in hac
+              scientia est delectatio mirabilis et sincera quam non percipiunt
               nisi pauci.
             </p>
           </div>
