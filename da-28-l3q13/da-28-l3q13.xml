@@ -65,7 +65,12 @@
     </front>
     <body>
       <div xml:id="da-28-l3q13">
-        <head>Quaestio 13</head>
+        <head>
+          <supplied ana="#meta-text">
+            III.13: Utrum intellectus possibilis possit intelligere suam
+            intellectionem existentem in eo
+          </supplied>
+        </head>
         <p xml:id="da-28-l3q13-jfarjo">
           <cit>
             <quote>
@@ -221,7 +226,7 @@
                 quod nullum ens est ignotum naturaliter
               </quote>
               <bibl>
-                <name ref="#Averroes">Arist.</name>
+                <name ref="#Averroes">Averr.</name>
                 <title ref="#Averr.Comm-GC">Comm. in GC</title> ???
               </bibl>
             </cit>
@@ -281,16 +286,17 @@
             invenio paucos laborasse manifeste. Unde ad praesens sufficit mihi
             probabiliter transire, salva mihi libertate aliter dicendi alias, si
             mihi melius apparebit. Possem itaque dicere quod intellectus
-            intelligit intellectionem lapidis existentem actu in eo, sed non alia
-            intellectione simpliciter sed eadem, ita quod intellectio lapidis
-            existens in intellectu est intellectio lapidis et intellectio sui
-            ipsius, et intellectus ista intellectione denominatur intelligens
-            lapidem et ipsammet intellectionem. Et quodam modo simile sicut albedo
-            non dicitur alba per aliam albedinem superadditam sibi, sed dicitur
-            alba eo modo quo potest dici alba per seipsam, quia ipsa est illud quo
-            formaliter aliquid est album; sic intellectio lapidis dicitur
-            intellecta non quidem per aliam intellectionem sed per seipsam
-            inquantum est id quo aliquid dicitur intellectum et intelligens.
+            intelligit intellectionem lapidis existentem actu in eo, sed non
+            alia intellectione simpliciter sed eadem, ita quod intellectio
+            lapidis existens in intellectu est intellectio lapidis et
+            intellectio sui ipsius, et intellectus ista intellectione
+            denominatur intelligens lapidem et ipsammet intellectionem. Et
+            quodam modo simile sicut albedo non dicitur alba per aliam albedinem
+            superadditam sibi, sed dicitur alba eo modo quo potest dici alba per
+            seipsam, quia ipsa est illud quo formaliter aliquid est album; sic
+            intellectio lapidis dicitur intellecta non quidem per aliam
+            intellectionem sed per seipsam inquantum est id quo aliquid dicitur
+            intellectum et intelligens.
           </p>
           <p xml:id="da-28-l3q13-bfhhap">
             Et si quis quaeret quare intellectio lapidis est aliud a lapide, et
