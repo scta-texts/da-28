@@ -67,7 +67,7 @@
       <div xml:id="da-28-l3q13">
         <p xml:id="da-28-l3q13-jfarjo">
           <cit>
-            <quote>
+            <quote type="lemma">
               <supplied>C</supplied>um autem sic singula fiant et
               cetera.
             </quote>
@@ -93,7 +93,7 @@
             <ref><name ref="#Averroes">Commentator</name>
             in <title ref="#Averroes.Subst-orb">De substantia orbis</title>
             </ref>
-            , non enim visu videt aliquis quem videt; similiter autem et in aliis
+            , non enim visu videt aliquis quem videt; similiter autem et in aliis,
             quare et cetera.
           </p>
           <p xml:id="da-28-l3q13-filqrw">
@@ -103,22 +103,20 @@
                 cum anima nihil intelligat sine phantasmate,
               </quote>
               <ref>
-                ut dicit <name ref="#Aristotle">Aristoteles</name> in isto tertio
+                ut dicit <name ref="#Aristotle">Aristoteles</name> in isto
+                tertio
               </ref>
               <bibl>
                 <name ref="#Aristotle">Arist.</name>
-                <title ref="#Arist.DA">DA</title> III.???
+                <title ref="#Arist.DA">DA</title> III.7, 432a7--14.
               </bibl>
             </cit>
             ;
             <quote type="paraphrase">
               phantasma autem non est nisi rei sensibilis
             </quote>
-            <ref>
-              ut patet ex secundo hoc et tertio
-            </ref>
-            ; sed ipsa intellectio non est sensibilis, ut manifestum est, quare et
-            cetera.
+            ut patet ex secundo hoc et tertio; sed ipsa intellectio non est
+            sensibilis, ut manifestum est, quare et cetera.
           </p>
           <p xml:id="da-28-l3q13-1ycp7h">
             Item, omne quod intelligitur agit in intellectum, cum intelligere sit
@@ -146,10 +144,10 @@
             </cit>
             . Et probatur consequentia quia cum intellectio lapidis sit in
             intellectu, oportet quod intellectus intelligat lapidem sicut cum
-            visio coloris est in visu necesse est tunc quod visus videat colorem,
-            si igitur intellectus intelligeret intellectionem lapidis existentem
-            in ipso, dum est in ipso cum ipsa intellectio lapidis sit aliud
-            lapide, sequeretur inconveniens praedictum; quare et cetera.
+            visio coloris est in visu, necesse est tunc quod visus videat
+            colorem, si igitur intellectus intelligeret intellectionem lapidis
+            existentem in ipso, dum est in ipso cum ipsa intellectio lapidis sit
+            aliud lapide, sequeretur inconveniens praedictum; quare et cetera.
           </p>
         </div>
         <div ana="rationes-principales">
@@ -225,8 +223,8 @@
             quomodo potest esse unum et idem intelligere quo intelligit utrumque?
             Si autem illa intellectio sit alia ab intellectione lapidis, sequitur
             unum inconveniens manifestum, scilicet quod intellectus simul potest
-            intelligere infinita sub rationibus suis propriis, <pb ed="#V"
-            n="218"/><cb ed="#V" n="a"/> quia qua ratione intellectus intelligit
+            intelligere infinita sub rationibus suis propriis, <pb ed="#V1"
+            n="218"/><cb ed="#V1" n="a"/> quia qua ratione intellectus intelligit
             intellectionem lapidis existentem in eo intellectione alia ab ipsa
             eadem ratione intelligere poterit intellectionem illius intellectionis
             per aliam intellectionem, et illam per aliam, et sic in infinitum, et
@@ -254,7 +252,7 @@
             lapidis existens in intellectu est intellectio lapidis et
             intellectio sui ipsius, et intellectus ista intellectione
             denominatur intelligens lapidem et ipsammet intellectionem. Et
-            quodam modo simile sicut albedo non dicitur alba per aliam albedinem
+            quodammodo simile sicut albedo non dicitur alba per aliam albedinem
             superadditam sibi, sed dicitur alba eo modo quo potest dici alba per
             seipsam, quia ipsa est illud quo formaliter aliquid est album; sic
             intellectio lapidis dicitur intellecta non quidem per aliam
@@ -296,7 +294,7 @@
             nam intellectio lapidis est in alio ordine entium a lapide et e
             contrario; lapis enim est res materialis, et eius intellectio est
             quid immateriale et abstractum et causatum ab ipso lapide et quoquo
-            modo, scilicet median<cb ed="#V" n="b"/>te suo phantasmate, una cum
+            modo, scilicet median<cb ed="#V1" n="b"/>te suo phantasmate, una cum
             intellectu agente, quare non valet.
           </p>
         </div>
