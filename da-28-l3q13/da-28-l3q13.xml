@@ -56,7 +56,7 @@
       </listChange>
     </revisionDesc>
   </teiHeader>
-  <text xml:lang="la" type="critical">
+  <text xml:lang="la" type="critical" ana="#positive-apparatus">
     <front>
       <div xml:id="starts-on">
         <pb n="217" ed="#V1"/><cb ed="#V1" n="a"/>
