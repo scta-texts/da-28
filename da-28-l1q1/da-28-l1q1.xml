@@ -5,7 +5,7 @@
     <fileDesc>
       <titleStmt>
         <title>
-          Quaestio I.1: Utrum de anima possit esse scientia
+          I.1: Utrum de anima possit esse scientia
         </title>
         <author>John of Jandun</author>
         <editor>Michael Stenskjær Christensen</editor>
@@ -62,11 +62,6 @@
     </front>
     <body>
       <div xml:id="da-28-l1q1">
-        <head>
-          <supplied ana="#meta-text">
-            I.1: Utrum de anima possit esse scientia
-          </supplied>
-        </head>
         <p xml:id="da-28-l1q1-ift9jp">
           Omissis autem omnibus partibus philosophiae, solum de naturali est
           praesens intentio et non de quocumque, sed de illa quae scientia de
@@ -102,14 +97,11 @@
             </cit>
             . Minor patet quia anima est forma corporis animati, quod est
             singulare, talis autem forma est singularis, ut dicit
-            <cit>
-              <ref>
-                <name ref="#Aristotle">Philosophus</name> septimo
-                <title ref="#Arist.Metaph">Metaphysicae</title>
-                et decimo capitulo
-              </ref>
-              <bibl>???</bibl>
-            </cit>
+            <ref>
+              <name ref="#Aristotle">Philosophus</name> septimo
+              <title ref="#Arist.Metaph">Metaphysicae</title>
+              et decimo capitulo
+            </ref>
             . Eorum autem quae fiunt omnis autem materialis species et in his
             carnibus et ossibus Callias et Socrates diversa propter materiam;
             quare et cetera.
@@ -117,151 +109,104 @@
           <p xml:id="da-28-l1q1-0llqj5">
             Item de corruptibilibus non est scientia; sed anima est huiusmodi;
             ergo et cetera. Maior patet
-            <cit>
-              <ref>
-                primo <title ref="#Arist.APo">Posteriorum</title>
-              </ref>
-              <bibl>???</bibl>
-            </cit>
+            <ref>
+              primo <title ref="#Arist.APo">Posteriorum</title>
+            </ref>
             et
-            <cit>
-              <ref>
-                per <name ref="#Boethius">Boethium</name> in primo suae
-                <title ref="#Boethius.Aritmetica">Aritmethicae</title>
-              </ref>
-              <bibl>???</bibl>
-            </cit>
+            <ref>
+              per <name ref="#Boethius">Boethium</name> in primo suae
+              <title ref="#Boethius.Aritmetica">Aritmethicae</title>
+            </ref>
             . Minor patet quia corpus animatum cuius forma est anima est
             corruptibile, ut patet
-            <cit>
-              <ref>
-                secundo huius
-              </ref>
-              <bibl>???</bibl>
-            </cit>
+            <ref>
+              secundo huius
+            </ref>
             cum <pb ed="#V1" n="5"/><cb ed="#V1" n="a"/>
             sit compositum ex materia et forma; compositum autem sic
             corrumpitur, quia corruptio tangit essentiam formae, licet non
             materiae, et satis patet
-            <cit>
-              <ref>
-                primo <title ref="#Arist.Phys">Physicorum</title>
-              </ref>
-              <bibl>???</bibl>
-            </cit>
+            <ref>
+              primo <title ref="#Arist.Phys">Physicorum</title>
+            </ref>
             et
-            <cit>
-              <ref>
-                septimo <title ref="#Arist.Metaph">Metaphysicae</title>
-              </ref>
-              <bibl>???</bibl>
-            </cit>
+            <ref>
+              septimo <title ref="#Arist.Metaph">Metaphysicae</title>
+            </ref>
             ; quare et cetera.
           </p>
           <p xml:id="da-28-l1q1-7wetyh">
             Item de non intelligibili non est scientia; sed anima est huiusmodi;
             quare et cetera. Maior patet quia scientia est habitus intellectus,
             ut dicit
-            <cit>
-              <ref>
-                <name ref="#Aristotle">Philosophus</name>
-                sexto <title ref="#Arist.EN">Ethicorum</title>
-              </ref>
-            </cit>
+            <ref>
+              <name ref="#Aristotle">Philosophus</name>
+              sexto <title ref="#Arist.EN">Ethicorum</title>
+            </ref>
             , et ideo scibile debet esse intelligibile per locum a coniugatis.
             Minor patet tripliciter. Primo quia non est sensibilis, cum anima
             sit substantia et sensus non se profundat usque ad substantiam rei,
             ut dicit
-            <cit>
-              <ref>
-                <name ref="#Averroes">Commentator</name>
-                secundo huius
-              </ref>
-              <bibl>???</bibl>
-            </cit>
+            <ref>
+              <name ref="#Averroes">Commentator</name>
+              secundo huius
+            </ref>
             , modo intellectus nihil intelligit eorum quae sunt extra suum
             sensum, ut dicit
-            <cit>
-              <ref>
-                <name ref="#Aristotle">Philosophus</name>
-                in <title ref="#Arist.Sens">De sensu et sensato</title>
-              </ref>
-              <bibl>???</bibl>
-            </cit>
+            <ref>
+              <name ref="#Aristotle">Philosophus</name>
+              in <title ref="#Arist.Sens">De sensu et sensato</title>
+            </ref>
             et etiam
-            <cit>
-              <ref>
-                tertio huius
-              </ref>
-              <bibl>???</bibl>
-            </cit>
+            <ref>
+              tertio huius
+            </ref>
             ; quare et cetera. Secundo quia intellectus debet esse denudatus ab
             eo quod intelligit, ut dicunt
-            <cit>
-              <ref>
-                <name ref="#Aristotle">Philosophus</name>
-              </ref>
-              <bibl>???</bibl>
-            </cit>
+            <ref>
+              <name ref="#Aristotle">Philosophus</name>
+            </ref>
             et
-            <cit>
-              <ref>
-                <name ref="#Averroes">Commentator</name>
-                tertio huius
-              </ref>
-              <bibl>???</bibl>
-            </cit>
+            <ref>
+              <name ref="#Averroes">Commentator</name>
+              tertio huius
+            </ref>
             ; modo anima non potest denudari a seipsa; quare et cetera. Tertio
             si sic sequeretur quod idem esset movens et motum; consequens est
             falsum; ergo et antecedens. Falsitas consequentis patet quia
             implicat contradictionem, ut ostendit
-            <cit>
-              <ref>
-                <name ref="#Averroes">Commentator</name>
-                nono <title ref="#Averroes.Com-Metaph">Metaphysicae</title>
-              </ref>
-              <bibl>???</bibl>
-            </cit>
+            <ref>
+              <name ref="#Averroes">Commentator</name>
+              nono <title ref="#Averroes.Com-Metaph">Metaphysicae</title>
+            </ref>
             . Consequentia est manifesta quia anima movetur ab eo quod
             intelligit, ut dicit
-            <cit>
-              <ref>
-                <name ref="#Averroes">Commentator</name>
-                tertio huius
-              </ref>
-              <bibl>???</bibl>
-            </cit>
+            <ref>
+              <name ref="#Averroes">Commentator</name>
+              tertio huius
+            </ref>
             , et ideo si anima intelligit seipsam movebit seipsam; quare et
             cetera.
           </p>
           <p xml:id="da-28-l1q1-83nrud">
             Item de non ente non est scientia; sed anima est huiusmodi; ergo et
             ceterea. Maior patet
-            <cit>
-              <ref>
-                primo
-                <title ref="#Arist.APo">Posteriorum</title>
-              </ref>
-              <bibl>???</bibl>
-            </cit>
+            <ref>
+              primo
+              <title ref="#Arist.APo">Posteriorum</title>
+            </ref>
             . Minor probatur quia omne ens vel est in anima vel extra animam, ut
             patet
-            <cit>
-              <ref>
-                sexto
-                <title ref="#Arist.Metaph">Metaphysicae</title>
-              </ref>
-              <bibl>???</bibl>
-            </cit>
+            <ref>
+              sexto
+              <title ref="#Arist.Metaph">Metaphysicae</title>
+            </ref>
             ; sed anima non est ens in anima, quia nihil est in seipso, ut patet
             per
-            <cit>
-              <ref>
-                <name ref="#Aristotle">Philosophum</name>
-                quarto <title ref="#Arist.Phys">Physicorum</title>
-              </ref>
-              <bibl>???</bibl>
-            </cit>
+            <ref>
+              <name ref="#Aristotle">Philosophum</name>
+              quarto <title ref="#Arist.Phys">Physicorum</title>
+            </ref>
             neque est eius extra animam, quia nihil est ens extra seipsum; qaure
             et cetera.
           </p>
@@ -271,50 +216,32 @@
             antecedens. Falsitas consequentis patet quia anima est de genere
             substantiae et scientia de genere qualitatis, et ista sunt
             impermixta, ut patet
-            <cit>
-              <ref>
-                primo <title ref="#Arist.APo">Posteriorum</title>
-              </ref>
-              <bibl>???</bibl>
-            </cit>
+            <ref>
+              primo <title ref="#Arist.APo">Posteriorum</title>
+            </ref>
             ; consequentia declaratur quia in separatis a materia eadem sunt
             scientia et scibile, ut dicunt
-            <cit>
-              <ref>
-                <name ref="#Aristotle">Philosophus</name>
-              </ref>
-              <bibl>???</bibl>
-            </cit>
+            <ref>
+              <name ref="#Aristotle">Philosophus</name>
+            </ref>
             et
-            <cit>
-              <ref>
-                <name ref="#Averroes">Commentator</name>
-                tertio huius
-              </ref>
-              <bibl>???</bibl>
-            </cit>
+            <ref>
+              <name ref="#Averroes">Commentator</name>
+              tertio huius
+            </ref>
             et
-            <cit>
-              <ref>
-                duodecimo <title ref="#Arist.Metaph">Metaphysicae</title>
-              </ref>
-              <bibl>XII.7 ???</bibl>
-            </cit>
+            <ref>
+              duodecimo <title ref="#Arist.Metaph">Metaphysicae</title>
+            </ref>
             ; sed anima adminus intellectiva est separata a materia, ut probant
-            <cit>
-              <ref>
-                <name ref="#Aristotle">Philosophus</name>
-              </ref>
-              <bibl>???</bibl>
-            </cit>
+            <ref>
+              <name ref="#Aristotle">Philosophus</name>
+            </ref>
             et
-            <cit>
-              <ref>
-                <name ref="#Averroes">Commentator</name>
-                tertio huius
-              </ref>
-              <bibl>???</bibl>
-            </cit>
+            <ref>
+              <name ref="#Averroes">Commentator</name>
+              tertio huius
+            </ref>
             ; quare et cetera.
           </p>
         </div>
@@ -345,87 +272,59 @@
               <bibl>
                 <name ref="#Aristotle">Arist.</name>
                 <title ref="#Arist.APo">APo</title> I.28, 87a38--87b4.
-
               </bibl>
             </cit>
             ; sed ex omnibus proprietatibus rei colligitur descriptio rei, ut
             dicit
-            <cit>
-              <ref>
-                <name ref="#Averroes">Commentator</name>
-                quarto <title ref="#Averroes.Phys">Physicorum</title>
-              </ref>
-              <bibl>???</bibl>
-            </cit>
+            <ref>
+              <name ref="#Averroes">Commentator</name>
+              quarto <title ref="#Averroes.Phys">Physicorum</title>
+            </ref>
             , et cui competit descriptio et descriptum, ut dicit
-            <cit>
-              <ref>
-                <name ref="#Boethius">Boethius</name>
-                secundo <title ref="#Boethius.Topica">Topicorum</title>
-              </ref>
-              <bibl>???</bibl>
-            </cit>
+            <ref>
+              <name ref="#Boethius">Boethius</name>
+              secundo <title ref="#Boethius.Topica">Topicorum</title>
+            </ref>
             . Minor patet. Est enim ens anima quia anima est actus et forma, ut
             patet
-            <cit>
-              <ref>
-                secundo huius
-              </ref>
-              <bibl>DA II.??</bibl>
-            </cit>
+            <ref>
+              secundo huius
+            </ref>
             ; modo cum ens et <cb ed="#V1" n="b"/> unum multipliciter dicatur
             quod vere est est actus, ut dicit
-            <cit>
-              <ref>
-                <name ref="#Aristotle">Philosophus</name>
-                ibidem
-              </ref>
-              <bibl>DA II.??</bibl>
-            </cit>
+            <ref>
+              <name ref="#Aristotle">Philosophus</name>
+              ibidem
+            </ref>
             ; quare et cetera. Est etiam intelligibilis quia intellectus
             possibilis est omnia fieri, ut patet
-            <cit>
-              <ref>
-                tertio huius
-              </ref>
-              <bibl>DA III.?</bibl>
-            </cit>
+            <ref>
+              tertio huius
+            </ref>
             ; sed anima est de numero omnium ut probatum est paulo prius; quare
             et cetera. Habet etiam partes quia anima est quid universale ad
             vegetativam, sensitivam et intellectivam, ut patet
-            <cit>
-              <ref>
-                secundo huius
-              </ref>
-              <bibl>DA II.?</bibl>
-            </cit>
+            <ref>
+              secundo huius
+            </ref>
             ; sed universale continet multa ut partes, sicut dicit
-            <cit>
-              <ref>
-                <name ref="#Aristotle">Philosophus</name>
-                primo <title ref="#Arist.Phys">Physicorum</title>
-              </ref>
-              <bibl>???</bibl>
-            </cit>
+            <ref>
+              <name ref="#Aristotle">Philosophus</name>
+              primo <title ref="#Arist.Phys">Physicorum</title>
+            </ref>
             ; quare et cetera. Habet etiam passiones secundum suas operationes,
             scilicet vegetare, sentire et intelligere. Habet etiam principia per
             quae iste passiones possunt de ipsa et suis partibus demonstrari,
             quia principium demonstrationis accidentium est quod quid est sive
             definitio, ut patet in
-            <cit>
-              <ref>
-                prooemio huius
-              </ref>
-              <bibl>DA I.1?</bibl>
-            </cit>
+            <ref>
+              prooemio huius
+            </ref>
             , et anima habet definitionem non solum communem sed specialem
             secundum unamquamque partem suam, ut patet
-            <cit>
-              <ref>
-                secundo huius
-              </ref>
-              <bibl>DA II.??</bibl>
-            </cit>
+            <ref>
+              secundo huius
+            </ref>
             ; quare et cetera.
           </p>
           <p xml:id="da-28-l1q1-dx0bll">
@@ -459,32 +358,23 @@
             quid</mentioned>, et rationes istae de anima possunt certificari.
             Certificatur enim <mentioned>si est</mentioned> per hoc quod est
             principium vivendi, ut patet ex
-            <cit>
-              <ref>
-                secundo huius
-              </ref>
-              <bibl>DA II.??</bibl>
-            </cit>
+            <ref>
+              secundo huius
+            </ref>
             , cum vivere viventibus est esse, ut etiam patet ibidem; quare et
             cetera. Certificatur etiam <mentioned>quid est</mentioned> quia
             <mentioned>quid est</mentioned> scitur per definitionem, cum
             definitio sit sermo certificativus quidditatis et essentiae, ut
             dicit
-            <cit>
-              <ref>
-                <name ref="#Averroes">Commentator</name>
-                septimo <title ref="#Averroes.Metaph">Metaphysicae</title>
-              </ref>
-              <bibl>Averr. Comm. in Metaph VII.??</bibl>
-            </cit>
+            <ref>
+              <name ref="#Averroes">Commentator</name>
+              septimo <title ref="#Averroes.Metaph">Metaphysicae</title>
+            </ref>
             ; sed definitio habetur de anima non solum in communi sed etiam in
             speciali, ut patet ex
-            <cit>
-              <ref>
-                secundo huius
-              </ref>
-              <bibl>DA II.??</bibl>
-            </cit>
+            <ref>
+              secundo huius
+            </ref>
             . Certificatur etiam <mentioned>quia est</mentioned> quia
             <mentioned>quia est</mentioned> certificatur per hoc quod scitur
             inhaerentia passionis; multae autem sunt passiones quae sciuntur in
@@ -494,35 +384,22 @@
             <mentioned>propter quid</mentioned> scitur cum scitur causa
             inhaerentiae passionis ad subiectum; talis autem causa scitur per
             definitionem, ut patet
-            <cit>
-              <ref>
-                secundo <title ref="#Arist.APo">Posteriorum</title>
-              </ref>
-              <bibl>APo II.?</bibl>
-            </cit>
+            <ref>
+              secundo <title ref="#Arist.APo">Posteriorum</title>
+            </ref>
             et in
-            <cit>
-              <ref>
-                prooemio huius
-              </ref>
-              <bibl>DA I.1?</bibl>
-            </cit>
+            <ref>
+              prooemio huius
+            </ref>
             et
-            <cit>
-              <ref>
-                quarto <title ref="#Arist.Phys">Physicorum</title>
-                per <name ref="#Aristotle">Philosophum</name>
-
-              </ref>
-              <bibl>Phys. IV.??</bibl>
-            </cit>
+            <ref>
+              quarto <title ref="#Arist.Phys">Physicorum</title>
+              per <name ref="#Aristotle">Philosophum</name>
+            </ref>
             et
-            <cit>
-              <ref>
-                <name ref="#Averroes">Commentatorem</name>
-              </ref>
-              <bibl>Averr. In Phys. IV.??</bibl>
-            </cit>
+            <ref>
+              <name ref="#Averroes">Commentatorem</name>
+            </ref>
             ; quare et cetera.
           </p>
           <div xml:id="da-28-l1q1-kfvx3r">
@@ -542,21 +419,15 @@
               per accidens quod habet habitudinem ad aliquod per se sensibile,
               sicut octavum caelum dicimus locari per accidens quia habet
               habitudinem ad centrum quod per se locatur, ut patet
-              <cit>
-                <ref>
-                  quarto
-                  <title ref="#Arist.Phys">Physicorum</title>
-                </ref>
-                <bibl>Phys. IV.??</bibl>
-              </cit>
+              <ref>
+                quarto
+                <title ref="#Arist.Phys">Physicorum</title>
+              </ref>
               et isto modo anima intellectiva posset dici sensibilis cum habeat
               habitudinem ad fantasmata, ut patet
-              <cit>
-                <ref>
-                  tertio huius
-                </ref>
-                <bibl>DA III.???</bibl>
-              </cit>
+              <ref>
+                tertio huius
+              </ref>
               ; quare et cetera.
             </p>
             <p xml:id="da-28-l1q1-zw05jx">
@@ -565,13 +436,10 @@
               intelligibilis per accidens, quod est falsum, quia si solum esset
               intelligibilis per accidens, tunc de ipsa solum esset scientia per
               accidens, quod est manifeste falsum. Maior patet per
-              <cit>
-                <ref>
-                  <name ref="#Averroes">Commentatorem</name>
-                  secundo huius capitolo de odore
-                </ref>
-                <bibl>Averr. In DA II.??</bibl>
-              </cit>
+              <ref>
+                <name ref="#Averroes">Commentatorem</name>
+                secundo huius capitolo de odore
+              </ref>
               .
             </p>
             <p xml:id="da-28-l1q1-5iiy1j">
@@ -586,22 +454,19 @@
               forma, et de tali est bene scientia per se. Modo dico quod anima
               non est intelligibilis per accidens primo modo, sed secundo modo.
               Et tunc ad probationem quae vadit directe contra
-              <cit>
-                <ref>
-                  verba
-                  <app>
-                    <lem  type="conjecture-corrected">
-                      <corr><name ref="#Averroes">Commentatoris</name></corr>
-                    </lem>
-                    <rdg wit="#V1">Commentatorem</rdg>
-                  </app>
-                  ,
-                </ref>
-                <quote>
-                  sicut aliquid est sensibile et cetera.
-                </quote>
-                <bibl>??</bibl>
-              </cit>
+              <ref>
+                verba
+                <app>
+                  <lem  type="conjecture-corrected">
+                    <corr><name ref="#Averroes">Commentatoris</name></corr>
+                  </lem>
+                  <rdg wit="#V1">Commentatorem</rdg>
+                </app>
+                ,
+              </ref>
+              <quote>
+                sicut aliquid est sensibile et cetera.
+              </quote>
               Dico quod haec propositio <name
               ref="#Averroes">Commentatoris</name> solum veritatem habet quantum
               ad bonitatem vel malitiam, ut sit sensus quod illud quod est bene
@@ -619,17 +484,14 @@
             cetera, verum est ut singularia sunt et singulariter concepta. De
             singularibus vero universaliter conceptis bene potest cum de
             talibus possit esse definitio, ut dicit
-            <cit>
-              <ref>
-                <name ref="#Averroes">Commentator</name>
-                in prooemio huius dicens quod
-              </ref>
-              <quote>
-                definitiones sunt rerum particularium extra materiam
-                existentium.
-              </quote>
-              <bibl>Averr. in DA ??</bibl>
-            </cit>
+            <ref>
+              <name ref="#Averroes">Commentator</name>
+              in prooemio huius dicens quod
+            </ref>
+            <quote>
+              definitiones sunt rerum particularium extra materiam
+              existentium.
+            </quote>
             Sed intellectus est qui agit universalitatem in eis, et cum
             dicitur anima est huiusmodi, verum est haec vel illa, tamen anima
             universaliter accepta non; quare et cetera.
@@ -643,13 +505,10 @@
             corruptionem suorum suppositorum qui quidem corrumpuntur per
             accidens, cum generatio et corruptio sint solius compositi per se,
             ut dicit
-            <cit>
-              <ref>
-                <name ref="#Aristotle">Philosophus</name>
-                octo <title ref="#Arist.Metaph">Metaphysicae</title>
-              </ref>
-              <bibl>Arist. Metaph. VIII.??</bibl>
-            </cit>
+            <ref>
+              <name ref="#Aristotle">Philosophus</name>
+              octo <title ref="#Arist.Metaph">Metaphysicae</title>
+            </ref>
             ; quare et cetera.
           </p>
           <p xml:id="da-28-l1q1-89iay8">
@@ -663,12 +522,9 @@
             primo intelligitur, et de tali non procedunt probationes. Modo
             anima non est intelligibilis primo modo adminus intellectiva, sed
             solum secundo modo, ut patet
-            <cit>
-              <ref>
-                tertio huius
-              </ref>
-              <bibl>Arist. DA III.??</bibl>
-            </cit>
+            <ref>
+              tertio huius
+            </ref>
             quare et cetera.
           </p>
           <p xml:id="da-28-l1q1-3unllo">
@@ -698,13 +554,10 @@
               est falsum, et probatur consequentia quia intellectus agens est
               substantia separata in actu, quae semper intelligit se et primo,
               sicut aliae intelligentiae, ut dicit
-              <cit>
-                <ref>
-                  <name ref="#Averroes">Commentator</name>
-                  tertio huius
-                </ref>
-                <bibl>Averr. Com. DA III.??</bibl>
-              </cit>
+              <ref>
+                <name ref="#Averroes">Commentator</name>
+                tertio huius
+              </ref>
               ; quare et cetera. Et ideo alii dicunt quod in separatis et
               cetera, quod verum est in separatis quae sunt in actu, sed non in
               illis quae sint in potentiae; cuiusmodi est intellectus, ut patet
@@ -736,42 +589,30 @@
               et non operationem dico quod non oportet: modo intellectus non
               est separatus totaliter quia sua prima operatio, quae est
               intelligere, non est sine corpore, ut patet
-              <cit>
-                <ref>
-                  primo
-                </ref>
-                <bibl>DA I.??</bibl>
-              </cit>
+              <ref>
+                primo
+              </ref>
               et
-              <cit>
-                <ref>
-                  secundo huius
-                </ref>
-                <bibl>DA II.??</bibl>
-              </cit>
+              <ref>
+                secundo huius
+              </ref>
               . Et si dicatur quod intellectus agens separatus est totaliter, et
               quantum ad substantiam et quantum ad eius primam operationem, quae
               est intelligere, cum nihil intelligat eorum quae sunt hic, ut
               dicit
-              <cit>
-                <ref>
-                  <name ref="#Averroes">Commentator</name>
-                  tertio huius
-                </ref>
-                <bibl>Averr. In DA III.??</bibl>
-              </cit>
+              <ref>
+                <name ref="#Averroes">Commentator</name>
+                tertio huius
+              </ref>
               , dico quod intellectus agens non <pb ed="#V1" n="6"/><cb ed="#V1"
               n="a"/> est totaliter separatus quantum ad istam operationem, quia
               licet non coniungatur corpori quantum ad istam operationem in
               primo acquisitionis scientiarum, tamen nobis coniungitur in
               postremo post acquisitionem intellectorum speculationem, ut dicit
-              <cit>
-                <ref>
-                  <name ref="#Averroes">Commentator</name>
-                  tertio huius
-                </ref>
-                <bibl>Averr. In DA III.??</bibl>
-              </cit>
+              <ref>
+                <name ref="#Averroes">Commentator</name>
+                tertio huius
+              </ref>
               ; quare et cetera.
             </p>
           </div>

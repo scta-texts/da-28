@@ -5,8 +5,7 @@
     <fileDesc>
       <titleStmt>
         <title>
-          Quaestio III.27: Utrum intellectus possibilis possit intelligere
-          seipsum
+          III.27: Utrum intellectus possibilis possit intelligere seipsum
         </title>
         <author>John of Jandun</author>
         <editor>Michael Stenskjær Christensen</editor>
@@ -65,11 +64,6 @@
     </front>
     <body>
       <div xml:id="da-28-l3q27">
-        <head>
-          <supplied ana="#meta-text">
-            III.27: Utrum intellectus possibilis possit intelligere seipsum
-          </supplied>
-        </head>
         <!-- The numbering is problematic. V1 counts 28 here because of the
              question discussing the agent intellect that may or may not be a
              question proper. -->
@@ -207,23 +201,14 @@
               loquendo sicut <quote>et ipse est unus secundum speciem</quote>;
               si ergo intellectus possiblis esset sua intellectio, numquam
               reciperet suam intellectionem
-              <cit>
-                <quote type="paraphrase">
-                  eo quod recipiens debet esse denudatum essentialiter a tota
-                  specie ipsius recepti,
-                </quote>
-                <ref>
-                  sicut pulchre docet <name ref="#Averroes">Commentator</name>
-                  in isto tertio commento quinto et septimo
-                </ref>
-                <bibl>
-                  <name ref="#Averroes">Averroes</name>
-                  <titl ref="#Averroes.Com-DA">
-                    Comm. Magn. in DA
-                  </titl>
-                  , XXX=!?!?!
-                </bibl>
-              </cit>
+              <quote type="paraphrase">
+                eo quod recipiens debet esse denudatum essentialiter a tota
+                specie ipsius recepti,
+              </quote>
+              <ref>
+                sicut pulchre docet <name ref="#Averroes">Commentator</name>
+                in isto tertio commento quinto et septimo
+              </ref>
               . Ridiculum enim esset dicere quod aliquid eiusdem speciei cum
               aliquo esset per se receptivum illius, ut quod una albedo esset
               per se receptiva alterius albedinis. Inconveniens autem videtur

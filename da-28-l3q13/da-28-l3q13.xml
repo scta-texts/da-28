@@ -5,7 +5,7 @@
     <fileDesc>
       <titleStmt>
         <title>
-          Quaestio III.13: Utrum intellectus possibilis possit intelligere suam
+          III.13: Utrum intellectus possibilis possit intelligere suam
           intellectionem existentem in eo
         </title>
         <author>John of Jandun</author>
@@ -65,12 +65,6 @@
     </front>
     <body>
       <div xml:id="da-28-l3q13">
-        <head>
-          <supplied ana="#meta-text">
-            III.13: Utrum intellectus possibilis possit intelligere suam
-            intellectionem existentem in eo
-          </supplied>
-        </head>
         <p xml:id="da-28-l3q13-jfarjo">
           <cit>
             <quote>
@@ -90,27 +84,15 @@
             Arguitur primo quod non, quia sicut se habet sensus ad sensationem
             sic intellectus ad intellectionem per convenientem similitudinem;
             sed sensus non potest sentire suam sensa<cb ed="#V1" n="b"/>tionem,
-            <cit>
-              <ref>
-                ut plane
-                dicit Aristoteles in <title ref="#Arist.Somn.Vig.">De somno et
-                vigilia</title>
-              </ref>
-              <bibl>
-                <name ref="#Aristotle">Arist.</name> <title
-                ref="#Arist.Somn.Vig">Somn.Vig.</title> ???
-              </bibl>
-            </cit>
+            <ref>
+              ut plane
+              dicit Aristoteles in <title ref="#Arist.Somn.Vig.">De somno et
+              vigilia</title>
+            </ref>
             et
-            <cit>
-              <ref><name ref="#Averroes">Commentator</name>
-              in <title ref="#Averroes.Subst-orb">De substantia orbis</title>
-              </ref>
-              <bibl>
-                <name ref="#Averroes">Averr.</name> <title
-                ref="#Averr.Subst-orb">Subst. orb.</title> ???
-              </bibl>
-            </cit>
+            <ref><name ref="#Averroes">Commentator</name>
+            in <title ref="#Averroes.Subst-orb">De substantia orbis</title>
+            </ref>
             , non enim visu videt aliquis quem videt; similiter autem et in aliis
             quare et cetera.
           </p>
@@ -129,18 +111,12 @@
               </bibl>
             </cit>
             ;
-            <cit>
-              <quote type="paraphrase">
-                phantasma autem non est nisi rei sensibilis
-              </quote>
-              <ref>
-                ut patet ex secundo hoc et tertio
-              </ref>
-              <bibl>
-                <name ref="#Aristotle">Arist.</name>
-                <title ref="#Arist.DA">DA</title> III.???
-              </bibl>
-            </cit>
+            <quote type="paraphrase">
+              phantasma autem non est nisi rei sensibilis
+            </quote>
+            <ref>
+              ut patet ex secundo hoc et tertio
+            </ref>
             ; sed ipsa intellectio non est sensibilis, ut manifestum est, quare et
             cetera.
           </p>
@@ -217,19 +193,13 @@
               </bibl>
             </cit>
             et
-            <cit>
-              <ref>
-                <name ref="#Averroes">Commentator</name> dicit in suo libro
-                <title ref="#Averroes.GC">De generatione</title>
-              </ref>
-              <quote type="paraphrase">
-                quod nullum ens est ignotum naturaliter
-              </quote>
-              <bibl>
-                <name ref="#Averroes">Averr.</name>
-                <title ref="#Averr.Comm-GC">Comm. in GC</title> ???
-              </bibl>
-            </cit>
+            <ref>
+              <name ref="#Averroes">Commentator</name> dicit in suo libro
+              <title ref="#Averroes.GC">De generatione</title>
+            </ref>
+            <quote type="paraphrase">
+              quod nullum ens est ignotum naturaliter
+            </quote>
             ; et minor similiter apparet de se; quare et cetera.
           </p>
           <p xml:id="da-28-l3q13-lgassf">
@@ -266,18 +236,11 @@
             suam propriam. Hoc autem videtur omnino absurdum, scilicet quod
             intellectus intelligat infinita acta, quia infinitum est ignotum
             secundum
-            <cit>
-              <ref>
-                <name ref="#Aristotle">Aristotelem</name>
-                primo <title ref="#Arist.Phys">Physicorum</title>
-                et secundo <title ref="#Arist.Metaph">Metaphysicae</title>
-              </ref>
-              <bibl>
-                <name ref="#Aristotle">Arist.</name>
-                <title ref="#Arist.Phys">Phys.</title> I.???;
-                <title ref="#Arist.Metaph">Metaph.</title> II.???
-              </bibl>
-            </cit>
+            <ref>
+              <name ref="#Aristotle">Aristotelem</name>
+              primo <title ref="#Arist.Phys">Physicorum</title>
+              et secundo <title ref="#Arist.Metaph">Metaphysicae</title>
+            </ref>
             , quare inconveniens videtur quod intellectus intelligat
             intellectionem existentem in eo intellectione diversa ab illa.
           </p>
