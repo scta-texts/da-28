@@ -29,7 +29,10 @@
           </witness>
           <witness xml:id="V2">
             Venice 1483, Quaestiones super libros de anima Aristoteles, ed. F.
-            de Hailbrun et N. de Franckfordia socios.
+            de Hailbrun et N. de Franckfordia socii.
+          </witness>
+          <witness xml:id="A">
+            Vatican, Vatican Library, Vaticanus Latinus 2156: 1r–115r.
           </witness>
         </listWit>
       </sourceDesc>
@@ -58,6 +61,8 @@
     <front>
       <div xml:id="starts-on">
         <pb n="4" ed="#V1"/><cb ed="#V1" n="b"/>
+        <pb n="2r" ed="#V2"/><cb ed="#V2" n="a"/>
+        <pb n="2r" ed="#A"/><cb ed="#A" n="b"/>
       </div>
     </front>
     <body>
@@ -97,13 +102,43 @@
             </cit>
             . Minor patet quia anima est forma corporis animati, quod est
             singulare, talis autem forma est singularis, ut dicit
-            <ref>
-              <name ref="#Aristotle">Philosophus</name> septimo
-              <title ref="#Arist.Metaph">Metaphysicae</title>
-              et decimo capitulo
-            </ref>
-            . Eorum autem quae fiunt omnis autem materialis species et in his
-            carnibus et ossibus Callias et Socrates diversa propter materiam;
+            <cit>
+              <ref>
+                <name ref="#Aristotle">Philosophus</name> septimo
+                <title ref="#Arist.Metaph">Metaphysicae</title>
+                <app type="positive">
+                  <lem wit="#A">in illo</lem>
+                  <rdg wit="#V1 #V2">et decimo</rdg>
+                </app>
+                capitulo:
+              </ref>
+              <bibl>
+                <name ref="#Aristotle">Arist.</name>
+                <title ref="#Arist.Metaph">Metaph.</title>
+                VII.8, 1034a5--8.
+              </bibl>
+              <note>
+                <quote>
+                  Omnis vero iam talis species in hiis carnibus et ossibus,
+                  Callias et Socrates; et diversa quidem propter materiam (diversa
+                  namque), idem vero specie (nam individua species).
+                </quote>
+              </note>
+              <quote>
+                Eorum autem quae fiunt omnis
+                <app>
+                  <lem type="conjecture-corrected">vero talis</lem>
+                  <rdg wit="#A">vero materialis</rdg>
+                  <rdg wit="#V1 #V2">autem materialis</rdg>
+                </app>
+                species et in his carnibus et ossibus Callias et Socrates
+                <app type="positive">
+                  <lem wit="#A">et</lem>
+                  <rdg wit="#V1 #V2" type="variation-absent" />
+                </app>
+                diversa propter materiam
+              </quote>
+            </cit>
             quare et cetera.
           </p>
           <p xml:id="da-28-l1q1-0llqj5">
@@ -125,7 +160,12 @@
             cum <pb ed="#V1" n="5"/><cb ed="#V1" n="a"/>
             sit compositum ex materia et forma; compositum autem sic
             corrumpitur, quia corruptio tangit essentiam formae, licet non
-            materiae, et satis patet
+            materiae,
+            <app>
+              <lem type="conjecture-corrected">ut</lem>
+              <rdg wit="#V1 #V2">et</rdg>
+            </app>
+            satis patet
             <ref>
               primo <title ref="#Arist.Phys">Physicorum</title>
             </ref>
