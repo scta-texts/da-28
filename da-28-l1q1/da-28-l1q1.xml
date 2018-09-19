@@ -212,8 +212,12 @@
             ref="#Arist.Metaph">Metaphysicae</title>; sed anima non est ens in
             anima, quia nihil est in seipso, ut patet per <name
             ref="#Aristotle">Philosophum</name> quarto <title
-            ref="#Arist.Phys">Physicorum</title> neque est eius extra animam,
-            quia nihil est ens extra seipsum; qaure et cetera.
+            ref="#Arist.Phys">Physicorum</title> neque est
+            <app type="positive">
+              <lem wit="#V2 #A">ens</lem>
+              <rdg wit="#V1">eius</rdg>
+            </app>
+            extra animam, quia nihil est ens extra seipsum; qaure et cetera.
           </p>
           <p xml:id="da-28-l1q1-rp544p">
             Item si de anima esset scientia sequeretur quod eius scientia esset
@@ -265,9 +269,9 @@
             ref="#Averroes.Phys">Physicorum</title>, et cui competit descriptio
             et descriptum, ut dicit <name ref="#Boethius">Boethius</name>
             secundo <title ref="#Boethius.Topica">Topicorum</title>. Minor
-            patet. Est enim ens anima quia anima est actus et forma, ut patet
+            patet, est enim ens anima quia anima est actus et forma, ut patet
             secundo huius; modo cum ens et <cb ed="#V1" n="b"/> unum
-            multipliciter dicatur quod vere est est actus, ut dicit <name
+            multipliciter dicatur, quod vere est est actus, ut dicit <name
             ref="#Aristotle">Philosophus</name> ibidem; quare et cetera. Est
             etiam intelligibilis quia intellectus possibilis est omnia fieri, ut
             patet tertio huius; sed anima est de numero omnium ut probatum est
@@ -277,7 +281,7 @@
             <name ref="#Aristotle">Philosophus</name> primo <title
             ref="#Arist.Phys">Physicorum</title>; quare et cetera. Habet etiam
             passiones secundum suas operationes, scilicet vegetare, sentire et
-            intelligere. Habet etiam principia per quae iste passiones possunt
+            intelligere. Habet etiam principia per quae istae passiones possunt
             de ipsa et suis partibus demonstrari, quia principium
             demonstrationis accidentium est quod quid est sive definitio, ut
             patet in prooemio huius, et anima habet definitionem non solum
@@ -288,7 +292,7 @@
             Item de illo potest esse scientia de quo potest haberi certificatio
             quaestionis scientificae; sed anima est huiusmodi; quare et cetera.
             Maior patet quia quaestiones sunt aequales numero his quaecumque
-            vere scimus ut dicit
+            vere scimus, ut dicit
             <cit>
               <ref>
                 <name ref="#Aristotle">Philosophus</name>
@@ -353,7 +357,7 @@
               quod habet habitudinem ad aliquod per se sensibile, sicut octavum
               caelum dicimus locari per accidens quia habet habitudinem ad
               centrum quod per se locatur, ut patet quarto <title
-              ref="#Arist.Phys">Physicorum</title> et isto modo anima
+              ref="#Arist.Phys">Physicorum</title>, et isto modo anima
               intellectiva posset dici sensibilis cum habeat habitudinem ad
               fantasmata, ut patet tertio huius; quare et cetera.
             </p>
@@ -382,7 +386,7 @@
                 verba
                 <app>
                   <lem  type="conjecture-corrected">
-                    <corr><name ref="#Averroes">Commentatoris</name></corr>
+                    <name ref="#Averroes">Commentatoris</name>
                   </lem>
                   <rdg wit="#V1">Commentatorem</rdg>
                 </app>
@@ -406,8 +410,17 @@
           <p xml:id="da-28-l1q1-5wf338">
             Ad primam cum dicitur <mentioned>de singularibus</mentioned> et
             cetera, verum est ut singularia sunt et singulariter concepta. De
-            singularibus vero universaliter conceptis bene potest cum de
-            talibus possit esse definitio, ut dicit
+            singularibus vero universaliter conceptis bene potest
+            <app type="positive">
+              <lem wit="#A">esse definitio</lem>
+              <rdg wit="#V1 #V2" type="variation-absent"/>
+            </app>
+            ,
+            <app type="positive">
+              <lem wit="#V1 #V2">cum de talibus possit esse definitio</lem>
+              <rdg wit="#A" type="variation-absent" />
+            </app>
+            ut dicit
             <ref>
               <name ref="#Averroes">Commentator</name>
               in prooemio huius dicens quod
@@ -423,12 +436,15 @@
           <p xml:id="da-28-l1q1-9gqjyc">
             Ad aliam de corruptibilibus et cetera, verum est de corruptibilis
             per se, de corruptibilibus autem per accidens potest
-            <unclear><supplied>obici</supplied></unclear>. Et cum dicitur anima
-            est huiusmodi, dico quod verum est sed valde per accidens, quia
-            anima in universali non corrumpitur nisi ad corruptionem suorum
-            suppositorum qui quidem corrumpuntur per accidens, cum generatio et
-            corruptio sint solius compositi per se, ut dicit <name
-            ref="#Aristotle">Philosophus</name> octo <title
+            <app>
+              <lem wit="#A">esse scientia</lem>
+              <rdg wit="#V1 #V2" type="variation-absent" />
+            </app>
+            . Et cum dicitur anima est huiusmodi, dico quod verum est sed valde
+            per accidens, quia anima in universali non corrumpitur nisi ad
+            corruptionem suorum suppositorum qui quidem corrumpuntur per
+            accidens, cum generatio et corruptio sint solius compositi per se,
+            ut dicit <name ref="#Aristotle">Philosophus</name> octo <title
             ref="#Arist.Metaph">Metaphysicae</title>; quare et cetera.
           </p>
           <p xml:id="da-28-l1q1-89iay8">
@@ -496,16 +512,16 @@
               ipsis non est verum; modo anima est huiusmodi; quare et cetera.
             </p>
             <p xml:id="da-28-l1q1-x5jbw5">
-              Alio modo potest dici quod <supplied>non</supplied> verum est in
-              separatis totaliter, scilicet quantum ad substantiam et
-              operationem eius primam, sed in separatis solum quoad substantiam
-              et non operationem dico quod non oportet: modo intellectus non est
-              separatus totaliter quia sua prima operatio, quae est intelligere,
-              non est sine corpore, ut patet primo et secundo huius. Et si
-              dicatur quod intellectus agens separatus est totaliter, et quantum
-              ad substantiam et quantum ad eius primam operationem, quae est
-              intelligere, cum nihil intelligat eorum quae sunt hic, ut dicit
-              <name ref="#Averroes">Commentator</name> tertio huius, dico quod
+              Alio modo potest dici quod verum est in separatis totaliter,
+              scilicet quantum ad substantiam et operationem eius primam, sed in
+              separatis solum quoad substantiam et non operationem dico quod non
+              oportet: modo intellectus non est separatus totaliter quia sua
+              prima operatio, quae est intelligere, non est sine corpore, ut
+              patet primo et secundo huius. Et si dicatur quod intellectus agens
+              separatus est totaliter, et quantum ad substantiam et quantum ad
+              eius primam operationem, quae est intelligere, cum nihil
+              intelligat eorum quae sunt hic, ut dicit <name
+              ref="#Averroes">Commentator</name> tertio huius, dico quod
               intellectus agens non <pb ed="#V1" n="6"/><cb ed="#V1" n="a"/> est
               totaliter separatus quantum ad istam operationem, quia licet non
               coniungatur corpori quantum ad istam operationem in primo
