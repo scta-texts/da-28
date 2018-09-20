@@ -33,6 +33,9 @@
             Venice 1483, Quaestiones super libros de anima Aristoteles, ed. F.
             de Hailbrun et N. de Franckfordia socios.
           </witness>
+          <witness xml:id="A">
+            Vatican, Vatican Library, Vaticanus Latinus 2156: 1r–115r.
+          </witness>
         </listWit>
       </sourceDesc>
     </fileDesc>
@@ -53,14 +56,15 @@
         <change when="2017-08-02" status="draft" n="0.0.1-dev">
           <p>Created file for the first time.</p>
         </change>
-     </listChange>
+      </listChange>
     </revisionDesc>
   </teiHeader>
   <text xml:lang="la" type="critical" ana="#positive-apparatus">
     <front>
       <div xml:id="starts-on">
-        <pb n="273r" ed="#V1"/><cb ed="#V1" n="a"/>
-        <pb n="81r" ed="#V2"/><cb ed="#V2" n="b"/>
+        <pb n="273" ed="#V1"/><cb ed="#V1" n="a"/>
+        <pb n="81-r" ed="#V2"/><cb ed="#V2" n="b"/>
+        <pb n="101-v" ed="#A"/><cb ed="#A" n="b"/>
       </div>
     </front>
     <body>
