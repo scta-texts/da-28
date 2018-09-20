@@ -170,64 +170,67 @@
                 430a17--20, p. 450.198--205 (ed. Crawford).
               </bibl>
             </cit>
-            . Nam minus videtur quod intellectus possibilis sit natus
-            intelligere formas materiales quam intellectum agentem, quia formae
-            materiales non sunt de se intellectae actu, sed potentiae sunt
-            intellectae; fiunt autem intellectae per intellectum agentem.
-            Intellectus autem agens, cum sit substantia immaterialis, actu ens
-            est de se intellectus, et ideo rationabile est, cum ipse intellectus
-            possibilis sit natus perfici per formas materiales et intelligere
-            eas, ut sit natus perfici per intellectum agentem et intelligere
-            ipsum, et haec ratio similiter <unclear>concludeat</unclear> quod
-            ipse natus est intelligere alias formas abstractas. Et ratio huius
-            potest esse quia illud quod habet naturale desiderium ad inferiorem
-            et minus nobilem perfectionem alicuius generis multo magis debet
-            habere naturale desiderium ad perfectionem altiorem, quia natura non
+            : Nam minus videtur quod intellectus possibilis sit natus <cb
+            ed="#A" n="b"/> intelligere formas materiales quam intellectum
+            agentem, quia formae materiales non sunt de se intellectae actu, sed
+            potentiae sunt intellectae; fiunt autem intellectae per intellectum
+            agentem. Intellectus autem agens, cum sit substantia immaterialis,
+            actu ens est de se intellectus, et ideo rationabile est, cum ipse
+            intellectus possibilis sit natus perfici per formas materiales et
+            intelligere eas, ut sit natus perfici per intellectum agentem et
+            intelligere ipsum. Et haec ratio similiter concludeat quod ipse
+            natus est intelligere alias formas abstractas, et ratio huius potest
+            esse quia illud quod habet naturale desiderium ad inferiorem et
+            minus nobilem perfectionem alicuius generis multo magis debet habere
+            naturale desiderium ad perfectionem altiorem, quia natura non
             consistit in imperfectio. Constat autem quod perfectio per formas
             immateriales longe nobilior est quam perfectio per formas
             materiales.
           </p>
-          <p xml:id="da-28-l3q30-zmotr9">
-            Secundum ostenditur sic: Illud cui semper est coniuncta vel unita
-            intellectio alicuius intelligibilis eadem numero semper intelligit
-            illud intelligibile intellectione eadem numero – haec est omnino
-            manifesta; sed ipsi intellectui possibili semper est unita
-            intellectio intellectus agentis, quia ipse intellectus agens est
-            suamet intellectio sui ipsius secundum <name
-            ref="#Aristotle">Aristotelem</name> et <name
-            ref="#Averroes">Commentatorem</name> hoc:
-            <cit>
-              <quote type="paraphrase">
-                In ipso enim scientia est eadem rei scitae
-              </quote>
-              <bibl>
-                <name ref="#Aristotle">Arist.</name>
-                <title ref="#Arist.DA">DA</title> III.430a19--20.
-              </bibl>
-              <note>
-                Cf. <name ref="#Aristotle">Arist.</name>
-                <title ref="#Arist.DA">DA</title> III.430a2--3.
-              </note>
-            </cit>
-            . Cum igitur intellectus agens sit semper unitus intellectui
-            possibili, sicut perfectio naturalis suo perfectibili, ut patet ex
-            praeostensis, sequitur quod semper est unita intellectio intellectus
-            agentis, et per consequens semper ipsum intelligit.
-          </p>
-          <p xml:id="da-28-l3q30-vlekvp">
-            Ex hoc autem videtur correlarie posse concludi quod ipse intellectus
-            possibilis per seipsum et per suam propriam substantiam non
-            intelligit intellectum agentem intellectione eadem numero alia ab
-            illa qua intellectus agens intelligit seipsum. Nam si sic,
-            sequeretur quod unum et idem haberet diversas intellectiones unius
-            intelligibilis simul, quod non videtur possibile, praecipiue quia
-            <pb ed="#V1" n="273v"/><cb ed="#V1" n="a"/> cum intellectus
-            possibilis sit substantia pure in potentia, non est bene rationabile
-            quod ex sui propria natura habeat aliquem actum sine aliquo alio
-            actu. Unde cum intelligere intellectum agentem sit quidam actus et
-            operatio, non bene viderem qualiter intellectus possibilis per
-            seipsum sine alio actu informante intelligeret intellectum agentem.
-          </p>
+          <div xml:id="da-28-l3q30-kokaku">
+            <p xml:id="da-28-l3q30-zmotr9">
+              Secundum ostenditur sic: Illud cui semper est coniuncta vel unita
+              intellectio alicuius intelligibilis eadem numero semper intelligit
+              illud intelligibile intellectione eadem numero – haec est omnino
+              manifesta; sed ipsi intellectui possibili semper est unita
+              intellectio intellectus agentis, quia ipse intellectus agens est
+              suamet intellectio sui ipsius secundum <name
+              ref="#Aristotle">Aristotelem</name> et <name
+              ref="#Averroes">Commentatorem</name> hoc:
+              <cit>
+                <quote type="paraphrase">
+                  In ipso enim scientia est eadem rei scitae
+                </quote>
+                <bibl>
+                  <name ref="#Aristotle">Arist.</name>
+                  <title ref="#Arist.DA">DA</title> III.430a19--20.
+                </bibl>
+                <note>
+                  Cf. <name ref="#Aristotle">Arist.</name>
+                  <title ref="#Arist.DA">DA</title> III.430a2--3.
+                </note>
+              </cit>
+              . Cum igitur intellectus agens sit semper unitus intellectui
+              possibili, sicut perfectio naturalis suo perfectibili, ut patet ex
+              praeostensis, sequitur quod semper est unita intellectio
+              intellectus agentis, et per consequens semper ipsum intelligit.
+            </p>
+            <p xml:id="da-28-l3q30-vlekvp">
+              Ex hoc autem videtur correlarie posse concludi quod ipse
+              intellectus possibilis per seipsum et per suam propriam
+              substantiam non intelligit intellectum agentem intellectione eadem
+              numero alia ab illa qua intellectus agens intelligit seipsum. Nam
+              si sic, sequeretur quod unum et idem haberet diversas
+              intellectiones unius intelligibilis simul, quod non videtur
+              possibile, praecipiue quia <pb ed="#V1" n="273v"/><cb ed="#V1"
+              n="a"/> cum intellectus possibilis sit substantia pure in
+              potentia, non est bene rationabile quod ex sui propria natura
+              habeat aliquem actum sine aliquo alio actu. Unde cum intelligere
+              intellectum agentem sit quidam actus et operatio, non bene viderem
+              qualiter intellectus possibilis per seipsum sine alio actu
+              informante intelligeret intellectum agentem.
+            </p>
+          </div>
           <p xml:id="da-28-l3q30-2riy67">
             Propter quod videtur mihi ad praesens esse tenendum quod intellectus
             possibilis semper intelligit intellectum agentem modo praedicto,
@@ -256,8 +259,8 @@
             alicuius hominis, nec omnium. Immo etiam intellectio similis huic
             intellectioni, scilicet qua intelligit intellectus agens, non
             contingit nobis perfecte in principio generationis philosophiae nec
-            in medio, sed forte in complemento, et de hoc debet inquaeri in
-            consequentibus.
+            in medio, sed forte in complemento, et de hoc debet <pb ed="#A"
+            n="102-r"/><cb ed="#A" n="a"/> inquaeri in consequentibus.
           </p>
         </div>
         <div xml:id="da-28-l3q30-tfz3o6" ana="#ad-rationes">
