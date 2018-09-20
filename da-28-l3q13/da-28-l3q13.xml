@@ -33,6 +33,9 @@
             Venice 1483, Quaestiones super libros de anima Aristoteles, ed. F.
             de Hailbrun et N. de Franckfordia socios.
           </witness>
+          <witness xml:id="A">
+            Vatican, Vatican Library, Vaticanus Latinus 2156: 1r–115r.
+          </witness>
         </listWit>
       </sourceDesc>
     </fileDesc>

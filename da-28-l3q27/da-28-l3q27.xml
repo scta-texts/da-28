@@ -32,6 +32,9 @@
             Venice 1483, Quaestiones super libros de anima Aristoteles, ed. F.
             de Hailbrun et N. de Franckfordia socios.
           </witness>
+          <witness xml:id="A">
+            Vatican, Vatican Library, Vaticanus Latinus 2156: 1r–115r.
+          </witness>
         </listWit>
       </sourceDesc>
     </fileDesc>
@@ -60,6 +63,7 @@
       <div xml:id="starts-on">
         <pb n="262" ed="#V1"/><cb ed="#V1" n="b"/>
         <pb n="78-v" ed="#V2"/><cb ed="#V2" n="a"/>
+        <pb n="97-v" ed="#A"/><cb ed="#A" n="b"/>
       </div>
     </front>
     <body>
