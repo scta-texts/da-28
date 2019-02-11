@@ -79,30 +79,39 @@
         </p>
         <div ana="#rationes-principales">
           <p xml:id="da-28-l3q32-ed4yul">
-            Et arguitur primo quod sic, quia una vox potest significare plura, ut
-            patet in aequivoco quod dat intelligere plura significata simul, et in
-            ipso prolato inteliguntur plura; igitur ipse intellectus potest simul
-            plura intelligere. Patet consequentia quia vox non est maioris
-            potentiae in significando quam intellectus in intelligendo.
+            Et arguitur primo quod sic, quia una vox potest significare plura,
+            ut patet in aequivoco quod dat intelligere plura significata simul,
+            et in ipso prolato inteliguntur plura; igitur ipse intellectus
+            potest simul plura intelligere. Patet consequentia quia vox non est
+            maioris potentiae in significando quam intellectus in intelligendo.
           </p>
           <div xml:id="da-28-l3q32-lll6b3">
             <p xml:id="da-28-l3q32-2rd5ya">
-              Item, intellectus inteligit simul correlativa, ut patrem et filium ut
-              patet in praedicamentis, et ista sunt diversa et plura quare et
-              cetera.
+              Item, intellectus inteligit simul correlativa, ut patrem et filium
+              ut patet in
+              <cit>
+                <title ref="#Arist.Cat">Praedicamentis</title>: <quote>et ista
+                sunt diversa et plura quare et cetera.</quote>
+                <bibl>
+                  <name ref="#Aristotle">Arist.</name>
+                  <title ref="#Arist.Cat">Cat.</title>
+                  ???
+                </bibl>
+              </cit>
             </p>
             <p xml:id="da-28-l3q32-ramd0o">
               Item, minor propositio demonstrationis intelligitur simul cum
-              conclusione secundum Aristotelem primo posteriorum; sed constat quod
-              propositio minor est aliquid aliud et diversum a conclusione quare et
-              cetera.
+              conclusione secundum Aristotelem <title ref="#Arist.APo">Primo
+              posteriorum</title>: <quote>sed constat quod propositio minor est
+              aliquid aliud et diversum a conclusione quare et cetera.</quote>
             </p>
             <p xml:id="da-28-l3q32-u00ef5">
-              Item, Philosophus quarto Metaphysicae dicit quod intelligentem
-              quemcumque neccesse est intelligere primum principium complexum; sed
-              constat quod primum principium complexum est aliud ab aliis complexis,
-              scilicet illud principium; non contingit simul idem esse et non esse
-              quare et cetera.
+              Item, Philosophus quarto <title
+              ref="#Arist.Metaph">Metaphysicae</title> dicit quod
+              <quote>intelligentem quemcumque neccesse est intelligere primum
+              principium complexum</quote>; sed constat quod primum principium
+              complexum est aliud ab aliis complexis, scilicet illud principium
+              non contingit simul idem esse et non esse quare et cetera.
             </p>
             <p xml:id="da-28-l3q32-ousgik">
               Item, sicut se habet sensus ad sensibilia ita intellectus ad
@@ -112,215 +121,232 @@
               experientiam, quare et cetera.
             </p>
             <p xml:id="da-28-l3q32-d1f07h">
-              Item, virtus qua cognoscit differentiam inter aliquae cognoscit unum
-              quodque illorum simul, ut patet secundo huius capitulo de sensu
-              communi; sed intellectus cognoscit differentiam inter aliquae plura et
-              diversa sub propriis rationibus eorum. Minor patet per experientiam,
-              quia quilibet experitur se intelligere differentiam inter albedinem ut
-              albedo est et nigredinem ut nigredo est, quia non cognoscit
-              differentiam inter albedinem et nigredinem sub ratione communi ut sub
-              ratione coloris aut alicuius huiusmodi, quia secundum talem rationem
-              non
-              <pb ed="#V1" n="280"/><cb ed="#V1" n="a"/>
-              differunt immo in ea conveniunt. Et confirmatur quia sub illis
-              rationibus intellectus intelligit aliquia sub quibus rationibus et
-              formis cognoscit differentiam inter illa, sed intellectus simul
-              intelligit differentiam inter albedinem et nigredinem sub propriis
-              rationibus earum. In eodem enim instanti cognoscit intellectus
-              differentiam albedinis ut albedo est a nigredine ut nigrdo est, simul
-              et in aliis.
+              Item, virtus qua cognoscit differentiam inter aliquae cognoscit
+              unum quodque illorum simul, ut patet secundo
+              <cit>
+                <ref>huius capitulo de sensu
+                communi</ref>
+                <bibl>
+                  <name ref="#Aristotle">Arist.</name>
+                  <title ref="#Arist.DA">DA</title>
+                  III.2, 426b8-16.
+                </bibl>
+              </cit>
+              ; sed intellectus cognoscit differentiam inter aliquae plura et
+              diversa sub propriis rationibus eorum. Minor patet per
+              experientiam, quia quilibet experitur se intelligere differentiam
+              inter albedinem ut albedo est et nigredinem ut nigredo est, quia
+              non cognoscit differentiam inter albedinem et nigredinem sub
+              ratione communi ut sub ratione coloris aut alicuius huiusmodi,
+              quia secundum talem rationem non <pb ed="#V1" n="280"/><cb
+              ed="#V1" n="a"/> differunt immo in ea conveniunt. Et confirmatur
+              quia sub illis rationibus intellectus intelligit aliquia sub
+              quibus rationibus et formis cognoscit differentiam inter illa, sed
+              intellectus simul intelligit differentiam inter albedinem et
+              nigredinem sub propriis rationibus earum. In eodem enim instanti
+              cognoscit intellectus differentiam albedinis ut albedo est a
+              nigredine ut nigrdo est, simul et in aliis.
             </p>
             <p xml:id="da-28-l3q32-wdgm4k">
               Item, intellectus potest simul inteligere materiam et formam, quia
-              aliter non intelligeret compositum et amteria et forma, et constat
+              aliter non intelligeret compositum a materia et forma, et constat
               quod materia et forma sunt diversae naturae.
             </p>
           </div>
         </div>
         <div ana="#rationes-principales">
           <p xml:id="da-28-l3q32-1sgect">
-            Oppositum arguitur auctoritate Aristotelis in secundum Topicorum
-            dicens quod contingit scire multa, intelligere autem unum; et quarto
-            Metaphysicae dicit quod qui unum non intelligit nihil intelligit.
+            Oppositum arguitur auctoritate Aristotelis in secundum <title
+            ref="#Arist.Top">Topicorum</title> dicens quod contingit scire
+            multa, intelligere autem unum; et quarto <title
+            ref="#Arist.Metaph">Metaphysicae</title> dicit quod qui unum non
+            intelligit nihil intelligit.
           </p>
         </div>
         <div ana="#determinatio">
           <div>
             <p xml:id="da-28-l3q32-hf8gwr">
               Ad evidentiam quaestionis considerandum est quod sicut innuit
-              Aristoteles sexto Metaphysicae versus finem <quote>intellectum simul
-              intelligere diversa et plura</quote> potest dupliciter intelligit.
-              Uno modo prout simul dicit simultatem instantis, scilicet quod
-              intelligit plura simul et in eodem instanti, alio modo prout ly
-              <mentioned>simul</mentioned> dicit consequentiam immediatam ita quod
-              simul intelligit plura, id est consequenter et immediate ut post
-              intelligere unius statim et sine medio sequeretur intelligere
+              Aristoteles sexto <title ref="#Arist.Metaph">Metaphysicae</title>
+              versus finem <quote>intellectum simul intelligere diversa et
+              plura</quote> potest dupliciter intelligi. Uno modo prout simul
+              dicit simultatem instantis, scilicet quod intelligit plura simul
+              et in eodem instanti, alio modo prout ly
+              <mentioned>simul</mentioned> dicit consequentiam immediatam ita
+              quod simul intelligit plura, id est consequenter et immediate ut
+              post intelligere unius statim et sine medio sequeretur intelligere
               alterius, ut etiam dicimus quod movens et motum sunt simul, id est
               sine medio coniuncto ita quod inter ea non est aliquod medium nec
-              plenum nec vacuum, ut habet videri septimo Physicorum.
+              plenum nec vacuum, ut habet videri septimo <title
+              ref="#Arist.Phys">Physicorum</title>.
             </p>
             <p xml:id="da-28-l3q32-xboc1n">
-              Item, est intelligendum quod intelligentem simul intelligere plura et
-              diversa et in eodem instanti adhuc potest esse dupliciter. Uno modo
-              secundum eadem intellectionem et sub una ratione communi, alio modo
-              diversis intellectionibus et sub propriis formis.
+              Item, est intelligendum quod intelligentem simul intelligere plura
+              et diversa et in eodem instanti adhuc potest esse dupliciter. Uno
+              modo secundum eadem intellectionem et sub una ratione communi,
+              alio modo diversis intellectionibus et sub propriis formis.
             </p>
             <p xml:id="da-28-l3q32-sg5muh">
-              Item, intelligendum quod intellectum simul in uno instanti intelligere
-              diversa diversis intellectionibus potest intelligi dipliciter. Uno
-              modo quod intelligat in uno instanti diversa diversis intellectionibus
-              sumptis a cogitationibus unius hominis, alio modo diversis
-              intellectionibus sumptis a cogitationibus diversorum hominum.
-            </p>
-            <p xml:id="da-28-l3q32-v0jdys">
-              Modo de aliquibus istorum modorum non est magnum dubium nec diversitas
-              opinionum, quia omnes bene concedunt quod intellectus potest
-              intelligere plura simul, id est consequenter immediate non mediante
-              tempore medio nec intellectione media, ita quod intellectus potest per
-              aliquod tempus continue intelligere lapidem et in ultimo instanti
-              illius temporis incipere intelligere hominem sine tempore medio et
-              sine intellectione media, et hoc non multum indiget probatione, quia
-              quilibet est expertus in seipso. Tamen posset confirmari per simile,
-              nam materia potest recipere transmutationes diversas rei hoc modo
-              simulitatis ita quod in aliquo tempore tota alterat et in illo
-              instanti illius temporis recipit generationem substantiae sune medio
-              quare similiter intellectus suo modo potst simul. Hoc modo potest
-              intellectus simul intel<cb ed="#V1" n="b"/>ligere plura.
+              Item, intelligendum quod intellectum simul in uno instanti
+              intelligere diversa diversis intellectionibus potest intelligi
+              dipliciter. Uno modo quod intelligat in uno instanti diversa
+              diversis intellectionibus sumptis a cogitationibus unius hominis,
+              alio modo diversis intellectionibus sumptis a cogitationibus
+              diversorum hominum.
             </p>
           </div>
-          <p xml:id="da-28-l3q32-g4auw6">
-            Item alio modo, scilicet sub una ratione et una intellectione communi,
-            quia constat quod aliqua inteligibilia quae sunt diversa uno modo
-            conveniunt et uniuntur in aliquo, ut homo et asinus in animali aut in
-            sentire, et sic possunt intelligi una intellectione sumpta ab illa una
-            forma communi, vel a modo essendi communi, et de hoc non multum
-            dubitatur.
-          </p>
+          <div>
+            <p xml:id="da-28-l3q32-v0jdys">
+              Modo de aliquibus istorum modorum non est magnum dubium nec
+              diversitas opinionum, quia omnes bene concedunt quod intellectus
+              potest intelligere plura simul, id est consequenter immediate non
+              mediante tempore medio nec intellectione media, ita quod
+              intellectus potest per aliquod tempus continue intelligere lapidem
+              et in ultimo instanti illius temporis incipere intelligere hominem
+              sine tempore medio et sine intellectione media, et hoc non multum
+              indiget probatione, quia quilibet est expertus in seipso. Tamen
+              posset confirmari per simile, nam materia potest recipere
+              transmutationes diversas rei hoc modo simultatis ita quod in
+              aliquo tempore tota alterat et in illo instanti illius temporis
+              recipit generationem substantiae sine medio, quare similiter
+              intellectus suo modo potest simul. Hoc modo potest intellectus
+              simul intel<cb ed="#V1" n="b"/>ligere plura.
+            </p>
+            <p xml:id="da-28-l3q32-g4auw6">
+              Item alio modo, scilicet sub una ratione et una intellectione
+              communi, quia constat quod aliquae inteligibilia quae sunt diversa
+              uno modo conveniunt et uniuntur in aliquo, ut homo et asinus in
+              animali aut in sentire, et sic possunt intelligi una intellectione
+              sumpta ab illa una forma communi, vel a modo essendi communi, et
+              de hoc non multum dubitatur.
+            </p>
+          </div>
           <div>
             <p xml:id="da-28-l3q32-ml35mu">
               Item alio modo intellectus potest intelligere plura simul diversis
               intellectionibus sumptis a cogitationibus diversorum hominum, quia
               aliter non contigeret plures homines simul intelligere diversis
               intellectionibus, quod est absurdum. Et potest probari propter
-              discipulos, quia contingit quod manifestum est ad sensum quod diversi
-              homines simul docent diversas conclusiones diversarum scientiarum quod
-              non esset nisi simul intelligerent eas.
+              discipulos, quia contingit quod manifestum est ad sensum quod
+              diversi homines simul docent diversas conclusiones diversarum
+              scientiarum quod non esset nisi simul intelligerent eas.
             </p>
             <p xml:id="da-28-l3q32-tg4poi">
-              Adhuc contingit quod diversi homines simul operantur propter diversos
-              fines vel simul incipiunt operari ut medicus evacuat propter
-              sanitatem, faber malleat ferrum propter cultellum et huiusmodi talia,
-              quare manifestum est quod diversi homines possunt in eodem tempore et
-              in instanti intelligere diversa et diversis intellectionibus, et hoc
-              est manifestum experientia, quia si quaeratur ab aliquo homine quod
-              intelligebat in aliquo tempore praeterito et respondebit qod ipse
-              intelligebat lapidem vel aliquod huiusmodi et unus alius respondebit
-              quod intelligebat caelum aut aliquod aliud quare et cetera.
+              Adhuc contingit quod diversi homines simul operantur propter
+              diversos fines vel simul incipiunt operari ut medicus evacuat
+              propter sanitatem, faber malleat ferrum propter cultellum et
+              huiusmodi talia, quare manifestum est quod diversi homines possunt
+              in eodem tempore et in instanti intelligere diversa et diversis
+              intellectionibus, et hoc est manifestum experientia, quia si
+              quaeratur ab aliquo homine quod intelligebat in aliquo tempore
+              praeterito et respondebit quod ipse intelligebat lapidem vel
+              aliquod huiusmodi et unus alius respondebit quod intelligebat
+              caelum aut aliquod aliud quare et cetera.
             </p>
           </div>
           <div type="number-all">
             <p xml:id="da-28-l3q32-l33s29" ana="#structure-head">
               <!-- Multiple arguments against -->
               Sed de alio, scilicet an intellectus possit in eodem instanti
-              intelligere plura diversis intellectionibus causatis a phantasmatibus
-              vel a cogitationibus unius hominis est bene dubium et diversitas
-              inter doctores, et hoc est quaerere an unus homo possit intelligere
-              diversa diversis intellectionbus in uno instanti. Et de hoc dicunt
-              aliqui et est opinio famosior quod non, quod multiplicter probatur, et
-              primo sic:
+              intelligere plura diversis intellectionibus causatis a
+              phantasmatibus vel a cogitationibus unius hominis est bene dubium
+              et diversitas inter doctores, et hoc est quaerere an unus homo
+              possit intelligere diversa diversis intellectionbus in uno
+              instanti. Et de hoc dicunt aliqui et est opinio famosior quod non,
+              quod multipliciter probatur, et primo sic:
             </p>
             <p xml:id="da-28-l3q32-ksgqfc">
               <!-- 1. Complete conversion requires single focus. Soul does this -->
               Virtus indivisibilis quae ad quodcumque se convertit totaliter se
               convertit, non potest simul intelligere plura. Hoc patet, sed
-              intellectus est huiusmodi ut communiter dicitur et accipitur ex libro
-              de causis.
+              intellectus est huiusmodi ut communiter dicitur et accipitur ex
+              libro de causis.
             </p>
             <p xml:id="da-28-l3q32-3mygb3">
               <!-- 2. Realization of single form at a time. -->
-              Item sicut una certa cera non potest simul figurari diversis figuris,
-              igitur sic unus intellectus non potest simul actuari diversis
-              intellectionibus.
+              Item sicut una certa cera non potest simul figurari diversis
+              figuris, igitur sic unus intellectus non potest simul actuari
+              diversis intellectionibus.
             </p>
             <p xml:id="da-28-l3q32-y2ghd1">
               <!-- 3. One power, one act or use -->
               Item unius virtutis non debet esse simul nisi unus actus vel usus.
-              Haec est manifesta, sed intellectio est usus intellectus cum sit eius
-              opeartio, igitur etc.
+              Haec est manifesta, sed intellectio est usus intellectus cum sit
+              eius opeartio, igitur etc.
             </p>
             <p xml:id="da-28-l3q32-zprcwr">
               <!-- 4. Possible to know everything in memory or imagination -->
               Item si unus homo posset simul plura intelligere diversis
-              intellectionibus, tunc posset simul plura cogitare, et eadem ratione
-              posset simul cogitare omnia quarum specierum habet in sua memorativa
-              et in sua imgainativa. Non enim dicitur esse ratio quare posset simul
-              duo cogitare et non centum vel mille, quod est absurdum. Consequentia
-              patet quia intellectus numquam actu <pb ed="#V1" n="281"/><cb ed="#V1"
-              n="a"/> intelligit nisi homo cogitet aliquid actu ut patet ex prius
-              dictis.
+              intellectionibus, tunc posset simul plura cogitare, et eadem
+              ratione posset simul cogitare omnia quarum specierum habet in sua
+              memorativa et in sua imgainativa. Non enim dicitur esse ratio
+              quare posset simul duo cogitare et non centum vel mille, quod est
+              absurdum. Consequentia patet quia intellectus numquam actu <pb
+              ed="#V1" n="281"/><cb ed="#V1" n="a"/> intelligit nisi homo
+              cogitet aliquid actu ut patet ex prius dictis.
             </p>
             <p xml:id="da-28-l3q32-wx9ngl">
               <!-- 5. Diverse species not in the same subject -->
-              Item diversae species eiusdem generis non possunt esse simul in eodem
-              subiecto secundum idem sui; sed intellectiones diversarum rerum
-              secundum speciem sunt diversae species eiusdem generis, ut
+              Item diversae species eiusdem generis non possunt esse simul in
+              eodem subiecto secundum idem sui; sed intellectiones diversarum
+              rerum secundum speciem sunt diversae species eiusdem generis, ut
               paternitatis et filiationis, et sic de aliis quare etc.
             </p>
             <p xml:id="da-28-l3q32-4hlnkq">
               Hanc dicunt esse intentionem Aristotelis in auctoritatibus
-              praeallegatis. Sed mihi videtur quicquid sit de veritate quaestionis
-              quod ista argumenta non convincunt sufficienter propositum nec faciunt
-              aliis fidem bene considerantibus.
+              praeallegatis. Sed mihi videtur quicquid sit de veritate
+              quaestionis quod ista argumenta non convincunt sufficienter
+              propositum nec faciunt aliis fidem bene considerantibus.
             </p>
           </div>
           <div ana="#ad-rationes" type="number-all">
             <p xml:id="da-28-l3q32-3zhfgn" corresp="#da-28-l3q32-ksgqfc">
               <!-- Ad 1: Intellect is one but can be referred to multiple things
                    according to conformity. -->
-              Cum enim primo dicitur quod <mentioned>intellectus ad quidcumque se
-              convertit totatliter se convertit</mentioned>, potest dupliciter
-              intelligi. Uno modo quod ad quodcumque se convertit totaliter se
-              convertit, id est non convertit se secundum unam partem solum sine
-              alia, et hoc est verum, quia non habet partes. Alio modo quod
-              totaliter se convertit, id est sic ad aliquod unum quod non ad
-              reliquum, et hoc non est verum, nam quantumcumque sit indivisibilis
-              tamen potest referri ad multa secundum conformitatem quod est ipsum
-              converti. Si cum punctus in medio circuli licet sit unus et
-              indivisibilis secundum se tamen est terminus multarum linearum et ad
-              eas refertur.
+              Cum enim primo dicitur quod <mentioned>intellectus ad quidcumque
+              se convertit totaliter se convertit</mentioned>, potest
+              dupliciter intelligi. Uno modo quod ad quodcumque se convertit
+              totaliter se convertit, id est non convertit se secundum unam
+              partem solum sine alia, et hoc est verum, quia non habet partes.
+              Alio modo quod totaliter se convertit, id est sic ad aliquod unum
+              quod non ad reliquum, et hoc non est verum, nam quantumcumque sit
+              indivisibilis tamen potest referri ad multa secundum conformitatem
+              quod est ipsum converti. Si cum punctus in medio circuli licet sit
+              unus et indivisibilis secundum se tamen est terminus multarum
+              linearum et ad eas refertur.
             </p>
             <p xml:id="da-28-l3q32-d530zs" corresp="#da-28-l3q32-3mygb3">
               <!-- Ad 2: Wax is material, but intellect immaterial, so it can
                    [probably?] be subject of multiple forms. -->
-              Ad aliam dico quod non est simile de cera ad figuras et de intellectu
-              ad intellectiones, quia cera est quoddam corpus et figura est quaedam
-              qualitas corporalis et ad hoc ut eadem cera subiciatur diversis
-              figuris oportet quod eadem pars eius possit esse in diversis locis,
-              quod non potest simul contigere, ut patet de se. Et ideo una cera non
-              potest simul habere multas figuras et diversas, sed intellectus est
-              incorporeus et intellectio similiter, et ideo non est omnino simile.
-              In hoc tamen bene est simile, quia sicut cera recipit figuras et eis
-              subicitur, ita intellectus recipit intellectiones et est subiectum
-              earum.
+              Ad aliam dico quod non est simile de cera ad figuras et de
+              intellectu ad intellectiones, quia cera est quoddam corpus et
+              figura est quaedam qualitas corporalis et ad hoc ut eadem cera
+              subiciatur diversis figuris oportet quod eadem pars eius possit
+              esse in diversis locis, quod non potest simul contigere, ut patet
+              de se. Et ideo una cera non potest simul habere multas figuras et
+              diversas, sed intellectus est incorporeus et intellectio
+              similiter, et ideo non est omnino simile. In hoc tamen bene est
+              simile, quia sicut cera recipit figuras et eis subicitur, ita
+              intellectus recipit intellectiones et est subiectum earum.
             </p>
             <p xml:id="da-28-l3q32-d95vqg" corresp="#da-28-l3q32-y2ghd1">
               <!-- Ad 3: Does not go when we are talking about immaterial powers.
                    One power can stand in relation to multiple objects. -->
-              Ad aliud cum dicitur <mention>unius virtutis et cetera</mention>, ista
-              potest negari, et si intelligatur ab Aristoteles in De sensu et
-              sensato, dico quod ipse non accipit ea determinando sed solum
-              argumendo et dubitando, ut patet ibi. Vel dicatur quod unius virtutis
-              simul non est nisi unus usus respectu eiusdem, sed respectu diversorum
-              potest esse alius et alius, sicut videmus quod unius virtutis active
-              sunt effectus plures in diversis subiectis, ut una albedo facit
-              visionem in visu Socratis et in visu Platonis. Vel dicatur quod hoc
-              est verum de virtute cuius actus est motus corporalis vel cum motu
-              corporali, sed de virtute cuius actus est incorporeus et spiritualis
-              et abstractus non oportet, et sic est hic. Hoc tamen bene verum est
-              quod unius virtutis, quaecumque sit, illa simul non est nisi unus
-              actus respectu unius et eiusdem obiecti propinqui, sed respectu
-              diversorum potest esse alius et alius actus, et sic est hoc ut
-              manifestum est.
+              Ad aliud cum dicitur <mention>unius virtutis et cetera</mention>,
+              ista potest negari, et si intelligatur ab Aristoteles in De sensu
+              et sensato, dico quod ipse non accipit ea determinando sed solum
+              argumendo et dubitando, ut patet ibi. Vel dicatur quod unius
+              virtutis simul non est nisi unus usus respectu eiusdem, sed
+              respectu diversorum potest esse alius et alius, sicut videmus quod
+              unius virtutis active sunt effectus plures in diversis subiectis,
+              ut una albedo facit visionem in visu Socratis et in visu Platonis.
+              Vel dicatur quod hoc est verum de virtute cuius actus est motus
+              corporalis vel cum motu corporali, sed de virtute cuius actus est
+              incorporeus et spiritualis et abstractus non oportet, et sic est
+              hic. Hoc tamen bene verum est quod unius virtutis, quaecumque sit,
+              illa simul non est nisi unus actus respectu unius et eiusdem
+              obiecti propinqui, sed respectu diversorum potest esse alius et
+              alius actus, et sic est hoc ut manifestum est.
             </p>
             <p xml:id="da-28-l3q32-w7p5vh" corresp="#da-28-l3q32-zprcwr">
               <!-- Ad 4: Single person can think of multiple things simultaneously
@@ -328,52 +354,53 @@
                    Two species might be co-occurrent, but not necessarily more or
                    all.
               -->
-              Ad aliud conceditur quod unus homo <cb ed="#V1" n="b"/> potest simul
-              multa cogitare ut patet quantum ad experientiam. Et cum dicitur <mentioned>eadem
-              ratione posset simul cogitare omnia quarum habet species in
-              imaginativa et memorativa</mentioned>, dico quod non sequitur, quia
-              possibile est quod due species reservatae in imaginativa aut
-              memorativa sufficientuer praesententur virtuti cogitativae et non
-              aliae simul omnes. Et hoc est videre in simili in somno, quia quamvis
-              dormiens habeat species multarum rerum interius reservatas, tamen
-              contingit quod aliquae perveniunt ad virtutem eius cuius est somniare
-              et aliae non, et sic somniat de aliquibus rebus et de aliquibus non.
-              Et si quaeres causam quare offeruntur istae species et aliae non, dico
-              quod eadem quaestio est de una quare una offertur et non alia et est
-              quaerere quare hoc homo cogitat hoc individuum et non illud.
+              Ad aliud conceditur quod unus homo <cb ed="#V1" n="b"/> potest
+              simul multa cogitare ut patet quantum ad experientiam. Et cum
+              dicitur <mentioned>eadem ratione posset simul cogitare omnia
+              quarum habet species in imaginativa et memorativa</mentioned>,
+              dico quod non sequitur, quia possibile est quod duae species
+              reservatae in imaginativa aut memorativa sufficienter
+              praesententur virtuti cogitativae et non aliae simul omnes. Et hoc
+              est videre in simili in somno, quia quamvis dormiens habeat
+              species multarum rerum interius reservatas, tamen contingit quod
+              aliquae perveniunt ad virtutem eius cuius est somniare et aliae
+              non, et sic somniat de aliquibus rebus et de aliquibus non. Et si
+              quaeres causam quare offeruntur istae species et aliae non, dico
+              quod eadem quaestio est de una quare una offertur et non alia et
+              est quaerere quare hoc homo cogitat hoc individuum et non illud.
               <!-- Intellection of multiple objects simultaneously -->
               Sicut ergo possibile est sensui particulari duo sensibilia
-              sufficienter esse praesentia et ea sentire, et tamen non sequitur ex
-              hoc quod alia simul possint esse sufficienter prasensentia ipsi
+              sufficienter esse praesentia et ea sentire, et tamen non sequitur
+              ex hoc quod alia simul possint esse sufficienter prasentia ipsi
               sensui, ita non est remotum quod duae imaginationes possint
-              sufficienter offeri virtuti cogitativae et virtus cogitativa cogitabit
-              illa quorum species sunt. Et tamen non omnes species interius
-              reservatae simul possunt sufficienter praesentari ipsi cogitativae, et
-              sic non omnia cogitabit quia forte sensationes interius existentes non
-              praesentantur cogitativae ad cogitandum illas res nisi in quibusdam
-              corporibus subtilibus quae dicuntur spiritus animales, et non
-              sequeretur quod duo talia aut tria possunt esse sufficienter
-              praesentia cogitativae ut omnia possunt ei esse praesentia
-              sufficienter vel quod unum tale corpus possit esse sufficienter
-              praesens ad omnia idola praesentanda sufficienter ad movendum
-              cogitativam, sicut contingit in somniando quod spiritus habentes in se
-              species aliquarum rerum perveniunt actu ad sensum et aliae non
-              perveniunt.
+              sufficienter offeri virtuti cogitativae et virtus cogitativa
+              cogitabit illa quorum species sunt. Et tamen non omnes species
+              interius reservatae simul possunt sufficienter praesentari ipsi
+              cogitativae, et sic non omnia cogitabit quia forte sensationes
+              interius existentes non praesentantur cogitativae ad cogitandum
+              illas res nisi in quibusdam corporibus subtilibus quae dicuntur
+              spiritus animales, et non sequeretur quod duo talia aut tria
+              possunt esse sufficienter praesentia cogitativae ut omnia possunt
+              ei esse praesentia sufficienter vel quod unum tale corpus possit
+              esse sufficienter praesens ad omnia idola praesentanda
+              sufficienter ad movendum cogitativam, sicut contingit in somniando
+              quod spiritus habentes in se species aliquarum rerum perveniunt
+              actu ad sensum et aliae non perveniunt.
             </p>
             <p xml:id="da-28-l3q32-l6tnfw" corresp="#da-28-l3q32-wx9ngl">
               <!-- Ad 5: Diverse species can be in same subject, just take sciences
                    for example. -->
-              Ad aliud dicendum est quod per eandem rationem probaretur quod plures
-              scientiae non possunt simul esse in intellectu, quia non est dubium
-              quod diversae scientiae sunt species eiusdem generis, scilicet
-              scientiae. Et tamen hoc est falsum secundum multos illorum quae
-              faciunt hanc rationem. Unde solvant ipsi istam rationem pro quanto est
-              contra eos et solveretur faciliter pro quanto est contra aliam
-              positionem. Et forte dicendum quod illa propositio est vera de
-              habentibus contrarietatem et diversitatem adinvicem et non de aliis.
-              Multae autem intellectiones diversarum specierum non habent
-              contrarietatem adinvicem nisi secundum magis perfectum et minus
-              perfectum.
+              Ad aliud dicendum est quod per eandem rationem probaretur quod
+              plures scientiae non possunt simul esse in intellectu, quia non
+              est dubium quod diversae scientiae sunt species eiusdem generis,
+              scilicet scientiae. Et tamen hoc est falsum secundum multos
+              illorum quae faciunt hanc rationem. Unde solvant ipsi istam
+              rationem pro quanto est contra eos et solveretur faciliter pro
+              quanto est contra aliam positionem. Et forte dicendum quod illa
+              propositio est vera de habentibus contrarietatem et diversitatem
+              adinvicem et non de aliis. Multae autem intellectiones diversarum
+              specierum non habent contrarietatem adinvicem nisi secundum magis
+              perfectum et minus perfectum.
             </p>
           </div>
           <!-- Now comes responses to the rations principales that refer to
@@ -381,47 +408,51 @@
           <div ana="#ad-rationes">
             <div corresp="#da-28-l3q32-1sgect">
               <p xml:id="da-28-l3q32-xlo7eg">
-                Ad auctoritatem Aristotelis facile est solvere. Cum enim ipse dicit
-                quod scire contingit et cetera, dico quod hoc est sic intelligendum
-                quod ipsum scire proprie dictum cum sit cognitio conclusionis
-                demonstratae necessario requirit multa intelligi<pb ed="#V1"
-                n="282"/><cb ed="#V1" n="a"/>bilia, scilicet subiectum et praedicatum
-                demonstratum et principium demonstrationis. Sed intelligere secundum
-                quod intelligere est non necessario requirit multa intelligibilia.
-                Immo potest esse respectu unius intelligibilis solum et sic scire est
-                aliud ab intelligere, et hoc sufficit ad intentionem Philosophi.
+                Ad auctoritatem Aristotelis facile est solvere. Cum enim ipse
+                dicit quod scire contingit et cetera, dico quod hoc est sic
+                intelligendum quod ipsum scire proprie dictum cum sit cognitio
+                conclusionis demonstratae necessario requirit multa intelligi<pb
+                ed="#V1" n="282"/><cb ed="#V1" n="a"/>bilia, scilicet subiectum
+                et praedicatum demonstratum et principium demonstrationis. Sed
+                intelligere secundum quod intelligere est non necessario
+                requirit multa intelligibilia. Immo potest esse respectu unius
+                intelligibilis solum et sic scire est aliud ab intelligere, et
+                hoc sufficit ad intentionem Philosophi.
               </p>
               <p xml:id="da-28-l3q32-h77g73">
                 Ad alium auctoritatem quarto <title
-                ref="#Arist.Metaph">Metaphysicae</title> cum dicit quod <quote>qui unum non
-                intelligit nihil intelligit</quote>, sine dubio hoc est verum quod qui
-                non intelligit una intellectione nihil intelligit. Modo dico quod
-                quicumque intelligit simul plura intelligit unumquodque illorum et sic
-                intelligit quid unum solum non quidem unum solum cum praecisione
-                alterius, sed intelligit unum. Nec Aristoteles dicit qui unum solum
-                non intelligit nihil intelligit, sed sufficit ei quod quicumque
-                intelligit ille intelligit unum. Et similiter dico quid quid habet
-                simul plures intellectiones ipse habet unam intellectionem sed non
-                solum unam nec praecise, nec sequitur iste non habet unam solam
-                intellectionem. Ergo non habet unam intellectionem sicut non sequitur
-                iste non habet unum solum denarium, ergo non habet unum denarium. Vult
-                itaque Aristoteles ibi tantum habere quod non contingit simul
-                intelligere plura quia nullo modo intelligatur unum et una
-                intellectione immo quidcumque intelligit plura et pluribus
-                intellectionibus ipse intelligit unum et una intellectione et potest
-                quodcumque illorum secundm se sine alio intelligere, et ei potest
-                imponi nomen quod significabit illud unum, et haec est intentio
-                Aristotelis ibidem.
+                ref="#Arist.Metaph">Metaphysicae</title> cum dicit quod
+                <quote>qui unum non intelligit nihil intelligit</quote>, sine
+                dubio hoc est verum quod qui non intelligit una intellectione
+                nihil intelligit. Modo dico quod quicumque intelligit simul
+                plura intelligit unumquodque illorum et sic intelligit quid unum
+                solum non quidem unum solum cum praecisione alterius, sed
+                intelligit unum. Nec Aristoteles dicit qui unum solum non
+                intelligit nihil intelligit, sed sufficit ei quod quicumque
+                intelligit ille intelligit unum. Et similiter dico quid quid
+                habet simul plures intellectiones ipse habet unam intellectionem
+                sed non solum unam nec praecise, nec sequitur iste non habet
+                unam solam intellectionem. Ergo non habet unam intellectionem
+                sicut non sequitur iste non habet unum solum denarium, ergo non
+                habet unum denarium. Vult itaque Aristoteles ibi tantum habere
+                quod non contingit simul intelligere plura quia nullo modo
+                intelligatur unum et una intellectione immo quidcumque
+                intelligit plura et pluribus intellectionibus ipse intelligit
+                unum et una intellectione et potest quodcumque illorum secundum
+                se sine alio intelligere, et ei potest imponi nomen quod
+                significabit illud unum, et haec est intentio Aristotelis
+                ibidem.
               </p>
               <p xml:id="da-28-l3q32-hrh8bd">
-                Si quis ergo rixetur sic: <quote>Aristoteles dicit quod nihil contingit
-                intelligere non intelligentem unum, sed intelligere plura simul non
-                est intelligere unum, ergo et cetera</quote>, dico quod intelligere
-                plura non est unum solum, sed est intelligere unum cum alio. Est
-                itaque sententia Aristotelis quod omnis intellectus intelligit unum et
-                non contingit intelligere quando intelligatur unum, quia nihil
-                intelligit unum solum et sic intelligitur unum vel intelliguntur plura
-                et sic intelligitur unum cum alio et sic unum intelligitur.
+                Si quis ergo rixetur sic: <quote>Aristoteles dicit quod nihil
+                contingit intelligere non intelligentem unum, sed intelligere
+                plura simul non est intelligere unum, ergo et cetera</quote>,
+                dico quod intelligere plura non est unum solum, sed est
+                intelligere unum cum alio. Est itaque sententia Aristotelis quod
+                omnis intellectus intelligit unum et non contingit intelligere
+                quando intelligatur unum, quia nihil intelligit unum solum et
+                sic intelligitur unum vel intelliguntur plura et sic
+                intelligitur unum cum alio et sic unum intelligitur.
               </p>
             </div>
           </div>
@@ -429,48 +460,50 @@
         <div ana="#ad-rationes">
           <p xml:id="da-28-l3q32-5p1g8n" corresp="#da-28-l3q32-ed4yul">
             <!-- Ad first negative ratio -->
-            Non igitur potest contingere quod aliquis simul intelligat infinita et
-            nullo modo unum et similiter contingit de significare quia omne nomen
-            significat unum et habet unam significationem, vel quia habet unam
-            solam et sic habet unam, vel plures et sic etiam habet unam cum alia
-            et sic habet unam quare patet quod illa auctoritas non facit fidem
-            huius conclusionis nec aliquae rationum praedictarum.
+            Non igitur potest contingere quod aliquis simul intelligat infinita
+            et nullo modo unum et similiter contingit de significare quia omne
+            nomen significat unum et habet unam significationem, vel quia habet
+            unam solam et sic habet unam, vel plures et sic etiam habet unam cum
+            alia et sic habet unam quare patet quod illa auctoritas non facit
+            fidem huius conclusionis nec aliquae rationum praedictarum.
           </p>
           <div corresp="#da-28-l3q32-lll6b3">
             <p xml:id="da-28-l3q32-a8pt56">
               Propter quod alii dicunt aliter quod unus et idem homo bene potest
               simul in<cb ed="#V1" n="b"/>telligere aliquae diversa diversis
-              intellectionibus et sic cogitare diversis cogitationibus, et videtur
-              esse ratio fortis, quia intellectiones multae et diversae et
-              diversorum intelligibilium nullam habent oppositionem inter se, quia
-              non opponuntur contradictorie nec contrarie nec privative nec
-              relative. Et adhuc mirabile videtur quod visus cui obiicitur album et
-              nigrum non videat illa simul. Ponamus enim sicut possibile est quod
-              aliquis in aliquo toto tempore continue videat aliquod album sine
-              interruptione visionis et in aliqua parter illius temporis
+              intellectionibus et sic cogitare diversis cogitationibus, et
+              videtur esse ratio fortis, quia intellectiones multae et diversae
+              et diversorum intelligibilium nullam habent oppositionem inter se,
+              quia non opponuntur contradictorie nec contrarie nec privative nec
+              relative. Et adhuc mirabile videtur quod visus cui obiicitur album
+              et nigrum non videat illa simul. Ponamus enim sicut possibile est
+              quod aliquis in aliquo toto tempore continue videat aliquod album
+              sine interruptione visionis et in aliqua parter illius temporis
               approprinquetur visui suo aliquod nigrum aut rubeum et statim
               amoveatur manifestum est quod post illius ablationem sciet dicere
-              cuius coloris erat illud corpus et tamen non vidit ipsum nisi in parte
-              temporis in quo ponebatur videre album. Si igitur visus potest simul
-              videre diversa visibilia diversis visionibus quibus proprios colores,
-              quare non poteri intellectus simul intelligere diversa intelligibilia?
-              Ad hoc respondent aliqui quod non est simile, quia sensus est virtus
-              in organo corporali, et sic potest contingere quod visio unius
-              recipiatur in una parte organi et alia in alia parte sed intellectus
-              est incorporeus. Hoc autem non videtur sufficere, quia quantumcumque
-              visus est alius sensus sit in corpore, tamen nulla est ratio quare
-              duobus coloribus appropinquatis visui visio unius recipiatur in una
-              parte et alterius in altera cum virtus visiva sit ibi per totum, et
+              cuius coloris erat illud corpus et tamen non vidit ipsum nisi in
+              parte temporis in quo ponebatur videre album. Si igitur visus
+              potest simul videre diversa visibilia diversis visionibus quibus
+              proprios colores, quare non poteri intellectus simul intelligere
+              diversa intelligibilia? Ad hoc respondent aliqui quod non est
+              simile, quia sensus est virtus in organo corporali, et sic potest
+              contingere quod visio unius recipiatur in una parte organi et alia
+              in alia parte sed intellectus est incorporeus. Hoc autem non
+              videtur sufficere, quia quantumcumque visus est alius sensus sit
+              in corpore, tamen nulla est ratio quare duobus coloribus
+              appropinquatis visui visio unius recipiatur in una parte et
+              alterius in altera cum virtus visiva sit ibi per totum, et
               praecipue quia species duorum sensibilium ut puta duorum colorum
-              possunt simul sentiri in una parte medii et videtur esse manifestum ut
-              dicitur in perfectiva. Si igitur unus visus potest videre simul duo
-              visibilia quare intellectus qui est perfectior in cognoscendo non
-              posset simul intelligere diversa intelligibilia.
+              possunt simul sentiri in una parte medii et videtur esse
+              manifestum ut dicitur in perfectiva. Si igitur unus visus potest
+              videre simul duo visibilia quare intellectus qui est perfectior in
+              cognoscendo non posset simul intelligere diversa intelligibilia.
             </p>
             <p xml:id="da-28-l3q32-zdavqq">
-              Item si numerus non est aliud realiter quam unitates diversae, et sic
-              contingit aliquem numerum intelligi, <unclear>quomodo</unclear> non
-              erit possibile diversa simul intelligi?
+              Item si numerus non est aliud realiter quam unitates diversae, et
+              sic contingit aliquem numerum intelligi,
+              <unclear>quomodo</unclear> non erit possibile diversa simul
+              intelligi?
             </p>
           </div>
         </div>
