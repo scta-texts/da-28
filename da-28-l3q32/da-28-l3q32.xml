@@ -85,74 +85,76 @@
             potest simul plura intelligere. Patet consequentia quia vox non est
             maioris potentiae in significando quam intellectus in intelligendo.
           </p>
-          <div xml:id="da-28-l3q32-lll6b3">
-            <p xml:id="da-28-l3q32-2rd5ya">
-              Item, intellectus inteligit simul correlativa, ut patrem et filium
-              ut patet in
-              <cit>
-                <title ref="#Arist.Cat">Praedicamentis</title>: <quote>et ista
-                sunt diversa et plura quare et cetera.</quote>
-                <bibl>
-                  <name ref="#Aristotle">Arist.</name>
-                  <title ref="#Arist.Cat">Cat.</title>
-                  ???
-                </bibl>
-              </cit>
-            </p>
-            <p xml:id="da-28-l3q32-ramd0o">
-              Item, minor propositio demonstrationis intelligitur simul cum
-              conclusione secundum Aristotelem <title ref="#Arist.APo">Primo
-              posteriorum</title>: <quote>sed constat quod propositio minor est
-              aliquid aliud et diversum a conclusione quare et cetera.</quote>
-            </p>
-            <p xml:id="da-28-l3q32-u00ef5">
-              Item, Philosophus quarto <title
-              ref="#Arist.Metaph">Metaphysicae</title> dicit quod
-              <quote>intelligentem quemcumque neccesse est intelligere primum
-              principium complexum</quote>; sed constat quod primum principium
-              complexum est aliud ab aliis complexis, scilicet illud principium
-              non contingit simul idem esse et non esse quare et cetera.
-            </p>
-            <p xml:id="da-28-l3q32-ousgik">
-              Item, sicut se habet sensus ad sensibilia ita intellectus ad
-              intelligibilia per convenientem similitudinem; sed sensus potest
-              sentire diversa et plura sensibilia, ut sensus visus simul videt
-              albedinem pergamenti et nigredinem litterae, ut patet per
-              experientiam, quare et cetera.
-            </p>
-            <p xml:id="da-28-l3q32-d1f07h">
-              Item, virtus qua cognoscit differentiam inter aliquae cognoscit
-              unum quodque illorum simul, ut patet secundo
-              <cit>
-                <ref>huius capitulo de sensu
-                communi</ref>
-                <bibl>
-                  <name ref="#Aristotle">Arist.</name>
-                  <title ref="#Arist.DA">DA</title>
-                  III.2, 426b8-16.
-                </bibl>
-              </cit>
-              ; sed intellectus cognoscit differentiam inter aliquae plura et
-              diversa sub propriis rationibus eorum. Minor patet per
-              experientiam, quia quilibet experitur se intelligere differentiam
-              inter albedinem ut albedo est et nigredinem ut nigredo est, quia
-              non cognoscit differentiam inter albedinem et nigredinem sub
-              ratione communi ut sub ratione coloris aut alicuius huiusmodi,
-              quia secundum talem rationem non <pb ed="#V1" n="280"/><cb
-              ed="#V1" n="a"/> differunt immo in ea conveniunt. Et confirmatur
-              quia sub illis rationibus intellectus intelligit aliquia sub
-              quibus rationibus et formis cognoscit differentiam inter illa, sed
-              intellectus simul intelligit differentiam inter albedinem et
-              nigredinem sub propriis rationibus earum. In eodem enim instanti
-              cognoscit intellectus differentiam albedinis ut albedo est a
-              nigredine ut nigrdo est, simul et in aliis.
-            </p>
-            <p xml:id="da-28-l3q32-wdgm4k">
-              Item, intellectus potest simul inteligere materiam et formam, quia
-              aliter non intelligeret compositum a materia et forma, et constat
-              quod materia et forma sunt diversae naturae.
-            </p>
-          </div>
+          <p xml:id="da-28-l3q32-2rd5ya">
+            Item, intellectus inteligit simul correlativa, ut patrem et filium
+            ut patet in
+            <cit>
+              <ref>
+                <title ref="#Arist.Cat">Praedicamentis</title>:
+              </ref>
+              <quote>
+                et ista sunt diversa et plura quare et cetera.
+              </quote>
+              <bibl>
+                <name ref="#Aristotle">Arist.</name>
+                <title ref="#Arist.Cat">Cat.</title>
+                ???
+              </bibl>
+            </cit>
+          </p>
+          <p xml:id="da-28-l3q32-ramd0o">
+            Item, minor propositio demonstrationis intelligitur simul cum
+            conclusione secundum Aristotelem <title ref="#Arist.APo">Primo
+            posteriorum</title>: <quote>sed constat quod propositio minor est
+            aliquid aliud et diversum a conclusione quare et cetera.</quote>
+          </p>
+          <p xml:id="da-28-l3q32-u00ef5">
+            Item, Philosophus quarto <title
+            ref="#Arist.Metaph">Metaphysicae</title> dicit quod
+            <quote>intelligentem quemcumque neccesse est intelligere primum
+            principium complexum</quote>; sed constat quod primum principium
+            complexum est aliud ab aliis complexis, scilicet illud principium
+            non contingit simul idem esse et non esse quare et cetera.
+          </p>
+          <p xml:id="da-28-l3q32-ousgik">
+            Item, sicut se habet sensus ad sensibilia ita intellectus ad
+            intelligibilia per convenientem similitudinem; sed sensus potest
+            sentire diversa et plura sensibilia, ut sensus visus simul videt
+            albedinem pergamenti et nigredinem litterae, ut patet per
+            experientiam, quare et cetera.
+          </p>
+          <p xml:id="da-28-l3q32-d1f07h">
+            Item, virtus qua cognoscit differentiam inter aliquae cognoscit
+            unum quodque illorum simul, ut patet secundo
+            <cit>
+              <ref>huius capitulo de sensu
+              communi</ref>
+              <bibl>
+                <name ref="#Aristotle">Arist.</name>
+                <title ref="#Arist.DA">DA</title>
+                III.2, 426b8-16.
+              </bibl>
+            </cit>
+            ; sed intellectus cognoscit differentiam inter aliquae plura et
+            diversa sub propriis rationibus eorum. Minor patet per
+            experientiam, quia quilibet experitur se intelligere differentiam
+            inter albedinem ut albedo est et nigredinem ut nigredo est, quia
+            non cognoscit differentiam inter albedinem et nigredinem sub
+            ratione communi ut sub ratione coloris aut alicuius huiusmodi,
+            quia secundum talem rationem non <pb ed="#V1" n="280"/><cb
+            ed="#V1" n="a"/> differunt immo in ea conveniunt. Et confirmatur
+            quia sub illis rationibus intellectus intelligit aliquia sub
+            quibus rationibus et formis cognoscit differentiam inter illa, sed
+            intellectus simul intelligit differentiam inter albedinem et
+            nigredinem sub propriis rationibus earum. In eodem enim instanti
+            cognoscit intellectus differentiam albedinis ut albedo est a
+            nigredine ut nigrdo est, simul et in aliis.
+          </p>
+          <p xml:id="da-28-l3q32-wdgm4k">
+            Item, intellectus potest simul inteligere materiam et formam, quia
+            aliter non intelligeret compositum a materia et forma, et constat
+            quod materia et forma sunt diversae naturae.
+          </p>
         </div>
         <div ana="#rationes-principales">
           <p xml:id="da-28-l3q32-1sgect">
